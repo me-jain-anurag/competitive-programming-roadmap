@@ -1,0 +1,13 @@
+# Python scripts
+scripts/
+__pycache__/
+
+# LaTeX / PDF generated files
+*.tex
+*.pdf
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
