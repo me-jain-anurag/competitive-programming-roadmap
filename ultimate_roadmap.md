@@ -1,4 +1,16 @@
-# 🏆 The Ultimate Competitive Programming Roadmap
+# The Ultimate Competitive Programming Roadmap
+
+```text
+   ____ ____    ____                 _                 
+  / ___|  _ \  |  _ \ ___  __ _  __| |_ __ ___   __ _ _ __  
+ | |   | |_) | | |_) / _ \/ _` |/ _` | '_ ` _ \ / _` | '_ \ 
+ | |___|  __/  |  _ < (_) | (_| | (_| | | | | | | (_| | |_) |
+  \____|_|     |_| \_\___/ \__,_|\__,_|_| |_| |_|\__,_| .__/ 
+                                                      |_|    
+```
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
+[![Problems](https://img.shields.io/badge/Problems-~730-orange.svg)]()
 
 > A comprehensive, progressive guide from **Newbie** to **Legendary Grandmaster**.
 > Complete with patterns, classical questions, priority rankings, and **~730 practice problems**
@@ -10,11 +22,11 @@
 
 | Symbol | Meaning |
 |--------|---------|
-| 🔴 **P1** | **Highest Priority** — Master this before moving on. |
-| 🟠 **P2** | **High Priority** — Core topic, do after P1. |
-| 🟡 **P3** | **Medium Priority** — Important but can be revisited. |
-| 🟢 **P4** | **Lower Priority** — Niche or supplementary. |
-| ⭐ | Especially classic / frequently tested problem. |
+| **[P1]** | **Highest Priority** — Master this before moving on. |
+| **[P2]** | **High Priority** — Core topic, do after P1. |
+| **[P3]** | **Medium Priority** — Important but can be revisited. |
+| **[P4]** | **Lower Priority** — Niche or supplementary. |
+| ★ | Especially classic / frequently tested problem. |
 
 **Rule**: Problems in each section only require knowledge of topics from the current tier and all previous tiers.
 
