@@ -23,6 +23,13 @@ Or, you can tackle it in focused, tier-by-tier chunks:
 
 ---
 
+## 🤝 Contributing
+
+We welcome community contributions! If you spot a broken link, a problem that now requires a premium subscription, or want to suggest a better pedagogical example:
+👉 **[Read our Contribution Guidelines](CONTRIBUTING.md)** to learn how to open an issue or submit a Pull Request.
+
+---
+
 ## ⚖️ Disclaimer
 
 > **Note**: The problem lists, categorizations, and notes within this roadmap were compiled, restructured, and verified with the heavy assistance of Artificial Intelligence. While best efforts were made through rigorous automated and manual audits to ensure pedagogical quality, accurate links, and correct difficulty progression, **I assume no responsibility or liability for any inaccuracies, broken links, or miscategorized problems.** The contents are provided "as is", and you should proceed through the roadmap at your own discretion.
