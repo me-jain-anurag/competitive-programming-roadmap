@@ -4,6 +4,20 @@ Welcome to the **Ultimate Competitive Programming Roadmap**! This repository con
 
 It features **~730 curated practice problems** cross-referenced from top-tier platforms like Codeforces, CSES, LeetCode, SPOJ, USACO, AtCoder, and IOI/ICPC. 
 
+## 💡 Motivation
+
+The only true way to get better at competitive programming is to practice. But too often, we spend a lot of time either practicing things that don't match our current skill level, or just trying to figure out *what* to practice in the first place. 
+
+One of the best ways to learn new concepts is to simply encounter them naturally in a contest, and then read up on them afterward. But this implies that you have to take part in *a lot* of contests, and you never really know what level the problems will be—you might not even be equipped to understand the solution at that moment! 
+
+That’s why I wanted to create a structured, progressive list for improving your problem-solving skills. 
+
+Obviously, this list isn't completely comprehensive and you still need to participate in as many real contests as you can to improve. Just solving your way through a list won't magically make you good. **The most important thing is to THINK and REASON.** 
+
+Competitive programming shouldn't feel like an endless grind. Enjoy it the same way you would any sport! 🚀
+
+---
+
 ## 🗺️ How to Navigate
 
 You can view the entire roadmap in one massive, consolidated document:
