@@ -65,7 +65,7 @@ At this tier you are building the absolute foundations of competitive programmin
 
 ---
 
-## 1.1 Basic I/O, Data Types & Control Flow 🔴 P1
+## 1.1 Basic I/O, Data Types & Control Flow [P1]
 
 **Topics**: Fast I/O (`scanf/printf` or `ios::sync_with_stdio`), integer overflow awareness (`int` vs `long long`), loops, conditionals, basic type casting.
 
@@ -78,13 +78,13 @@ At this tier you are building the absolute foundations of competitive programmin
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Watermelon](https://codeforces.com/problemset/problem/4/A) | CF 4A | Parity check |
+| 1 | ★ [Watermelon](https://codeforces.com/problemset/problem/4/A) | CF 4A | Parity check |
 | 2 | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | CF 71A | String basics |
 | 3 | [Team](https://codeforces.com/problemset/problem/231/A) | CF 231A | Simple counting |
 | 4 | [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | CF 236A | Set / distinct chars |
 | 5 | [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | CF 977A | Simulation loop |
 | 6 | [Stones on the Table](https://codeforces.com/problemset/problem/266/A) | CF 266A | Adjacent comparison |
-| 7 | ⭐ [Weird Algorithm](https://cses.fi/problemset/task/1068) | CSES 1068 | Simulation / overflow |
+| 7 | ★ [Weird Algorithm](https://cses.fi/problemset/task/1068) | CSES 1068 | Simulation / overflow |
 | 8 | [Missing Number](https://cses.fi/problemset/task/1083) | CSES 1083 | Sum formula |
 | 9 | [Two Sum](https://leetcode.com/problems/two-sum/) | LC 1 | Hash map intro |
 | 10 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | LC 412 | Control flow |
@@ -95,7 +95,7 @@ At this tier you are building the absolute foundations of competitive programmin
 
 ---
 
-## 1.2 Simple Math & Number Properties 🔴 P1
+## 1.2 Simple Math & Number Properties [P1]
 
 **Topics**: Divisibility, modular arithmetic basics, parity (odd/even), floor/ceil division, absolute value, basic formulas (sum of 1..N, area, etc.).
 
@@ -108,12 +108,12 @@ At this tier you are building the absolute foundations of competitive programmin
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Domino Piling](https://codeforces.com/problemset/problem/50/A) | CF 50A | floor(m*n/2) |
+| 1 | ★ [Domino Piling](https://codeforces.com/problemset/problem/50/A) | CF 50A | floor(m*n/2) |
 | 2 | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | CF 263A | Manhattan distance |
 | 3 | [Even Odds](https://codeforces.com/problemset/problem/318/A) | CF 318A | Parity + formula |
 | 4 | [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | CF 339A | Parsing + sorting |
 | 5 | [Number Spiral](https://cses.fi/problemset/task/1071) | CSES 1071 | Math / observation |
-| 6 | ⭐ [Two Knights](https://cses.fi/problemset/task/1072) | CSES 1072 | Counting / inclusion |
+| 6 | ★ [Two Knights](https://cses.fi/problemset/task/1072) | CSES 1072 | Counting / inclusion |
 | 7 | [Repetitions](https://cses.fi/problemset/task/1069) | CSES 1069 | Max consecutive |
 | 8 | [Power of Two](https://leetcode.com/problems/power-of-two/) | LC 231 | Bit trick |
 | 9 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | LC 171 | Base conversion |
@@ -126,7 +126,7 @@ At this tier you are building the absolute foundations of competitive programmin
 
 ---
 
-## 1.3 Basic Strings & Character Manipulation 🔴 P1
+## 1.3 Basic Strings & Character Manipulation [P1]
 
 **Topics**: String traversal, character comparison, ASCII values, substring extraction, string reversal, frequency counting with arrays.
 
@@ -139,7 +139,7 @@ At this tier you are building the absolute foundations of competitive programmin
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Bit++](https://codeforces.com/problemset/problem/282/A) | CF 282A | String parsing |
+| 1 | ★ [Bit++](https://codeforces.com/problemset/problem/282/A) | CF 282A | String parsing |
 | 2 | [Word](https://codeforces.com/problemset/problem/59/A) | CF 59A | Case counting |
 | 3 | [String Task](https://codeforces.com/problemset/problem/118/A) | CF 118A | Char filtering |
 | 4 | [Petya and Strings](https://codeforces.com/problemset/problem/112/A) | CF 112A | Lexicographic compare |
@@ -155,7 +155,7 @@ At this tier you are building the absolute foundations of competitive programmin
 
 ---
 
-## 1.4 Arrays, Sorting & Simple Searching 🟠 P2
+## 1.4 Arrays, Sorting & Simple Searching [P2]
 
 **Topics**: Array traversal, finding min/max, counting occurrences, built-in sort, custom comparators (conceptual), linear search, basic set usage.
 
@@ -168,7 +168,7 @@ At this tier you are building the absolute foundations of competitive programmin
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Distinct Numbers](https://cses.fi/problemset/task/1621) | CSES 1621 | Sort or set |
+| 1 | ★ [Distinct Numbers](https://cses.fi/problemset/task/1621) | CSES 1621 | Sort or set |
 | 2 | [Seats](https://codeforces.com/problemset/problem/6/A) | CF 6A | Triangle inequality |
 | 3 | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | CF 791A | Simple simulation |
 | 4 | [Elephant](https://codeforces.com/problemset/problem/617/A) | CF 617A | Ceil division |
@@ -186,7 +186,7 @@ At this tier you are building the absolute foundations of competitive programmin
 
 ---
 
-## 1.5 Simulation & Ad-Hoc 🟠 P2
+## 1.5 Simulation & Ad-Hoc [P2]
 
 **Topics**: Following problem statements exactly, game simulation, cycle detection in simulation, state tracking, matrix/grid traversal.
 
@@ -199,10 +199,10 @@ At this tier you are building the absolute foundations of competitive programmin
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Buy a Shovel](https://codeforces.com/problemset/problem/732/A) | CF 732A | Modular cycle |
+| 1 | ★ [Buy a Shovel](https://codeforces.com/problemset/problem/732/A) | CF 732A | Modular cycle |
 | 2 | [Die Roll](https://codeforces.com/problemset/problem/9/A) | CF 9A | Probability / counting |
 | 3 | [Anton and Danik](https://codeforces.com/problemset/problem/734/A) | CF 734A | Counting wins |
-| 4 | ⭐ [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | LC 54 | Grid simulation |
+| 4 | ★ [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | LC 54 | Grid simulation |
 | 5 | [Game of Life](https://leetcode.com/problems/game-of-life/) | LC 289 | Grid simulation |
 | 6 | [Simulate Robot](https://leetcode.com/problems/robot-return-to-origin/) | LC 657 | Direction tracking |
 | 7 | [Shell Game](https://usaco.org/index.php?page=viewproblem2&cpid=891) | USACO Bronze | Simulation |
@@ -217,7 +217,7 @@ At this tier you are building the absolute foundations of competitive programmin
 
 ---
 
-## 1.6 Intro to Greedy Thinking 🟡 P3
+## 1.6 Intro to Greedy Thinking [P3]
 
 **Topics**: Making locally optimal choices, coin change with greedy (when valid), activity selection intuition, always pick the best available option.
 
@@ -230,11 +230,11 @@ At this tier you are building the absolute foundations of competitive programmin
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Young Physicist](https://codeforces.com/problemset/problem/69/A) | CF 69A | Vector sum = 0 |
+| 1 | ★ [Young Physicist](https://codeforces.com/problemset/problem/69/A) | CF 69A | Vector sum = 0 |
 | 2 | [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | CF 110A | Counting digits |
 | 3 | [Insomnia cure](https://codeforces.com/problemset/problem/148/A) | CF 148A | Inclusion-exclusion lite |
 | 4 | [Drinks](https://codeforces.com/problemset/problem/200/A) | CF 200A | Average |
-| 5 | ⭐ [Apartments](https://cses.fi/problemset/task/1084) | CSES 1084 | Greedy / two pointer |
+| 5 | ★ [Apartments](https://cses.fi/problemset/task/1084) | CSES 1084 | Greedy / two pointer |
 | 6 | [Lemonade Stand](https://leetcode.com/problems/lemonade-change/) | LC 860 | Greedy change-making |
 | 7 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | LC 455 | Sort + greedy |
 | 8 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | LC 121 | Running min |
@@ -245,7 +245,7 @@ At this tier you are building the absolute foundations of competitive programmin
 
 ---
 
-## 1.7 Basic Recursion 🟡 P3
+## 1.7 Basic Recursion [P3]
 
 **Topics**: Understanding the call stack, base cases, recursive thinking (break a problem into smaller identical sub-problems), simple recursive implementations.
 
@@ -258,17 +258,17 @@ At this tier you are building the absolute foundations of competitive programmin
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Power of Three](https://leetcode.com/problems/power-of-three/) | LC 326 | Recursive check |
+| 1 | ★ [Power of Three](https://leetcode.com/problems/power-of-three/) | LC 326 | Recursive check |
 | 2 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | LC 70 | Fib recursion → DP |
 | 3 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | LC 509 | Classic recursion |
 | 4 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | LC 50 | Fast power recursion |
 | 5 | [Recursive Digit Sum](https://leetcode.com/problems/add-digits/) | LC 258 | Digital root |
-| 6 | ⭐ [Tower of Hanoi](https://cses.fi/problemset/task/2165) | CSES 2165 | Classic recursion |
+| 6 | ★ [Tower of Hanoi](https://cses.fi/problemset/task/2165) | CSES 2165 | Classic recursion |
 | 8 | [Apple Division](https://cses.fi/problemset/task/1623) | CSES 1623 | Brute force via recursion |
 
 ---
 
-## 1.8 Parity, Invariants & Pigeonhole 🟢 P4
+## 1.8 Parity, Invariants & Pigeonhole [P4]
 
 **Topics**: Using parity (odd/even) arguments to prove impossibility, identifying quantities that never change under allowed operations, Pigeonhole principle for existence proofs.
 
@@ -281,7 +281,7 @@ At this tier you are building the absolute foundations of competitive programmin
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Watermelon](https://codeforces.com/problemset/problem/4/A) | CF 4A | Parity |
+| 1 | ★ [Watermelon](https://codeforces.com/problemset/problem/4/A) | CF 4A | Parity |
 | 2 | [Is it a Cube?](https://codeforces.com/problemset/problem/1619/A) | CF 1619A | Perfect cube check |
 | 3 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | LC 36 | State tracking / invariant |
 | 4 | [Sum of Round Numbers](https://codeforces.com/problemset/problem/1352/A) | CF 1352A | Decomposition |
@@ -296,14 +296,14 @@ At this tier you are building the absolute foundations of competitive programmin
 
 | Priority | Topics Covered |
 |----------|---------------|
-| 🔴 P1 | I/O & Data Types, Simple Math, Basic Strings |
-| 🟠 P2 | Arrays & Sorting, Simulation & Ad-Hoc |
-| 🟡 P3 | Intro to Greedy, Basic Recursion |
-| 🟢 P4 | Parity, Invariants & Pigeonhole |
+| [P1] | I/O & Data Types, Simple Math, Basic Strings |
+| [P2] | Arrays & Sorting, Simulation & Ad-Hoc |
+| [P3] | Intro to Greedy, Basic Recursion |
+| [P4] | Parity, Invariants & Pigeonhole |
 
 **Total problems in Tier 1: ~99**
 
-> ✅ **Checkpoint**: Before moving to Tier 2, you should be able to solve most CF Div.2 A problems (800-rated) within 10–15 minutes.
+> [Checkpoint] **Checkpoint**: Before moving to Tier 2, you should be able to solve most CF Div.2 A problems (800-rated) within 10–15 minutes.
 
 # Tier 2: Pupil (CF Rating 1200 – 1399)
 
@@ -313,7 +313,7 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 ---
 
-## 2.1 Prefix Sums & Difference Arrays 🔴 P1
+## 2.1 Prefix Sums & Difference Arrays [P1]
 
 **Topics**: 1D prefix sums for O(1) range sum queries, 2D prefix sums for submatrix sums, difference arrays for O(1) range updates (bulk add).
 
@@ -326,11 +326,11 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Static Range Sum Queries](https://cses.fi/problemset/task/1646) | CSES 1646 | 1D prefix sum template |
-| 2 | ⭐ [Forest Queries](https://cses.fi/problemset/task/1652) | CSES 1652 | 2D prefix sums |
+| 1 | ★ [Static Range Sum Queries](https://cses.fi/problemset/task/1646) | CSES 1646 | 1D prefix sum template |
+| 2 | ★ [Forest Queries](https://cses.fi/problemset/task/1652) | CSES 1652 | 2D prefix sums |
 | 3 | [Kuriyama Mirai's Stones](https://codeforces.com/problemset/problem/433/B) | CF 433B | Prefix sum + sorting |
 | 4 | [Karen and Coffee](https://codeforces.com/problemset/problem/816/B) | CF 816B | Difference array |
-| 5 | ⭐ [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/) | LC 1109 | Difference array |
+| 5 | ★ [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/) | LC 1109 | Difference array |
 | 6 | [Range Sum Query 2D](https://leetcode.com/problems/range-sum-query-2d-immutable/) | LC 304 | 2D prefix sums |
 | 7 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | LC 560 | Prefix sum + hash map |
 | 8 | [Little Girl and Maximum Sum](https://codeforces.com/problemset/problem/276/C) | CF 276C | Difference array |
@@ -341,7 +341,7 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 ---
 
-## 2.2 Two Pointers & Sliding Window 🔴 P1
+## 2.2 Two Pointers & Sliding Window [P1]
 
 **Topics**: Two pointers (same direction, opposite direction), fixed-size sliding window, variable-size sliding window (shrink when condition violated).
 
@@ -354,8 +354,8 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Books](https://codeforces.com/problemset/problem/279/B) | CF 279B | Sliding window |
-| 2 | ⭐ [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | LC 11 | Opposite pointers |
+| 1 | ★ [Books](https://codeforces.com/problemset/problem/279/B) | CF 279B | Sliding window |
+| 2 | ★ [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | LC 11 | Opposite pointers |
 | 3 | [Longest Substring Without Repeating](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LC 3 | Variable sliding window |
 | 4 | [3Sum](https://leetcode.com/problems/3sum/) | LC 15 | Sort + two pointers |
 | 5 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | LC 128 | Hash set + expansion |
@@ -370,7 +370,7 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 ---
 
-## 2.3 Stacks & Queues 🔴 P1
+## 2.3 Stacks & Queues [P1]
 
 **Topics**: Stack (LIFO), Queue (FIFO), monotonic stack (next greater/smaller element), matching brackets, expression evaluation.
 
@@ -383,14 +383,14 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | LC 20 | Stack template |
-| 2 | ⭐ [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | LC 496 | Monotonic stack |
+| 1 | ★ [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | LC 20 | Stack template |
+| 2 | ★ [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | LC 496 | Monotonic stack |
 | 3 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | LC 739 | Monotonic stack |
 | 4 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | LC 84 | Monotonic stack |
 | 5 | [Min Stack](https://leetcode.com/problems/min-stack/) | LC 155 | Stack with min tracking |
 | 6 | [Stock Span Problem](https://leetcode.com/problems/online-stock-span/) | LC 901 | Monotonic stack |
 | 7 | [Nearest Smaller Values](https://cses.fi/problemset/task/1645) | CSES 1645 | Monotonic stack |
-| 8 | ⭐ [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | LC 42 | Monotonic stack / two-pass |
+| 8 | ★ [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | LC 42 | Monotonic stack / two-pass |
 | 9 | [Odd Stack](https://www.spoj.com/problems/STPAR/) | SPOJ STPAR | Stack simulation |
 | 10 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | LC 150 | Stack evaluation |
 | 11 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | LC 232 | Classical DS |
@@ -398,7 +398,7 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 ---
 
-## 2.4 Hash Maps & Frequency Counting 🟠 P2
+## 2.4 Hash Maps & Frequency Counting [P2]
 
 **Topics**: Hash maps for O(1) lookup, frequency counting, coordinate compression, detecting duplicates, grouping anagrams.
 
@@ -411,7 +411,7 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Two Sum](https://leetcode.com/problems/two-sum/) | LC 1 | Hash map classic |
+| 1 | ★ [Two Sum](https://leetcode.com/problems/two-sum/) | LC 1 | Hash map classic |
 | 2 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | LC 49 | Hash map + sorting |
 | 3 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | LC 347 | Freq map + sort/bucket |
 | 4 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | LC 350 | Freq map |
@@ -421,11 +421,11 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 | 8 | [Concert Tickets](https://cses.fi/problemset/task/1091) | CSES 1091 | Multiset operations |
 | 9 | [Lucky Numbers](https://codeforces.com/problemset/problem/630/C) | CF 630C | Counting |
 | 10 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | LC 771 | Hash set |
-| 11 | ⭐ [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | LC 128 | Hash set O(n) |
+| 11 | ★ [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | LC 128 | Hash set O(n) |
 
 ---
 
-## 2.5 Basic Binary Search 🟠 P2
+## 2.5 Basic Binary Search [P2]
 
 **Topics**: Binary search on sorted arrays, `lower_bound`/`upper_bound`, finding first/last occurrence, counting elements in a range.
 
@@ -439,8 +439,8 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Binary Search](https://leetcode.com/problems/binary-search/) | LC 704 | Template |
-| 2 | ⭐ [First and Last Position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | LC 34 | lower/upper bound |
+| 1 | ★ [Binary Search](https://leetcode.com/problems/binary-search/) | LC 704 | Template |
+| 2 | ★ [First and Last Position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | LC 34 | lower/upper bound |
 | 3 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | LC 35 | Lower bound |
 | 4 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | LC 74 | Flatten + BS |
 | 5 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | LC 69 | BS on answer intro |
@@ -452,7 +452,7 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 ---
 
-## 2.6 Basic Number Theory 🟡 P3
+## 2.6 Basic Number Theory [P3]
 
 **Topics**: Sieve of Eratosthenes, GCD (Euclidean algorithm), LCM, fast exponentiation (binary exponentiation), modular arithmetic, prime factorization.
 
@@ -466,8 +466,8 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Exponentiation](https://cses.fi/problemset/task/1095) | CSES 1095 | Binary exponentiation |
-| 2 | ⭐ [Counting Divisors](https://cses.fi/problemset/task/1713) | CSES 1713 | Sieve variant |
+| 1 | ★ [Exponentiation](https://cses.fi/problemset/task/1095) | CSES 1095 | Binary exponentiation |
+| 2 | ★ [Counting Divisors](https://cses.fi/problemset/task/1713) | CSES 1713 | Sieve variant |
 | 3 | [Count Primes](https://leetcode.com/problems/count-primes/) | LC 204 | Sieve |
 | 4 | [Common Divisors](https://cses.fi/problemset/task/1081) | CSES 1081 | GCD / factor counting |
 | 5 | [GCD of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | LC 1979 | GCD basics |
@@ -481,7 +481,7 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 ---
 
-## 2.7 Brute Force & Complete Search 🟡 P3
+## 2.7 Brute Force & Complete Search [P3]
 
 **Topics**: Exhaustive enumeration, generating all possibilities (nested loops, bitmasks for small N), brute force with pruning.
 
@@ -494,11 +494,11 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Subsets](https://leetcode.com/problems/subsets/) | LC 78 | Bitmask / backtracking |
+| 1 | ★ [Subsets](https://leetcode.com/problems/subsets/) | LC 78 | Bitmask / backtracking |
 | 2 | [Permutations](https://leetcode.com/problems/permutations/) | LC 46 | Backtracking |
 | 3 | [Letter Combinations of Phone](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | LC 17 | Enumerate combos |
-| 4 | ⭐ [Creating Strings](https://cses.fi/problemset/task/1622) | CSES 1622 | Generate permutations |
-| 5 | ⭐ [Apple Division](https://cses.fi/problemset/task/1623) | CSES 1623 | 2^N subsets |
+| 4 | ★ [Creating Strings](https://cses.fi/problemset/task/1622) | CSES 1622 | Generate permutations |
+| 5 | ★ [Apple Division](https://cses.fi/problemset/task/1623) | CSES 1623 | 2^N subsets |
 | 6 | [Chessboard and Queens](https://cses.fi/problemset/task/1624) | CSES 1624 | N-Queens variant |
 | 7 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | LC 39 | Backtracking |
 | 8 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | LC 22 | Backtracking |
@@ -506,11 +506,11 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 | 10 | [N-Queens](https://leetcode.com/problems/n-queens/) | LC 51 | Classic backtracking |
 | 11 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | LC 37 | Backtracking + prune |
 | 12 | [Grid Paths](https://cses.fi/problemset/task/1625) | CSES 1625 | Pruned brute force |
-| 13 | ⭐ [Two Buttons](https://codeforces.com/problemset/problem/520/B) | CF 520B | BFS / reverse search |
+| 13 | ★ [Two Buttons](https://codeforces.com/problemset/problem/520/B) | CF 520B | BFS / reverse search |
 
 ---
 
-## 2.8 Intro to Complexity & Strategy 🟢 P4
+## 2.8 Intro to Complexity & Strategy [P4]
 
 **Topics**: Big-O notation intuition, reading constraints to pick algorithms, estimating runtime (10^8 operations ≈ 1 second), amortized analysis intro.
 
@@ -540,14 +540,14 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 | Priority | Topics Covered |
 |----------|---------------|
-| 🔴 P1 | Prefix Sums & Difference Arrays, Two Pointers & Sliding Window, Stacks & Queues |
-| 🟠 P2 | Hash Maps & Frequency Counting, Basic Binary Search |
-| 🟡 P3 | Basic Number Theory, Brute Force & Complete Search |
-| 🟢 P4 | Complexity Analysis & Strategy |
+| [P1] | Prefix Sums & Difference Arrays, Two Pointers & Sliding Window, Stacks & Queues |
+| [P2] | Hash Maps & Frequency Counting, Basic Binary Search |
+| [P3] | Basic Number Theory, Brute Force & Complete Search |
+| [P4] | Complexity Analysis & Strategy |
 
 **Total problems in Tier 2: ~101**
 
-> ✅ **Checkpoint**: You should be able to solve CF Div.2 B problems (1100–1200 rated) within 20 minutes. You know prefix sums, two pointers, and basic binary search cold.
+> [Checkpoint] **Checkpoint**: You should be able to solve CF Div.2 B problems (1100–1200 rated) within 20 minutes. You know prefix sums, two pointers, and basic binary search cold.
 
 # Tier 3: Specialist (CF Rating 1400 – 1599)
 
@@ -557,7 +557,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 ---
 
-## 3.1 Binary Search on Answer & Parametric Search 🔴 P1
+## 3.1 Binary Search on Answer & Parametric Search [P1]
 
 **Topics**: Binary searching on the answer value instead of an index, "minimize the maximum" / "maximize the minimum" patterns, continuous binary search, ternary search on unimodal functions.
 
@@ -570,9 +570,9 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Factory Machines](https://cses.fi/problemset/task/1620) | CSES 1620 | BS on answer template |
-| 2 | ⭐ [Array Division](https://cses.fi/problemset/task/1085) | CSES 1085 | BS on answer |
-| 3 | ⭐ [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | LC 410 | BS on answer |
+| 1 | ★ [Factory Machines](https://cses.fi/problemset/task/1620) | CSES 1620 | BS on answer template |
+| 2 | ★ [Array Division](https://cses.fi/problemset/task/1085) | CSES 1085 | BS on answer |
+| 3 | ★ [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | LC 410 | BS on answer |
 | 4 | [Magic Powder](https://codeforces.com/problemset/problem/670/D1) | CF 670D1 | BS on answer |
 | 5 | [Aggressive Cows](https://www.spoj.com/problems/AGGRCOW/) | SPOJ | BS on answer classic |
 | 6 | [Capacity to Ship Packages](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | LC 1011 | BS on answer |
@@ -585,7 +585,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 ---
 
-## 3.2 Sorting Algorithms & Custom Comparators 🔴 P1
+## 3.2 Sorting Algorithms & Custom Comparators [P1]
 
 **Topics**: Merge sort, counting inversions, custom comparators, sorting by multiple keys, event sorting, coordinate compression via sorting.
 
@@ -598,7 +598,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Inversion Count](https://www.spoj.com/problems/INVCNT/) | SPOJ INVCNT | Merge sort |
+| 1 | ★ [Inversion Count](https://www.spoj.com/problems/INVCNT/) | SPOJ INVCNT | Merge sort |
 | 2 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | LC 912 | Implement merge sort |
 | 3 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | LC 56 | Sort by start |
 | 4 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | LC 435 | Sort by end (greedy) |
@@ -612,7 +612,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 ---
 
-## 3.3 Graph Theory Fundamentals: BFS & DFS 🔴 P1
+## 3.3 Graph Theory Fundamentals: BFS & DFS [P1]
 
 **Topics**: Graph representation (adjacency list), BFS (shortest path in unweighted graphs), DFS (cycle detection, connected components), grid graphs, bipartite checking.
 
@@ -626,8 +626,8 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Labyrinth](https://cses.fi/problemset/task/1193) | CSES 1193 | BFS shortest path |
-| 2 | ⭐ [Building Roads](https://cses.fi/problemset/task/1666) | CSES 1666 | Connected components |
+| 1 | ★ [Labyrinth](https://cses.fi/problemset/task/1193) | CSES 1193 | BFS shortest path |
+| 2 | ★ [Building Roads](https://cses.fi/problemset/task/1666) | CSES 1666 | Connected components |
 | 3 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | LC 200 | BFS/DFS flood fill |
 | 4 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | LC 733 | DFS |
 | 5 | [Building Teams](https://cses.fi/problemset/task/1668) | CSES 1668 | Bipartite check |
@@ -643,7 +643,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 ---
 
-## 3.4 Intro to Dynamic Programming 🔴 P1
+## 3.4 Intro to Dynamic Programming [P1]
 
 **Topics**: 1D DP (Fibonacci-style recurrences, coin change), memoization vs tabulation, state definition, identifying overlapping subproblems.
 
@@ -657,9 +657,9 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Dice Combinations](https://cses.fi/problemset/task/1633) | CSES 1633 | 1D DP template |
-| 2 | ⭐ [Minimizing Coins](https://cses.fi/problemset/task/1634) | CSES 1634 | Coin change (min) |
-| 3 | ⭐ [Coin Combinations I](https://cses.fi/problemset/task/1635) | CSES 1635 | Unbounded knapsack |
+| 1 | ★ [Dice Combinations](https://cses.fi/problemset/task/1633) | CSES 1633 | 1D DP template |
+| 2 | ★ [Minimizing Coins](https://cses.fi/problemset/task/1634) | CSES 1634 | Coin change (min) |
+| 3 | ★ [Coin Combinations I](https://cses.fi/problemset/task/1635) | CSES 1635 | Unbounded knapsack |
 | 4 | [Coin Combinations II](https://cses.fi/problemset/task/1636) | CSES 1636 | Ordered vs unordered |
 | 5 | [House Robber](https://leetcode.com/problems/house-robber/) | LC 198 | 1D DP classic |
 | 6 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | LC 213 | Circular variant |
@@ -674,7 +674,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 ---
 
-## 3.5 Greedy Algorithms (Intermediate) 🟠 P2
+## 3.5 Greedy Algorithms (Intermediate) [P2]
 
 **Topics**: Activity selection, fractional knapsack, Huffman coding intuition, exchange argument, scheduling problems, greedy ordering proofs.
 
@@ -687,20 +687,20 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Movie Festival](https://cses.fi/problemset/task/1629) | CSES 1629 | Activity selection |
-| 2 | ⭐ [Frog Jumps](https://codeforces.com/problemset/problem/1324/C) | CF 1324C | Constructive greedy |
+| 1 | ★ [Movie Festival](https://cses.fi/problemset/task/1629) | CSES 1629 | Activity selection |
+| 2 | ★ [Frog Jumps](https://codeforces.com/problemset/problem/1324/C) | CF 1324C | Constructive greedy |
 | 3 | [Jump Game](https://leetcode.com/problems/jump-game/) | LC 55 | Greedy reachability |
 | 4 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | LC 45 | Greedy BFS |
 | 5 | [Gas Station](https://leetcode.com/problems/gas-station/) | LC 134 | Greedy circular |
 | 6 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | LC 881 | Sort + two pointers |
 | 7 | [Candy](https://leetcode.com/problems/candy/) | LC 135 | Two-pass greedy |
-| 8 | ⭐ [Stick Divisions](https://cses.fi/problemset/task/1161) | CSES 1161 | Reverse Huffman |
+| 8 | ★ [Stick Divisions](https://cses.fi/problemset/task/1161) | CSES 1161 | Reverse Huffman |
 | 9 | [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/) | LC 2439 | Prefix avg greedy |
 | 10 | [Berry Picking](https://usaco.org/index.php?page=viewproblem2&cpid=990) | USACO Silver | Greedy + BS |
 
 ---
 
-## 3.6 2D DP & Grid DP 🟠 P2
+## 3.6 2D DP & Grid DP [P2]
 
 **Topics**: Grid path counting, grid minimum cost path, edit distance, common subsequence/substring, 2D state tables.
 
@@ -713,9 +713,9 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Grid Paths](https://cses.fi/problemset/task/1638) | CSES 1638 | Grid DP with obstacles |
-| 2 | ⭐ [Edit Distance](https://cses.fi/problemset/task/1639) | CSES 1639 | Classic 2D DP |
-| 3 | ⭐ [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | LC 1143 | LCS |
+| 1 | ★ [Grid Paths](https://cses.fi/problemset/task/1638) | CSES 1638 | Grid DP with obstacles |
+| 2 | ★ [Edit Distance](https://cses.fi/problemset/task/1639) | CSES 1639 | Classic 2D DP |
+| 3 | ★ [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | LC 1143 | LCS |
 | 4 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | LC 62 | Grid counting |
 | 5 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | LC 63 | With obstacles |
 | 6 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | LC 64 | Grid min cost |
@@ -728,7 +728,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 ---
 
-## 3.7 Union-Find (DSU) 🟡 P3
+## 3.7 Union-Find (DSU) [P3]
 
 **Topics**: Disjoint Set Union with path compression and union by rank, connected components dynamically, cycle detection in undirected graphs.
 
@@ -742,7 +742,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Road Construction](https://cses.fi/problemset/task/1676) | CSES 1676 | DSU template |
+| 1 | ★ [Road Construction](https://cses.fi/problemset/task/1676) | CSES 1676 | DSU template |
 | 2 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | LC 684 | Cycle via DSU |
 | 3 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | LC 547 | Connected components |
 | 4 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | LC 721 | DSU application |
@@ -755,7 +755,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 ---
 
-## 3.8 Constructive Algorithms & Observations 🟡 P3
+## 3.8 Constructive Algorithms & Observations [P3]
 
 **Topics**: Building valid solutions from constraints, finding patterns via small cases, parity/modularity arguments to determine if solutions exist, constructing permutations/arrays with given properties.
 
@@ -768,7 +768,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [XXXXX](https://codeforces.com/problemset/problem/1364/A) | CF 1364A | Subarray divisibility |
+| 1 | ★ [XXXXX](https://codeforces.com/problemset/problem/1364/A) | CF 1364A | Subarray divisibility |
 | 2 | [Frog Jumps](https://codeforces.com/problemset/problem/1324/C) | CF 1324C | Constructive |
 | 3 | [Make It Beautiful](https://codeforces.com/problemset/problem/1714/C) | CF 1714C | Constructive |
 | 4 | [Balanced Brackets](https://codeforces.com/problemset/problem/1556/C) | CF 1556C | Constructive |
@@ -781,7 +781,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 ---
 
-## 3.9 Meet-in-the-Middle 🟢 P4
+## 3.9 Meet-in-the-Middle [P4]
 
 **Topics**: Splitting the input into two halves, enumerating all possibilities for each half, combining results. Turns O(2^N) into O(2^(N/2) · log).
 
@@ -794,7 +794,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Meet in the Middle](https://cses.fi/problemset/task/1628) | CSES 1628 | Template |
+| 1 | ★ [Meet in the Middle](https://cses.fi/problemset/task/1628) | CSES 1628 | Template |
 | 2 | [4Sum](https://leetcode.com/problems/4sum/) | LC 18 | Two-pointer variant |
 | 3 | [Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/) | LC 1755 | MITM exact |
 | 4 | [Partition Equal Subset](https://leetcode.com/problems/partition-equal-subset-sum/) | LC 416 | DP or MITM |
@@ -807,14 +807,14 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 | Priority | Topics Covered |
 |----------|---------------|
-| 🔴 P1 | BS on Answer, Sorting & Comparators, BFS/DFS Graphs, Intro DP |
-| 🟠 P2 | Intermediate Greedy, 2D DP & Grid DP |
-| 🟡 P3 | Union-Find (DSU), Constructive Algorithms |
-| 🟢 P4 | Meet-in-the-Middle |
+| [P1] | BS on Answer, Sorting & Comparators, BFS/DFS Graphs, Intro DP |
+| [P2] | Intermediate Greedy, 2D DP & Grid DP |
+| [P3] | Union-Find (DSU), Constructive Algorithms |
+| [P4] | Meet-in-the-Middle |
 
 **Total problems in Tier 3: ~107**
 
-> ✅ **Checkpoint**: You can solve CF Div.2 C problems (1300–1500 rated). You can implement BFS/DFS from scratch, do binary search on answer, and solve basic DP problems.
+> [Checkpoint] **Checkpoint**: You can solve CF Div.2 C problems (1300–1500 rated). You can implement BFS/DFS from scratch, do binary search on answer, and solve basic DP problems.
 
 # Tier 4: Expert (CF Rating 1600 – 1899)
 
@@ -824,7 +824,7 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 ---
 
-## 4.1 Shortest Path Algorithms 🔴 P1
+## 4.1 Shortest Path Algorithms [P1]
 
 **Topics**: Dijkstra's algorithm (priority queue), 0-1 BFS (deque), Bellman-Ford (negative edges, negative cycle detection), Floyd-Warshall (all-pairs), SPFA.
 
@@ -838,11 +838,11 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Shortest Routes I](https://cses.fi/problemset/task/1671) | CSES 1671 | Dijkstra template |
-| 2 | ⭐ [Shortest Routes II](https://cses.fi/problemset/task/1672) | CSES 1672 | Floyd-Warshall |
+| 1 | ★ [Shortest Routes I](https://cses.fi/problemset/task/1671) | CSES 1671 | Dijkstra template |
+| 2 | ★ [Shortest Routes II](https://cses.fi/problemset/task/1672) | CSES 1672 | Floyd-Warshall |
 | 3 | [High Score](https://cses.fi/problemset/task/1673) | CSES 1673 | Bellman-Ford / neg cycle |
 | 4 | [Cycle Finding](https://cses.fi/problemset/task/1197) | CSES 1197 | Bellman-Ford |
-| 5 | ⭐ [Min Cost Valid Path](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | LC 1368 | 0-1 BFS |
+| 5 | ★ [Min Cost Valid Path](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | LC 1368 | 0-1 BFS |
 | 6 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | LC 743 | Dijkstra |
 | 7 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | LC 787 | Modified BF / Dijkstra |
 | 8 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | LC 1631 | Dijkstra / BS+BFS |
@@ -853,7 +853,7 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 ---
 
-## 4.2 Knapsack & Subset DP 🔴 P1
+## 4.2 Knapsack & Subset DP [P1]
 
 **Topics**: 0/1 Knapsack, unbounded knapsack, bounded knapsack, subset sum, counting subsets, DP over subsets (bitmask DP intro).
 
@@ -866,22 +866,22 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Book Shop](https://cses.fi/problemset/task/1158) | CSES 1158 | 0/1 Knapsack |
-| 2 | ⭐ [Money Sums](https://cses.fi/problemset/task/1745) | CSES 1745 | Subset sum DP |
+| 1 | ★ [Book Shop](https://cses.fi/problemset/task/1158) | CSES 1158 | 0/1 Knapsack |
+| 2 | ★ [Money Sums](https://cses.fi/problemset/task/1745) | CSES 1745 | Subset sum DP |
 | 3 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | LC 416 | Subset sum |
 | 4 | [Target Sum](https://leetcode.com/problems/target-sum/) | LC 494 | Subset sum variant |
 | 5 | [Coin Change](https://leetcode.com/problems/coin-change/) | LC 322 | Unbounded knapsack |
 | 6 | [Coin Change II](https://leetcode.com/problems/coin-change-ii/) | LC 518 | Counting ways |
 | 7 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | LC 474 | 2D Knapsack |
 | 8 | [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/) | LC 1049 | Min diff partition |
-| 9 | ⭐ [Elevator Rides](https://cses.fi/problemset/task/1653) | CSES 1653 | Bitmask DP |
+| 9 | ★ [Elevator Rides](https://cses.fi/problemset/task/1653) | CSES 1653 | Bitmask DP |
 | 10 | [Two Sets II](https://cses.fi/problemset/task/1093) | CSES 1093 | Subset sum count |
 | 11 | [KNAPSACK - The Knapsack Problem](https://www.spoj.com/problems/KNAPSACK/) | SPOJ | Classic knapsack |
 | 12 | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/) | LC 879 | 2D knapsack |
 
 ---
 
-## 4.3 Topological Sort & DAG DP 🔴 P1
+## 4.3 Topological Sort & DAG DP [P1]
 
 **Topics**: Topological ordering (Kahn's BFS / DFS-based), DP on DAGs (longest path, counting paths), detecting if a graph is a DAG.
 
@@ -894,8 +894,8 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | LC 210 | Topo sort |
-| 2 | ⭐ [Longest Flight Route](https://cses.fi/problemset/task/1680) | CSES 1680 | DAG DP |
+| 1 | ★ [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | LC 210 | Topo sort |
+| 2 | ★ [Longest Flight Route](https://cses.fi/problemset/task/1680) | CSES 1680 | DAG DP |
 | 3 | [Game Routes](https://cses.fi/problemset/task/1681) | CSES 1681 | Count paths in DAG |
 | 4 | [Fox And Names](https://codeforces.com/problemset/problem/510/C) | CF 510C | Topo sort from constraints |
 | 5 | [Sort Items by Groups](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) | LC 1203 | Multi-level topo sort |
@@ -906,7 +906,7 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 ---
 
-## 4.4 MST & Advanced Graph Concepts 🟠 P2
+## 4.4 MST & Advanced Graph Concepts [P2]
 
 **Topics**: Kruskal's algorithm (with DSU), Prim's algorithm, properties of MST, Eulerian paths/circuits (Hierholzer's algorithm), bridges and articulation points.
 
@@ -919,8 +919,8 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Road Reparation](https://cses.fi/problemset/task/1675) | CSES 1675 | MST / Kruskal |
-| 2 | ⭐ [Mail Delivery](https://cses.fi/problemset/task/1691) | CSES 1691 | Euler circuit |
+| 1 | ★ [Road Reparation](https://cses.fi/problemset/task/1675) | CSES 1675 | MST / Kruskal |
+| 2 | ★ [Mail Delivery](https://cses.fi/problemset/task/1691) | CSES 1691 | Euler circuit |
 | 3 | [De Bruijn Sequence](https://cses.fi/problemset/task/1692) | CSES 1692 | Euler path |
 | 4 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | LC 1584 | MST / Prim |
 | 5 | [Critical Connections](https://leetcode.com/problems/critical-connections-in-a-network/) | LC 1192 | Bridges / Tarjan |
@@ -932,7 +932,7 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 ---
 
-## 4.5 Intermediate DP: LIS, Intervals & Ranges 🟠 P2
+## 4.5 Intermediate DP: LIS, Intervals & Ranges [P2]
 
 **Topics**: Longest Increasing Subsequence (O(N log N)), interval DP, range DP, 1D DP with binary search optimization.
 
@@ -945,8 +945,8 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | LC 300 | LIS O(N log N) |
-| 2 | ⭐ [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | LC 312 | Interval DP |
+| 1 | ★ [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | LC 300 | LIS O(N log N) |
+| 2 | ★ [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | LC 312 | Interval DP |
 | 3 | [Increasing Subsequence](https://cses.fi/problemset/task/1145) | CSES 1145 | LIS |
 | 4 | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | LC 354 | 2D LIS |
 | 5 | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | LC 1130 | Interval DP |
@@ -959,7 +959,7 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 ---
 
-## 4.6 String Algorithms: KMP, Hashing & Trie 🟠 P2
+## 4.6 String Algorithms: KMP, Hashing & Trie [P2]
 
 **Topics**: KMP failure function & pattern matching, string hashing (rolling hash / Rabin-Karp), Trie data structure, Z-algorithm.
 
@@ -973,8 +973,8 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [String Matching](https://cses.fi/problemset/task/1753) | CSES 1753 | KMP / Z / Hashing |
-| 2 | ⭐ [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | LC 208 | Trie template |
+| 1 | ★ [String Matching](https://cses.fi/problemset/task/1753) | CSES 1753 | KMP / Z / Hashing |
+| 2 | ★ [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | LC 208 | Trie template |
 | 3 | [String Functions](https://cses.fi/problemset/task/2107) | CSES 2107 | Z-algorithm |
 | 4 | [Finding Periods](https://cses.fi/problemset/task/1733) | CSES 1733 | KMP failure function |
 | 5 | [Finding Borders](https://cses.fi/problemset/task/1732) | CSES 1732 | KMP borders (from Tier 1) |
@@ -988,7 +988,7 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 ---
 
-## 4.7 Combinatorics & Modular Inverse 🟡 P3
+## 4.7 Combinatorics & Modular Inverse [P3]
 
 **Topics**: nCr mod p (using factorials + modular inverse), Pascal's triangle, Stars and Bars, Fermat's little theorem, Wilson's theorem.
 
@@ -1001,7 +1001,7 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Binomial Coefficients](https://cses.fi/problemset/task/1079) | CSES 1079 | nCr mod p |
+| 1 | ★ [Binomial Coefficients](https://cses.fi/problemset/task/1079) | CSES 1079 | nCr mod p |
 | 2 | [Creating Strings II](https://cses.fi/problemset/task/1715) | CSES 1715 | Multinomial coefficients |
 | 3 | [Distributing Apples](https://cses.fi/problemset/task/1716) | CSES 1716 | Stars and Bars |
 | 4 | [Christmas Party](https://cses.fi/problemset/task/1717) | CSES 1717 | Derangements |
@@ -1014,7 +1014,7 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 ---
 
-## 4.8 Game Theory Basics 🟡 P3
+## 4.8 Game Theory Basics [P3]
 
 **Topics**: Nim game, Sprague-Grundy theorem intro, winning/losing positions, game DP.
 
@@ -1027,7 +1027,7 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Nim Game I](https://cses.fi/problemset/task/1730) | CSES 1730 | Classic Nim |
+| 1 | ★ [Nim Game I](https://cses.fi/problemset/task/1730) | CSES 1730 | Classic Nim |
 | 2 | [Nim Game II](https://cses.fi/problemset/task/1098) | CSES 1098 | Nim variant |
 | 3 | [Stair Game](https://cses.fi/problemset/task/1099) | CSES 1099 | Staircase Nim |
 | 4 | [Stone Game](https://leetcode.com/problems/stone-game/) | LC 877 | Game DP |
@@ -1039,7 +1039,7 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 ---
 
-## 4.9 Interactive Problems & Output Flushing 🟢 P4
+## 4.9 Interactive Problems & Output Flushing [P4]
 
 **Topics**: Interactive problem protocol, binary search via queries, flushing output (`fflush(stdout)` / `cout.flush()`), adaptive strategies.
 
@@ -1053,7 +1053,7 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Guess the Number](https://codeforces.com/problemset/problem/1010/A) | CF 1010A | Interactive archetype |
+| 1 | ★ [Guess the Number](https://codeforces.com/problemset/problem/1010/A) | CF 1010A | Interactive archetype |
 | 2 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | LC 374 | BS interactive |
 | 3 | [Bear and Pebbles](https://codeforces.com/problemset/problem/580/A) | CF 580A | Interactive thinking |
 | 4 | [Lost Numbers](https://codeforces.com/problemset/problem/1167/B) | CF 1167B | Query strategy |
@@ -1066,14 +1066,14 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 | Priority | Topics Covered |
 |----------|---------------|
-| 🔴 P1 | Shortest Paths (Dijkstra/BF/Floyd), Knapsack & Subset DP, Topo Sort & DAG DP |
-| 🟠 P2 | MST & Euler Paths, LIS & Interval DP, String Algorithms (KMP/Trie) |
-| 🟡 P3 | Combinatorics & Mod Inverse, Game Theory Basics |
-| 🟢 P4 | Interactive Problems |
+| [P1] | Shortest Paths (Dijkstra/BF/Floyd), Knapsack & Subset DP, Topo Sort & DAG DP |
+| [P2] | MST & Euler Paths, LIS & Interval DP, String Algorithms (KMP/Trie) |
+| [P3] | Combinatorics & Mod Inverse, Game Theory Basics |
+| [P4] | Interactive Problems |
 
 **Total problems in Tier 4: ~111**
 
-> ✅ **Checkpoint**: You can solve CF Div.2 D / Div.1 A problems (1600–1800 rated). Dijkstra, knapsack DP, KMP, and topo sort are second nature.
+> [Checkpoint] **Checkpoint**: You can solve CF Div.2 D / Div.1 A problems (1600–1800 rated). Dijkstra, knapsack DP, KMP, and topo sort are second nature.
 
 # Tier 5: Candidate Master (CF Rating 1900 – 2099)
 
@@ -1083,7 +1083,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 ---
 
-## 5.1 Segment Tree (Point Update, Range Query) 🔴 P1
+## 5.1 Segment Tree (Point Update, Range Query) [P1]
 
 **Topics**: Segment tree build, point update, range query (sum, min, max, GCD), iterative vs recursive implementation, coordinate compression with segment trees.
 
@@ -1097,8 +1097,8 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Dynamic Range Sum Queries](https://cses.fi/problemset/task/1648) | CSES 1648 | SegTree template |
-| 2 | ⭐ [Dynamic Range Minimum Queries](https://cses.fi/problemset/task/1649) | CSES 1649 | SegTree min |
+| 1 | ★ [Dynamic Range Sum Queries](https://cses.fi/problemset/task/1648) | CSES 1648 | SegTree template |
+| 2 | ★ [Dynamic Range Minimum Queries](https://cses.fi/problemset/task/1649) | CSES 1649 | SegTree min |
 | 3 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | LC 307 | SegTree / BIT |
 | 4 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | LC 315 | SegTree / BIT |
 | 5 | [Hotel Queries](https://cses.fi/problemset/task/1143) | CSES 1143 | SegTree + walk |
@@ -1112,7 +1112,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 ---
 
-## 5.2 Binary Indexed Tree (Fenwick Tree) 🔴 P1
+## 5.2 Binary Indexed Tree (Fenwick Tree) [P1]
 
 **Topics**: BIT for prefix sums with point updates, 2D BIT, order statistics with BIT, difference array + BIT for range update point query.
 
@@ -1126,7 +1126,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Dynamic Range Sum](https://cses.fi/problemset/task/1648) | CSES 1648 | BIT or SegTree |
+| 1 | ★ [Dynamic Range Sum](https://cses.fi/problemset/task/1648) | CSES 1648 | BIT or SegTree |
 | 2 | [Inversion Count (BIT)](https://www.spoj.com/problems/INVCNT/) | SPOJ | BIT approach |
 | 3 | [Josephus Queries](https://cses.fi/problemset/task/2162) | CSES 2162 | BIT / simulation |
 | 4 | [Nested Ranges Count](https://cses.fi/problemset/task/2169) | CSES 2169 | BIT + sort |
@@ -1137,7 +1137,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 ---
 
-## 5.3 Bitmask DP 🔴 P1
+## 5.3 Bitmask DP [P1]
 
 **Topics**: DP where state includes a bitmask representing a subset of N ≤ 20 elements. TSP, assignment problems, Hamiltonian paths.
 
@@ -1150,8 +1150,8 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Hamiltonian Flights](https://cses.fi/problemset/task/1690) | CSES 1690 | Bitmask DP |
-| 2 | ⭐ [Elevator Rides](https://cses.fi/problemset/task/1653) | CSES 1653 | Bitmask DP |
+| 1 | ★ [Hamiltonian Flights](https://cses.fi/problemset/task/1690) | CSES 1690 | Bitmask DP |
+| 2 | ★ [Elevator Rides](https://cses.fi/problemset/task/1653) | CSES 1653 | Bitmask DP |
 | 3 | [Shortest Hamilton Walk](https://codeforces.com/problemset/problem/580/D) | CF 580D | Bitmask DP |
 | 4 | [Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) | LC 943 | TSP variant |
 | 5 | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | LC 698 | Bitmask DP |
@@ -1163,7 +1163,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 ---
 
-## 5.4 Tree DP 🟠 P2
+## 5.4 Tree DP [P2]
 
 **Topics**: DP on trees (rooted), computing subtree properties, diameter, max independent set, matching on trees.
 
@@ -1176,8 +1176,8 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Tree Diameter](https://cses.fi/problemset/task/1131) | CSES 1131 | DFS/BFS |
-| 2 | ⭐ [Tree Matching](https://cses.fi/problemset/task/1130) | CSES 1130 | Tree DP |
+| 1 | ★ [Tree Diameter](https://cses.fi/problemset/task/1131) | CSES 1131 | DFS/BFS |
+| 2 | ★ [Tree Matching](https://cses.fi/problemset/task/1130) | CSES 1130 | Tree DP |
 | 3 | [Subordinates](https://cses.fi/problemset/task/1674) | CSES 1674 | Subtree size |
 | 4 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | LC 124 | Tree DP |
 | 5 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | LC 543 | Tree DP |
@@ -1189,7 +1189,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 ---
 
-## 5.5 LCA & Binary Lifting 🟠 P2
+## 5.5 LCA & Binary Lifting [P2]
 
 **Topics**: Lowest Common Ancestor computation, binary lifting (sparse table on tree), ancestor queries, path queries decomposition.
 
@@ -1202,8 +1202,8 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Company Queries I](https://cses.fi/problemset/task/1687) | CSES 1687 | Binary lifting |
-| 2 | ⭐ [Company Queries II](https://cses.fi/problemset/task/1688) | CSES 1688 | LCA |
+| 1 | ★ [Company Queries I](https://cses.fi/problemset/task/1687) | CSES 1687 | Binary lifting |
+| 2 | ★ [Company Queries II](https://cses.fi/problemset/task/1688) | CSES 1688 | LCA |
 | 3 | [Distance Queries](https://cses.fi/problemset/task/1135) | CSES 1135 | LCA + depth |
 | 4 | [Counting Paths](https://cses.fi/problemset/task/1136) | CSES 1136 | LCA + diff on tree |
 | 5 | [LCA of Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | LC 236 | DFS |
@@ -1215,7 +1215,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 ---
 
-## 5.6 Sparse Table & RMQ 🟡 P3
+## 5.6 Sparse Table & RMQ [P3]
 
 **Topics**: Sparse Table for O(1) range minimum/maximum queries (static), precomputation in O(N log N), idempotent operations.
 
@@ -1229,7 +1229,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Static Range Min Queries](https://cses.fi/problemset/task/1647) | CSES 1647 | Sparse table |
+| 1 | ★ [Static Range Min Queries](https://cses.fi/problemset/task/1647) | CSES 1647 | Sparse table |
 | 2 | [RMQSQ](https://www.spoj.com/problems/RMQSQ/) | SPOJ | RMQ classic |
 | 3 | [THRBL - Troublesome](https://www.spoj.com/problems/THRBL/) | SPOJ | Range max query |
 | 4 | [Maximum of Minimums of Array](https://leetcode.com/problems/minimum-of-maximum-of-minimum-of-maximum/) | LC | Sparse table app |
@@ -1238,7 +1238,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 ---
 
-## 5.7 Digit DP 🟡 P3
+## 5.7 Digit DP [P3]
 
 **Topics**: Counting numbers in range [L, R] satisfying some digit-based property. Tight/loose constraint, leading zeros handling.
 
@@ -1253,7 +1253,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [LUCIFER - Lucifer Number](https://www.spoj.com/problems/LUCIFER/) | SPOJ | Digit DP intro |
+| 1 | ★ [LUCIFER - Lucifer Number](https://www.spoj.com/problems/LUCIFER/) | SPOJ | Digit DP intro |
 | 2 | [Counting Numbers](https://cses.fi/problemset/task/2220) | CSES 2220 | Digit DP |
 | 3 | [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/) | LC 902 | Digit DP |
 | 4 | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | LC 357 | Digit DP / math |
@@ -1265,7 +1265,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 ---
 
-## 5.8 Probability DP & Expected Value 🟡 P3
+## 5.8 Probability DP & Expected Value [P3]
 
 **Topics**: Expected value via DP, linearity of expectation, probability as DP state, Markov chains (simple).
 
@@ -1278,7 +1278,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Dice Probability](https://cses.fi/problemset/task/1725) | CSES 1725 | Probability DP |
+| 1 | ★ [Dice Probability](https://cses.fi/problemset/task/1725) | CSES 1725 | Probability DP |
 | 2 | [Soup Servings](https://leetcode.com/problems/soup-servings/) | LC 808 | Probability DP |
 | 3 | [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) | LC 688 | Probability DP |
 | 4 | [New 21 Game](https://leetcode.com/problems/new-21-game/) | LC 837 | Probability DP |
@@ -1288,7 +1288,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 ---
 
-## 5.9 Monotonic Deque & Sliding Window Max/Min 🟢 P4
+## 5.9 Monotonic Deque & Sliding Window Max/Min [P4]
 
 **Topics**: Sliding window maximum/minimum using deque, DP optimization with monotonic deque.
 
@@ -1301,7 +1301,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | LC 239 | Deque template |
+| 1 | ★ [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | LC 239 | Deque template |
 | 2 | [Sliding Cost](https://cses.fi/problemset/task/1077) | CSES 1077 | Two heaps + sliding |
 | 3 | [Sliding Median](https://cses.fi/problemset/task/1076) | CSES 1076 | Two multisets |
 | 4 | [Jump Game VI](https://leetcode.com/problems/jump-game-vi/) | LC 1696 | DP + deque |
@@ -1311,7 +1311,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 ---
 
-## 5.10 Policy-Based Data Structures (PBDS) 🟢 P4
+## 5.10 Policy-Based Data Structures (PBDS) [P4]
 
 **Topics**: GNU `__gnu_pbds::tree` (ordered set / order statistics tree), finding k-th smallest element in O(log N), counting elements strictly less than X in O(log N), using PBDS as a replacement for balanced BSTs.
 
@@ -1327,8 +1327,8 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [List Removals](https://cses.fi/problemset/task/1749) | CSES 1749 | Order statistics |
-| 2 | ⭐ [Josephus Problem II](https://cses.fi/problemset/task/2163) | CSES 2163 | PBDS / SegTree |
+| 1 | ★ [List Removals](https://cses.fi/problemset/task/1749) | CSES 1749 | Order statistics |
+| 2 | ★ [Josephus Problem II](https://cses.fi/problemset/task/2163) | CSES 2163 | PBDS / SegTree |
 | 3 | [Salary Queries](https://cses.fi/problemset/task/1144) | CSES 1144 | PBDS or SegTree+compress |
 | 4 | [Inversion Count](https://www.spoj.com/problems/INVCNT/) | SPOJ | PBDS approach |
 | 5 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | LC 315 | PBDS / BIT / SegTree |
@@ -1344,14 +1344,14 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 | Priority | Topics Covered |
 |----------|---------------|
-| 🔴 P1 | Segment Tree, Fenwick Tree (BIT), Bitmask DP |
-| 🟠 P2 | Tree DP, LCA & Binary Lifting |
-| 🟡 P3 | Sparse Table, Digit DP, Probability DP |
-| 🟢 P4 | Monotonic Deque, Policy-Based Data Structures (PBDS) |
+| [P1] | Segment Tree, Fenwick Tree (BIT), Bitmask DP |
+| [P2] | Tree DP, LCA & Binary Lifting |
+| [P3] | Sparse Table, Digit DP, Probability DP |
+| [P4] | Monotonic Deque, Policy-Based Data Structures (PBDS) |
 
 **Total problems in Tier 5: ~118**
 
-> ✅ **Checkpoint**: You can solve Div.1 B / Div.2 E problems (1900–2000 rated). Segment trees and bitmask DP are comfortable. You can implement LCA from scratch.
+> [Checkpoint] **Checkpoint**: You can solve Div.1 B / Div.2 E problems (1900–2000 rated). Segment trees and bitmask DP are comfortable. You can implement LCA from scratch.
 
 # Tier 6: Master (CF Rating 2100 – 2299)
 
@@ -1361,7 +1361,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 ---
 
-## 6.1 Segment Tree with Lazy Propagation 🔴 P1
+## 6.1 Segment Tree with Lazy Propagation [P1]
 
 **Topics**: Range update + range query, lazy propagation for additive updates, multiplicative updates, assignment updates, combining different lazy operations.
 
@@ -1374,8 +1374,8 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Range Update Queries](https://cses.fi/problemset/task/1651) | CSES 1651 | Lazy SegTree template |
-| 2 | ⭐ [Range Updates and Sums](https://cses.fi/problemset/task/1735) | CSES 1735 | Lazy add + set |
+| 1 | ★ [Range Update Queries](https://cses.fi/problemset/task/1651) | CSES 1651 | Lazy SegTree template |
+| 2 | ★ [Range Updates and Sums](https://cses.fi/problemset/task/1735) | CSES 1735 | Lazy add + set |
 | 3 | [Polynomial Queries](https://cses.fi/problemset/task/1736) | CSES 1736 | Arithmetic progression lazy |
 | 4 | [HORRIBLE - Horrible Queries](https://www.spoj.com/problems/HORRIBLE/) | SPOJ | Lazy SegTree |
 | 5 | [LITE - Light Switching](https://www.spoj.com/problems/LITE/) | SPOJ | XOR lazy |
@@ -1387,7 +1387,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 ---
 
-## 6.2 Euler Tour & Subtree/Path Queries on Trees 🔴 P1
+## 6.2 Euler Tour & Subtree/Path Queries on Trees [P1]
 
 **Topics**: Euler Tour (flattening a tree into an array), subtree queries via range queries on the flattened array, path queries with LCA decomposition.
 
@@ -1400,8 +1400,8 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Subtree Queries](https://cses.fi/problemset/task/1137) | CSES 1137 | Euler Tour + BIT |
-| 2 | ⭐ [Path Queries](https://cses.fi/problemset/task/1138) | CSES 1138 | Euler Tour / HLD |
+| 1 | ★ [Subtree Queries](https://cses.fi/problemset/task/1137) | CSES 1137 | Euler Tour + BIT |
+| 2 | ★ [Path Queries](https://cses.fi/problemset/task/1138) | CSES 1138 | Euler Tour / HLD |
 | 3 | [Path Queries II](https://cses.fi/problemset/task/2134) | CSES 2134 | HLD + SegTree |
 | 4 | [Distinct Colors](https://cses.fi/problemset/task/1139) | CSES 1139 | Small-to-large merge |
 | 5 | [Count Nodes in Sub-Tree](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) | LC 1519 | DFS / Euler tour |
@@ -1411,7 +1411,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 ---
 
-## 6.3 Re-rooting DP 🟠 P2
+## 6.3 Re-rooting DP [P2]
 
 **Topics**: Computing an answer for every node as root efficiently. Bottom-up DFS followed by top-down DFS to "re-root" the tree.
 
@@ -1424,8 +1424,8 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Tree Distances I](https://cses.fi/problemset/task/1132) | CSES 1132 | Re-rooting farthest |
-| 2 | ⭐ [Tree Distances II](https://cses.fi/problemset/task/1133) | CSES 1133 | Re-rooting sum |
+| 1 | ★ [Tree Distances I](https://cses.fi/problemset/task/1132) | CSES 1132 | Re-rooting farthest |
+| 2 | ★ [Tree Distances II](https://cses.fi/problemset/task/1133) | CSES 1133 | Re-rooting sum |
 | 3 | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | LC 834 | Re-rooting |
 | 4 | [Count Subtrees with Max Distance](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/) | LC 1617 | Bitmask + tree |
 | 5 | [Minimum Edge Weight Equilibrium](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/) | LC 2846 | LCA + re-root |
@@ -1434,7 +1434,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 ---
 
-## 6.4 SOS DP (Sum over Subsets) 🟠 P2
+## 6.4 SOS DP (Sum over Subsets) [P2]
 
 **Topics**: Efficiently computing sum/count over all subsets (or supersets) of each bitmask. O(N · 2^N) using the "zeta/Mobius transform" approach.
 
@@ -1447,7 +1447,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Vowels (SOS DP)](https://codeforces.com/problemset/problem/165/E) | CF 165E | SOS DP archetype |
+| 1 | ★ [Vowels (SOS DP)](https://codeforces.com/problemset/problem/165/E) | CF 165E | SOS DP archetype |
 | 2 | [Compatible Numbers](https://codeforces.com/problemset/problem/449/D) | CF 449D | SOS DP |
 | 3 | [Counting Bits](https://codeforces.com/problemset/problem/1208/F) | CF 1208F | SOS DP |
 | 4 | [XOR Inverse](https://codeforces.com/problemset/problem/1416/C) | CF 1416C | Bit contribution |
@@ -1457,7 +1457,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 ---
 
-## 6.5 SCCs, 2-SAT & Advanced Graph 🟠 P2
+## 6.5 SCCs, 2-SAT & Advanced Graph [P2]
 
 **Topics**: Strongly Connected Components (Kosaraju / Tarjan), 2-SAT via implication graphs, condensation graph, topological sort on condensation.
 
@@ -1470,8 +1470,8 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Giant Pizza](https://cses.fi/problemset/task/1684) | CSES 1684 | 2-SAT |
-| 2 | ⭐ [Planets and Kingdoms](https://cses.fi/problemset/task/1683) | CSES 1683 | SCCs |
+| 1 | ★ [Giant Pizza](https://cses.fi/problemset/task/1684) | CSES 1684 | 2-SAT |
+| 2 | ★ [Planets and Kingdoms](https://cses.fi/problemset/task/1683) | CSES 1683 | SCCs |
 | 3 | [Coin Collector](https://cses.fi/problemset/task/1686) | CSES 1686 | Condensation + DAG DP |
 | 4 | [Flight Routes Check](https://cses.fi/problemset/task/1682) | CSES 1682 | SCC check |
 | 5 | [Kosaraju (SPOJ)](https://www.spoj.com/problems/KOSARAJU/) | SPOJ | SCC template |
@@ -1481,7 +1481,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 ---
 
-## 6.6 Inclusion-Exclusion Principle 🟡 P3
+## 6.6 Inclusion-Exclusion Principle [P3]
 
 **Topics**: Counting via inclusion-exclusion, derangements, Euler's totient function, sieve-based inclusion-exclusion.
 
@@ -1494,7 +1494,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Prime Multiples](https://cses.fi/problemset/task/2185) | CSES 2185 | Inclusion-Exclusion |
+| 1 | ★ [Prime Multiples](https://cses.fi/problemset/task/2185) | CSES 2185 | Inclusion-Exclusion |
 | 2 | [Christmas Party](https://cses.fi/problemset/task/1717) | CSES 1717 | Derangements |
 | 3 | [Coprime Pairs](https://codeforces.com/problemset/problem/547/C) | CF 547C | Incl-Excl + Mobius |
 | 4 | [Counting Coprime Pairs](https://cses.fi/problemset/task/2417) | CSES 2417 | Totient / IE |
@@ -1504,7 +1504,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 ---
 
-## 6.7 Matrix Exponentiation 🟡 P3
+## 6.7 Matrix Exponentiation [P3]
 
 **Topics**: Representing linear recurrences as matrix multiplication, computing n-th term in O(K^3 · log N) where K = matrix size.
 
@@ -1517,7 +1517,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Graph Paths I](https://cses.fi/problemset/task/1723) | CSES 1723 | Matrix exp |
+| 1 | ★ [Graph Paths I](https://cses.fi/problemset/task/1723) | CSES 1723 | Matrix exp |
 | 2 | [Fibonacci Numbers](https://cses.fi/problemset/task/1722) | CSES 1722 | Matrix exp |
 | 3 | [Graph Paths II](https://cses.fi/problemset/task/1724) | CSES 1724 | Matrix exp min-plus |
 | 4 | [Throwing Dice](https://cses.fi/problemset/task/1096) | CSES 1096 | Matrix exp |
@@ -1527,7 +1527,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 ---
 
-## 6.8 Centroid Decomposition 🟡 P3
+## 6.8 Centroid Decomposition [P3]
 
 **Topics**: Finding centroids of trees recursively, counting paths with specific properties, point queries on trees.
 
@@ -1541,7 +1541,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Xenia and Tree](https://codeforces.com/problemset/problem/342/E) | CF 342E | Centroid decomp |
+| 1 | ★ [Xenia and Tree](https://codeforces.com/problemset/problem/342/E) | CF 342E | Centroid decomp |
 | 2 | [Finding Centroids](https://cses.fi/problemset/task/2079) | CSES 2079 | Centroid basics |
 | 3 | [QTREE5](https://www.spoj.com/problems/QTREE5/) | SPOJ | Centroid decomp |
 | 4 | [Race](https://oj.uz/problem/view/IOI11_race) | IOI 2011 | Centroid |
@@ -1550,7 +1550,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 ---
 
-## 6.9 Advanced Greedy & Observation 🟢 P4
+## 6.9 Advanced Greedy & Observation [P4]
 
 **Topics**: Exchange arguments (formal proofs), greedy with priority queues, multi-step greedy strategies, observation-heavy problems.
 
@@ -1563,7 +1563,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Reorganize String](https://leetcode.com/problems/reorganize-string/) | LC 767 | Greedy + PQ |
+| 1 | ★ [Reorganize String](https://leetcode.com/problems/reorganize-string/) | LC 767 | Greedy + PQ |
 | 2 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | LC 621 | Greedy counting |
 | 3 | [IPO](https://leetcode.com/problems/ipo/) | LC 502 | Greedy + PQ |
 | 4 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | LC 871 | Greedy PQ |
@@ -1577,14 +1577,14 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 | Priority | Topics Covered |
 |----------|---------------|
-| 🔴 P1 | Lazy Segment Tree, Euler Tour + Subtree/Path Queries |
-| 🟠 P2 | Re-rooting DP, SOS DP, SCCs & 2-SAT |
-| 🟡 P3 | Inclusion-Exclusion, Matrix Exponentiation, Centroid Decomposition |
-| 🟢 P4 | Advanced Greedy & Observation |
+| [P1] | Lazy Segment Tree, Euler Tour + Subtree/Path Queries |
+| [P2] | Re-rooting DP, SOS DP, SCCs & 2-SAT |
+| [P3] | Inclusion-Exclusion, Matrix Exponentiation, Centroid Decomposition |
+| [P4] | Advanced Greedy & Observation |
 
 **Total problems in Tier 6: ~105**
 
-> ✅ **Checkpoint**: You can solve Div.1 C problems (2100–2300 rated). Lazy segment trees, Euler tours, and 2-SAT are in your toolkit. You can combine multiple structures to solve one problem.
+> [Checkpoint] **Checkpoint**: You can solve Div.1 C problems (2100–2300 rated). Lazy segment trees, Euler tours, and 2-SAT are in your toolkit. You can combine multiple structures to solve one problem.
 
 # Tier 7: International Master (CF Rating 2300 – 2399)
 
@@ -1594,7 +1594,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 ---
 
-## 7.1 Mo's Algorithm & Offline Queries 🔴 P1
+## 7.1 Mo's Algorithm & Offline Queries [P1]
 
 **Topics**: Mo's algorithm for offline range queries, block decomposition (√N), Mo's with updates, Mo's on trees.
 
@@ -1608,9 +1608,9 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Distinct Values Queries](https://cses.fi/problemset/task/1734) | CSES 1734 | Mo's / offline BIT |
-| 2 | ⭐ [D-query (Distinct Query)](https://www.spoj.com/problems/DQUERY/) | SPOJ DQUERY | Mo's archetype |
-| 3 | ⭐ [Powerful Array](https://codeforces.com/problemset/problem/86/D) | CF 86D | Mo's |
+| 1 | ★ [Distinct Values Queries](https://cses.fi/problemset/task/1734) | CSES 1734 | Mo's / offline BIT |
+| 2 | ★ [D-query (Distinct Query)](https://www.spoj.com/problems/DQUERY/) | SPOJ DQUERY | Mo's archetype |
+| 3 | ★ [Powerful Array](https://codeforces.com/problemset/problem/86/D) | CF 86D | Mo's |
 | 4 | [XOR and Favorite Number](https://codeforces.com/problemset/problem/617/E) | CF 617E | Mo's + XOR |
 | 5 | [Ynoi Easy Version](https://codeforces.com/problemset/problem/1311/F) | CF | Mo's advanced |
 | 6 | [Jeff and Removing Periods](https://codeforces.com/problemset/problem/351/D) | CF 351D | Mo's + observation |
@@ -1620,7 +1620,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 ---
 
-## 7.2 Heavy-Light Decomposition (HLD) 🔴 P1
+## 7.2 Heavy-Light Decomposition (HLD) [P1]
 
 **Topics**: Decomposing a tree into heavy chains, answering path queries with SegTree on chains, path updates.
 
@@ -1634,7 +1634,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Path Queries II](https://cses.fi/problemset/task/2134) | CSES 2134 | HLD + SegTree |
+| 1 | ★ [Path Queries II](https://cses.fi/problemset/task/2134) | CSES 2134 | HLD + SegTree |
 | 2 | [QTREE - Query on a Tree](https://www.spoj.com/problems/QTREE/) | SPOJ QTREE | HLD archetype |
 | 3 | [QTREE3](https://www.spoj.com/problems/QTREE3/) | SPOJ | HLD |
 | 4 | [GOT - Gao on a Tree](https://www.spoj.com/problems/GOT/) | SPOJ | HLD / Euler Tour |
@@ -1645,7 +1645,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 ---
 
-## 7.3 Persistent Data Structures 🟠 P2
+## 7.3 Persistent Data Structures [P2]
 
 **Topics**: Persistent segment tree (version history), persistent trie, functional updates (create new version without modifying old).
 
@@ -1658,7 +1658,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Army Creation](https://codeforces.com/problemset/problem/813/E) | CF 813E | Persistent SegTree |
+| 1 | ★ [Army Creation](https://codeforces.com/problemset/problem/813/E) | CF 813E | Persistent SegTree |
 | 2 | [MKTHNUM - K-th Number](https://www.spoj.com/problems/MKTHNUM/) | SPOJ | Persistent SegTree |
 | 3 | [COT - Count on a Tree](https://www.spoj.com/problems/COT/) | SPOJ | Persistent SegTree on tree |
 | 4 | [Kth Smallest Element in Range](https://judge.yosupo.jp/problem/range_kth_smallest) | Library Checker | Persistent SegTree |
@@ -1668,7 +1668,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 ---
 
-## 7.4 Divide & Conquer DP Optimization 🟠 P2
+## 7.4 Divide & Conquer DP Optimization [P2]
 
 **Topics**: Optimizing DP transitions from O(N^2) to O(N log N) when the optimal split point is monotonic (SMAWK / D&C optimization), Knuth's optimization.
 
@@ -1681,7 +1681,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Kalila and Dimna](https://codeforces.com/problemset/problem/319/C) | CF 319C | DP optimization |
+| 1 | ★ [Kalila and Dimna](https://codeforces.com/problemset/problem/319/C) | CF 319C | DP optimization |
 | 2 | [BRKSTRNG - Breaking String](https://www.spoj.com/problems/BRKSTRNG/) | SPOJ | Knuth optimization |
 | 3 | [LARGEST - Largest Rectangle](https://www.spoj.com/problems/LARGEST/) | SPOJ | D&C |
 | 4 | [Ciel and Gondola](https://codeforces.com/problemset/problem/321/E) | CF 321E | D&C DP |
@@ -1690,7 +1690,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 ---
 
-## 7.5 Suffix Array & LCP Array 🟠 P2
+## 7.5 Suffix Array & LCP Array [P2]
 
 **Topics**: Building suffix array in O(N log N) or O(N log^2 N), computing LCP array from suffix array (Kasai's algorithm), applications.
 
@@ -1704,7 +1704,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [String Functions](https://cses.fi/problemset/task/2107) | CSES 2107 | Z/KMP |
+| 1 | ★ [String Functions](https://cses.fi/problemset/task/2107) | CSES 2107 | Z/KMP |
 | 2 | [Distinct Substrings](https://www.spoj.com/problems/DISUBSTR/) | SPOJ | Suffix array + LCP |
 | 3 | [New Distinct Substrings](https://www.spoj.com/problems/SUBST1/) | SPOJ | Suffix array |
 | 4 | [Suffix Array](https://judge.yosupo.jp/problem/suffixarray) | Library Checker | Template |
@@ -1715,7 +1715,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 ---
 
-## 7.6 Aho-Corasick 🟡 P3
+## 7.6 Aho-Corasick [P3]
 
 **Topics**: Multi-pattern string matching, building an automaton from a dictionary of patterns, failure/suffix links.
 
@@ -1728,7 +1728,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [AHOCUR - Aho-Corasick](https://www.spoj.com/problems/AHOCUR/) | SPOJ | AC template |
+| 1 | ★ [AHOCUR - Aho-Corasick](https://www.spoj.com/problems/AHOCUR/) | SPOJ | AC template |
 | 2 | [Word Combinations](https://cses.fi/problemset/task/1731) | CSES 1731 | AC / DP |
 | 3 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/) | LC 1032 | AC / reversed trie |
 | 4 | [Multi-pattern Search](https://judge.yosupo.jp/problem/multipatternmatching) | Library Checker | AC template |
@@ -1738,7 +1738,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 ---
 
-## 7.7 Computational Geometry Basics 🟡 P3
+## 7.7 Computational Geometry Basics [P3]
 
 **Topics**: Points, vectors, cross product, convex hull (Graham scan / Andrew's monotone chain), polygon area (Shoelace formula), point-in-polygon, line intersection.
 
@@ -1751,8 +1751,8 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Convex Hull](https://cses.fi/problemset/task/2195) | CSES 2195 | Graham/Andrew |
-| 2 | ⭐ [Polygon Area](https://cses.fi/problemset/task/2191) | CSES 2191 | Shoelace formula |
+| 1 | ★ [Convex Hull](https://cses.fi/problemset/task/2195) | CSES 2195 | Graham/Andrew |
+| 2 | ★ [Polygon Area](https://cses.fi/problemset/task/2191) | CSES 2191 | Shoelace formula |
 | 3 | [Point Location Test](https://cses.fi/problemset/task/2189) | CSES 2189 | Cross product |
 | 4 | [Line Segment Intersection](https://cses.fi/problemset/task/2190) | CSES 2190 | Geometry |
 | 5 | [Polygon Lattice Points](https://cses.fi/problemset/task/2193) | CSES 2193 | Pick's theorem |
@@ -1763,7 +1763,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 ---
 
-## 7.8 Sweep Line 🟡 P3
+## 7.8 Sweep Line [P3]
 
 **Topics**: Line sweep for geometric problems, event-based processing, maintaining active set via balanced BST or segment tree.
 
@@ -1776,7 +1776,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | LC 218 | Sweep line + multiset |
+| 1 | ★ [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | LC 218 | Sweep line + multiset |
 | 2 | [Area of Rectangles](https://cses.fi/problemset/task/1741) | CSES 1741 | Sweep + SegTree |
 | 3 | [Room Allocation](https://cses.fi/problemset/task/1164) | CSES 1164 | Sweep / events |
 | 4 | [Minimum Euclidean Distance](https://cses.fi/problemset/task/2194) | CSES 2194 | Sweep / D&C |
@@ -1790,13 +1790,13 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 | Priority | Topics Covered |
 |----------|---------------|
-| 🔴 P1 | Mo's Algorithm, Heavy-Light Decomposition |
-| 🟠 P2 | Persistent Data Structures, D&C DP Optimization, Suffix Array |
-| 🟡 P3 | Aho-Corasick, Computational Geometry, Sweep Line |
+| [P1] | Mo's Algorithm, Heavy-Light Decomposition |
+| [P2] | Persistent Data Structures, D&C DP Optimization, Suffix Array |
+| [P3] | Aho-Corasick, Computational Geometry, Sweep Line |
 
 **Total problems in Tier 7: ~95**
 
-> ✅ **Checkpoint**: You can solve Div.1 D problems (2300+ rated). Mo's, HLD, persistent seg trees, and suffix arrays are in your toolkit. You can combine sweep line with segment trees.
+> [Checkpoint] **Checkpoint**: You can solve Div.1 D problems (2300+ rated). Mo's, HLD, persistent seg trees, and suffix arrays are in your toolkit. You can combine sweep line with segment trees.
 
 # Tier 8: Grandmaster (CF Rating 2400 – 2599)
 
@@ -1806,7 +1806,7 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 ---
 
-## 8.1 Max Flow & Min Cut 🔴 P1
+## 8.1 Max Flow & Min Cut [P1]
 
 **Topics**: Ford-Fulkerson method, Edmonds-Karp (BFS-based, O(VE^2)), Dinic's algorithm (O(V^2·E)), Min-Cut Max-Flow theorem, modeling problems as flow networks.
 
@@ -1819,8 +1819,8 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Download Speed](https://cses.fi/problemset/task/1694) | CSES 1694 | Max flow / Dinic |
-| 2 | ⭐ [Police Chase](https://cses.fi/problemset/task/1695) | CSES 1695 | Min cut |
+| 1 | ★ [Download Speed](https://cses.fi/problemset/task/1694) | CSES 1694 | Max flow / Dinic |
+| 2 | ★ [Police Chase](https://cses.fi/problemset/task/1695) | CSES 1695 | Min cut |
 | 3 | [FASTFLOW](https://www.spoj.com/problems/FASTFLOW/) | SPOJ | Dinic stress test |
 | 4 | [Escape (CF)](https://codeforces.com/problemset/problem/1082/G) | CF 1082G | Max flow |
 | 5 | [Maximum Flow](https://judge.yosupo.jp/problem/maximum_flow) | Library Checker | Template |
@@ -1829,7 +1829,7 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 ---
 
-## 8.2 Bipartite Matching 🔴 P1
+## 8.2 Bipartite Matching [P1]
 
 **Topics**: Maximum bipartite matching (Hopcroft-Karp O(E√V), Hungarian O(N^3)), König's theorem (min vertex cover = max matching in bipartite), Hall's theorem.
 
@@ -1842,7 +1842,7 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [School Dance](https://cses.fi/problemset/task/1696) | CSES 1696 | Bipartite matching |
+| 1 | ★ [School Dance](https://cses.fi/problemset/task/1696) | CSES 1696 | Bipartite matching |
 | 2 | [MATCHING - Fast Matching](https://www.spoj.com/problems/MATCHING/) | SPOJ | Hopcroft-Karp |
 | 3 | [Maximum Matching](https://judge.yosupo.jp/problem/bipartitematching) | Library Checker | Template |
 | 4 | [Course Schedule (Matching)](https://leetcode.com/problems/course-schedule/) | LC 207 | Matching variant |
@@ -1852,7 +1852,7 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 ---
 
-## 8.3 FFT & NTT (Polynomial Multiplication) 🟠 P2
+## 8.3 FFT & NTT (Polynomial Multiplication) [P2]
 
 **Topics**: Fast Fourier Transform for O(N log N) polynomial multiplication, Number Theoretic Transform (mod prime), convolution for counting problems.
 
@@ -1866,8 +1866,8 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Apples and Bananas](https://cses.fi/problemset/task/2111) | CSES 2111 | FFT archetype |
-| 2 | ⭐ [One Bit Positions](https://cses.fi/problemset/task/2112) | CSES 2112 | FFT / NTT |
+| 1 | ★ [Apples and Bananas](https://cses.fi/problemset/task/2111) | CSES 2111 | FFT archetype |
+| 2 | ★ [One Bit Positions](https://cses.fi/problemset/task/2112) | CSES 2112 | FFT / NTT |
 | 3 | [POLYMUL - Polynomial Multiplication](https://www.spoj.com/problems/POLYMUL/) | SPOJ | FFT template |
 | 4 | [Multiply Strings (FFT)](https://leetcode.com/problems/multiply-strings/) | LC 43 | Big number multiply |
 | 5 | [Convolution mod](https://judge.yosupo.jp/problem/convolution_mod) | Library Checker | NTT template |
@@ -1877,7 +1877,7 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 ---
 
-## 8.4 Convex Hull Trick (CHT) 🟠 P2
+## 8.4 Convex Hull Trick (CHT) [P2]
 
 **Topics**: Optimizing DP of the form `dp[i] = min/max(m_j · x_i + b_j)` where lines `y = m_j·x + b_j` are added dynamically. Li Chao tree for arbitrary order.
 
@@ -1890,8 +1890,8 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Monster Game I](https://cses.fi/problemset/task/2084) | CSES 2084 | CHT |
-| 2 | ⭐ [Monster Game II](https://cses.fi/problemset/task/2085) | CSES 2085 | Li Chao tree |
+| 1 | ★ [Monster Game I](https://cses.fi/problemset/task/2084) | CSES 2084 | CHT |
+| 2 | ★ [Monster Game II](https://cses.fi/problemset/task/2085) | CSES 2085 | Li Chao tree |
 | 3 | [NKLEAVES - Leaves](https://www.spoj.com/problems/NKLEAVES/) | SPOJ | DP + CHT |
 | 4 | [Kalila and Dimna](https://codeforces.com/problemset/problem/319/C) | CF 319C | CHT |
 | 5 | [Frog 3](https://atcoder.jp/contests/dp/tasks/dp_z) | AtCoder DP-Z | CHT template |
@@ -1900,7 +1900,7 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 ---
 
-## 8.5 Suffix Automaton 🟠 P2
+## 8.5 Suffix Automaton [P2]
 
 **Topics**: Building a suffix automaton (DAWG) in O(N), counting distinct substrings, LCS of two strings, substring matching.
 
@@ -1914,7 +1914,7 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [SUBLEX - Lex Substring Search](https://www.spoj.com/problems/SUBLEX/) | SPOJ | SAM archetype |
+| 1 | ★ [SUBLEX - Lex Substring Search](https://www.spoj.com/problems/SUBLEX/) | SPOJ | SAM archetype |
 | 2 | [Distinct Substrings (SAM)](https://www.spoj.com/problems/DISUBSTR/) | SPOJ | SAM |
 | 3 | [Suffix Automaton](https://judge.yosupo.jp/problem/number_of_substrings) | Library Checker | SAM template |
 | 4 | [LCS2 - Longest Common Substring II](https://www.spoj.com/problems/LCS2/) | SPOJ | SAM multi-string |
@@ -1924,7 +1924,7 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 ---
 
-## 8.6 Linear Algebra & Gaussian Elimination 🟡 P3
+## 8.6 Linear Algebra & Gaussian Elimination [P3]
 
 **Topics**: Gaussian elimination over reals and GF(2) (XOR), solving systems of linear equations, matrix rank, determinant, linear basis (XOR basis).
 
@@ -1936,7 +1936,7 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Ivan and Burgers](https://codeforces.com/problemset/problem/1100/F) | CF 1100F | Linear basis |
+| 1 | ★ [Ivan and Burgers](https://codeforces.com/problemset/problem/1100/F) | CF 1100F | Linear basis |
 | 2 | [XOR Basis](https://judge.yosupo.jp/problem/xor_basis) | Library Checker | Template |
 | 3 | [Maximum XOR Subarray](https://www.spoj.com/problems/XMAX/) | SPOJ | Linear basis |
 | 4 | [Gaussian Elimination GF2](https://judge.yosupo.jp/problem/system_of_linear_equations) | Library Checker | Template |
@@ -1947,7 +1947,7 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 ---
 
-## 8.7 Advanced Combinatorics 🟡 P3
+## 8.7 Advanced Combinatorics [P3]
 
 **Topics**: Burnside's lemma (counting under symmetry), Polya enumeration, Catalan numbers, Stirling numbers, advanced counting.
 
@@ -1960,7 +1960,7 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Colorings (Burnside)](https://codeforces.com/problemset/problem/1474/F) | CF 1474F | Burnside |
+| 1 | ★ [Colorings (Burnside)](https://codeforces.com/problemset/problem/1474/F) | CF 1474F | Burnside |
 | 2 | [Bracket Sequences I](https://cses.fi/problemset/task/2064) | CSES 2064 | Catalan |
 | 3 | [Bracket Sequences II](https://cses.fi/problemset/task/2187) | CSES 2187 | Catalan variant |
 | 4 | [Stirling Numbers 2nd](https://judge.yosupo.jp/problem/stirling_number_of_the_second_kind) | Library Checker | Template |
@@ -1970,7 +1970,7 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 ---
 
-## 8.8 Min-Cost Max Flow (MCMF) 🟢 P4
+## 8.8 Min-Cost Max Flow (MCMF) [P4]
 
 **Topics**: MCMF algorithms (SPFA-based, Bellman-Ford-based), modeling assignment/transportation problems as MCMF.
 
@@ -1983,7 +1983,7 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Parcel Delivery](https://cses.fi/problemset/task/2121) | CSES 2121 | MCMF |
+| 1 | ★ [Parcel Delivery](https://cses.fi/problemset/task/2121) | CSES 2121 | MCMF |
 | 2 | [Task Assignment](https://cses.fi/problemset/task/2129) | CSES 2129 | MCMF |
 | 3 | [Min Cost Flow](https://judge.yosupo.jp/problem/min_cost_b_flow) | Library Checker | MCMF template |
 | 4 | [GREED (SPOJ)](https://www.spoj.com/problems/GREED/) | SPOJ | MCMF |
@@ -1996,14 +1996,14 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 | Priority | Topics Covered |
 |----------|---------------|
-| 🔴 P1 | Max Flow & Min Cut, Bipartite Matching |
-| 🟠 P2 | FFT/NTT, Convex Hull Trick, Suffix Automaton |
-| 🟡 P3 | Linear Algebra & Gauss, Advanced Combinatorics |
-| 🟢 P4 | Min-Cost Max Flow |
+| [P1] | Max Flow & Min Cut, Bipartite Matching |
+| [P2] | FFT/NTT, Convex Hull Trick, Suffix Automaton |
+| [P3] | Linear Algebra & Gauss, Advanced Combinatorics |
+| [P4] | Min-Cost Max Flow |
 
 **Total problems in Tier 8: ~90**
 
-> ✅ **Checkpoint**: You can solve Div.1 D/E problems (2400–2600 rated). Flow networks, FFT, CHT, and suffix automatons are tools you reach for naturally.
+> [Checkpoint] **Checkpoint**: You can solve Div.1 D/E problems (2400–2600 rated). Flow networks, FFT, CHT, and suffix automatons are tools you reach for naturally.
 
 # Tier 9: International Grandmaster (CF Rating 2600 – 2899)
 
@@ -2013,7 +2013,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 ---
 
-## 9.1 Alien's Trick (Lambda / Lagrange Relaxation) 🔴 P1
+## 9.1 Alien's Trick (Lambda / Lagrange Relaxation) [P1]
 
 **Topics**: Penalty-based optimization to remove a constraint (e.g., "use exactly K segments"), WQS binary search (Aliens trick), trading off a Lagrange multiplier.
 
@@ -2027,7 +2027,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Aliens (IOI)](https://oj.uz/problem/view/IOI16_aliens) | IOI 2016 | Alien's trick archetype |
+| 1 | ★ [Aliens (IOI)](https://oj.uz/problem/view/IOI16_aliens) | IOI 2016 | Alien's trick archetype |
 | 2 | [Sequence (CF)](https://codeforces.com/problemset/problem/13/C) | CF 13C | WQS BS |
 | 3 | [Lamps (CF)](https://codeforces.com/problemset/problem/1515/G) | CF 1515G | Alien |
 | 4 | [Parallel Scheduling](https://codeforces.com/problemset/problem/802/O) | CF 802O | WQS BS |
@@ -2036,7 +2036,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 ---
 
-## 9.2 Generating Functions 🟠 P2
+## 9.2 Generating Functions [P2]
 
 **Topics**: Ordinary generating functions (OGF), exponential generating functions (EGF), operations on formal power series (addition, multiplication, inversion, composition), solving recurrences via generating functions.
 
@@ -2050,7 +2050,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Kinematic Equation](https://codeforces.com/problemset/problem/438/E) | CF 438E | GF |
+| 1 | ★ [Kinematic Equation](https://codeforces.com/problemset/problem/438/E) | CF 438E | GF |
 | 2 | [Inv of Formal Power Series](https://judge.yosupo.jp/problem/inv_of_formal_power_series) | Library Checker | Template |
 | 3 | [Exp of Formal Power Series](https://judge.yosupo.jp/problem/exp_of_formal_power_series) | Library Checker | Template |
 | 4 | [Log of Formal Power Series](https://judge.yosupo.jp/problem/log_of_formal_power_series) | Library Checker | Template |
@@ -2060,7 +2060,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 ---
 
-## 9.3 Link-Cut Trees 🟠 P2
+## 9.3 Link-Cut Trees [P2]
 
 **Topics**: Splay-tree-based dynamic forest structure. Supports cut, link, path queries, subtree queries — all in O(log N) amortized.
 
@@ -2075,7 +2075,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Dynamic Connectivity](https://cses.fi/problemset/task/2133) | CSES 2133 | LCT / offline DSU |
+| 1 | ★ [Dynamic Connectivity](https://cses.fi/problemset/task/2133) | CSES 2133 | LCT / offline DSU |
 | 2 | [Link-Cut Tree](https://judge.yosupo.jp/problem/dynamic_tree_vertex_add_path_sum) | Library Checker | LCT template |
 | 3 | [Dynamic Tree Vertex Set Path Composite](https://judge.yosupo.jp/problem/dynamic_tree_vertex_set_path_composite) | Library Checker | LCT |
 | 4 | [QTREE (Dynamic)](https://www.spoj.com/problems/QTREE/) | SPOJ | LCT |
@@ -2084,7 +2084,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 ---
 
-## 9.4 Lagrange Interpolation & Sum of Powers 🟡 P3
+## 9.4 Lagrange Interpolation & Sum of Powers [P3]
 
 **Topics**: Given K+1 points, recover polynomial of degree K in O(K) or O(K log K). Computing Σi^k for i=1..N in O(K).
 
@@ -2097,7 +2097,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Sum of k-th Powers](https://codeforces.com/problemset/problem/622/F) | CF 622F | Lagrange |
+| 1 | ★ [Sum of k-th Powers](https://codeforces.com/problemset/problem/622/F) | CF 622F | Lagrange |
 | 2 | [Polynomial Interpolation](https://judge.yosupo.jp/problem/polynomial_interpolation) | Library Checker | Template |
 | 3 | [Multipoint Evaluation](https://judge.yosupo.jp/problem/multipoint_evaluate) | Library Checker | Template |
 | 4 | [Xor-sequences](https://codeforces.com/problemset/problem/691/E) | CF 691E | Matrix exp + interpolation |
@@ -2106,7 +2106,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 ---
 
-## 9.5 Advanced Computational Geometry 🟡 P3
+## 9.5 Advanced Computational Geometry [P3]
 
 **Topics**: Half-plane intersection, Minkowski sum, rotating calipers, Voronoi diagram intuition, line-point duality, advanced sweep line problems.
 
@@ -2119,7 +2119,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Convex Hull](https://cses.fi/problemset/task/2195) | CSES 2195 | Convex hull |
+| 1 | ★ [Convex Hull](https://cses.fi/problemset/task/2195) | CSES 2195 | Convex hull |
 | 2 | [Minimum Euclidean Distance](https://cses.fi/problemset/task/2194) | CSES 2194 | Closest pair |
 | 3 | [All Manhattan Distances](https://cses.fi/problemset/task/3411) | CSES 3411 | Manhattan geometry |
 | 4 | [Half-plane Intersection](https://judge.yosupo.jp/problem/convex_hull) | Library Checker | Template |
@@ -2129,7 +2129,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 ---
 
-## 9.6 Advanced Number Theory 🟡 P3
+## 9.6 Advanced Number Theory [P3]
 
 **Topics**: Pollard's Rho (factoring large numbers), Miller-Rabin primality test, Chinese Remainder Theorem (CRT), discrete logarithm (Baby-step Giant-step), primitive roots.
 
@@ -2143,7 +2143,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Factorize](https://judge.yosupo.jp/problem/factorize) | Library Checker | Pollard's Rho |
+| 1 | ★ [Factorize](https://judge.yosupo.jp/problem/factorize) | Library Checker | Pollard's Rho |
 | 2 | [Primality Test](https://judge.yosupo.jp/problem/primality_test) | Library Checker | Miller-Rabin |
 | 3 | [Discrete Logarithm](https://judge.yosupo.jp/problem/discrete_logarithm_mod) | Library Checker | BSGS |
 | 4 | [CRT (Chinese Remainder)](https://judge.yosupo.jp/problem/chinese_remainder) | Library Checker | CRT |
@@ -2153,7 +2153,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 ---
 
-## 9.7 Sprague-Grundy Theory (Advanced) 🟢 P4
+## 9.7 Sprague-Grundy Theory (Advanced) [P4]
 
 **Topics**: Grundy numbers (nimbers) for impartial games, computing Grundy values via mex, combining independent games via XOR of Grundy values, Green Hackenbush.
 
@@ -2167,7 +2167,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Grundy's Game](https://cses.fi/problemset/task/2207) | CSES 2207 | Grundy |
+| 1 | ★ [Grundy's Game](https://cses.fi/problemset/task/2207) | CSES 2207 | Grundy |
 | 2 | [Nim Game III](https://cses.fi/problemset/task/2208) | CSES 2208 | Nim variant |
 | 3 | [Another Game (CF)](https://codeforces.com/problemset/problem/850/C) | CF 850C | Game theory variant |
 | 4 | [Game with string](https://codeforces.com/problemset/problem/155/B) | CF 155B | Grundy |
@@ -2180,14 +2180,14 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 | Priority | Topics Covered |
 |----------|---------------|
-| 🔴 P1 | Alien's Trick (WQS Binary Search) |
-| 🟠 P2 | Generating Functions, Link-Cut Trees |
-| 🟡 P3 | Lagrange Interpolation, Advanced Geometry, Advanced Number Theory |
-| 🟢 P4 | Sprague-Grundy Theory (Advanced) |
+| [P1] | Alien's Trick (WQS Binary Search) |
+| [P2] | Generating Functions, Link-Cut Trees |
+| [P3] | Lagrange Interpolation, Advanced Geometry, Advanced Number Theory |
+| [P4] | Sprague-Grundy Theory (Advanced) |
 
 **Total problems in Tier 9: ~75**
 
-> ✅ **Checkpoint**: You can solve Div.1 E/F problems. You read IOI/ICPC World Finals editorials comfortably. Almost any single technique is within reach.
+> [Checkpoint] **Checkpoint**: You can solve Div.1 E/F problems. You read IOI/ICPC World Finals editorials comfortably. Almost any single technique is within reach.
 
 # Tier 10: Legendary Grandmaster (CF Rating 3000+)
 
@@ -2197,7 +2197,7 @@ This is the pinnacle of competitive programming. At this tier you engage with re
 
 ---
 
-## 10.1 Advanced Flow & Matroid Theory 🔴 P1
+## 10.1 Advanced Flow & Matroid Theory [P1]
 
 **Topics**: General matching (Edmonds' blossom algorithm), matroid intersection, Gomory-Hu trees (all-pairs min-cut), min-cut applications, project selection.
 
@@ -2208,7 +2208,7 @@ This is the pinnacle of competitive programming. At this tier you engage with re
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [General Matching](https://judge.yosupo.jp/problem/general_matching) | Library Checker | Blossom |
+| 1 | ★ [General Matching](https://judge.yosupo.jp/problem/general_matching) | Library Checker | Blossom |
 | 2 | [Gomory-Hu Tree](https://judge.yosupo.jp/problem/gomory_hu_tree) | Library Checker | Template |
 | 3 | [Project Selection](https://codeforces.com/problemset/problem/311/E) | CF 311E | Min-cut |
 | 4 | [Minimum Weight Closure](https://codeforces.com/problemset/problem/1082/G) | CF 1082G | Flow + closure |
@@ -2217,7 +2217,7 @@ This is the pinnacle of competitive programming. At this tier you engage with re
 
 ---
 
-## 10.2 Top Trees & Euler Tour Trees 🟠 P2
+## 10.2 Top Trees & Euler Tour Trees [P2]
 
 **Topics**: Top Trees for aggregation over dynamic forests (more powerful than LCT for subtree queries), Euler Tour Trees (ETT) via balanced BSTs for dynamic forest connectivity and subtree aggregates.
 
@@ -2235,7 +2235,7 @@ This is the pinnacle of competitive programming. At this tier you engage with re
 
 ---
 
-## 10.3 Palindromic Tree (Eertree) 🟠 P2
+## 10.3 Palindromic Tree (Eertree) [P2]
 
 **Topics**: A tree of palindromic substrings. Each node represents a distinct palindromic substring. Built online in O(N).
 
@@ -2247,7 +2247,7 @@ This is the pinnacle of competitive programming. At this tier you engage with re
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Eertree / Palindromic Tree](https://judge.yosupo.jp/problem/eertree) | Library Checker | Template |
+| 1 | ★ [Eertree / Palindromic Tree](https://judge.yosupo.jp/problem/eertree) | Library Checker | Template |
 | 2 | [Palindromic Characteristics](https://codeforces.com/problemset/problem/906/E) | CF 906E | Eertree |
 | 3 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | LC 336 | Eertree / hashing |
 | 4 | [Palindromes (CF)](https://codeforces.com/problemset/problem/835/D) | CF 835D | Eertree |
@@ -2255,7 +2255,7 @@ This is the pinnacle of competitive programming. At this tier you engage with re
 
 ---
 
-## 10.4 Randomized Algorithms & Hashing Tricks 🟡 P3
+## 10.4 Randomized Algorithms & Hashing Tricks [P3]
 
 **Topics**: Randomized hashing for collision avoidance, treaps, random sampling, probabilistic arguments in solutions, birthday paradox applications, anti-hash tests.
 
@@ -2274,7 +2274,7 @@ This is the pinnacle of competitive programming. At this tier you engage with re
 
 ---
 
-## 10.5 Subset Sum Convolution & Advanced Transforms 🟡 P3
+## 10.5 Subset Sum Convolution & Advanced Transforms [P3]
 
 **Topics**: Subset sum convolution (combining SOS with inclusion-exclusion), Mobius inversion on subsets, OR/AND convolution, advanced NTT applications.
 
@@ -2284,7 +2284,7 @@ This is the pinnacle of competitive programming. At this tier you engage with re
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Subset Sum Convolution](https://judge.yosupo.jp/problem/subset_convolution) | Library Checker | Template |
+| 1 | ★ [Subset Sum Convolution](https://judge.yosupo.jp/problem/subset_convolution) | Library Checker | Template |
 | 2 | [Bitwise AND Convolution](https://judge.yosupo.jp/problem/bitwise_and_convolution) | Library Checker | Template |
 | 3 | [Bitwise OR Convolution](https://judge.yosupo.jp/problem/bitwise_or_convolution) | Library Checker | Template |
 | 4 | [Square Root of FPS](https://judge.yosupo.jp/problem/sqrt_of_formal_power_series) | Library Checker | FPS |
@@ -2293,7 +2293,7 @@ This is the pinnacle of competitive programming. At this tier you engage with re
 
 ---
 
-## 10.6 Miscellaneous Advanced & Research-Level 🟢 P4
+## 10.6 Miscellaneous Advanced & Research-Level [P4]
 
 **Topics**: Fractional cascading, wavelet tree, persistent arrays, succinct data structures, multi-dimensional range trees, kinetic data structures, offline-to-online reductions.
 
@@ -2316,12 +2316,12 @@ This is the pinnacle of competitive programming. At this tier you engage with re
 
 | Priority | Topics Covered |
 |----------|---------------|
-| 🔴 P1 | Advanced Flow, Matroid Theory, General Matching |
-| 🟠 P2 | Top Trees, Euler Tour Trees, Palindromic Tree |
-| 🟡 P3 | Randomized Algorithms, Subset Sum Convolution |
-| 🟢 P4 | Wavelet Trees, Fractional Cascading, Research-Level |
+| [P1] | Advanced Flow, Matroid Theory, General Matching |
+| [P2] | Top Trees, Euler Tour Trees, Palindromic Tree |
+| [P3] | Randomized Algorithms, Subset Sum Convolution |
+| [P4] | Wavelet Trees, Fractional Cascading, Research-Level |
 
 **Total problems in Tier 10: ~55**
 
-> ✅ **Checkpoint**: You are among the best competitive programmers in the world. You can solve nearly any problem given enough time and can invent new techniques when needed.
+> [Checkpoint] **Checkpoint**: You are among the best competitive programmers in the world. You can solve nearly any problem given enough time and can invent new techniques when needed.
 

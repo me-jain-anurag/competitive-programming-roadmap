@@ -6,7 +6,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 ---
 
-## 3.1 Binary Search on Answer & Parametric Search 🔴 P1
+## 3.1 Binary Search on Answer & Parametric Search [P1]
 
 **Topics**: Binary searching on the answer value instead of an index, "minimize the maximum" / "maximize the minimum" patterns, continuous binary search, ternary search on unimodal functions.
 
@@ -19,9 +19,9 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Factory Machines](https://cses.fi/problemset/task/1620) | CSES 1620 | BS on answer template |
-| 2 | ⭐ [Array Division](https://cses.fi/problemset/task/1085) | CSES 1085 | BS on answer |
-| 3 | ⭐ [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | LC 410 | BS on answer |
+| 1 | ★ [Factory Machines](https://cses.fi/problemset/task/1620) | CSES 1620 | BS on answer template |
+| 2 | ★ [Array Division](https://cses.fi/problemset/task/1085) | CSES 1085 | BS on answer |
+| 3 | ★ [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | LC 410 | BS on answer |
 | 4 | [Magic Powder](https://codeforces.com/problemset/problem/670/D1) | CF 670D1 | BS on answer |
 | 5 | [Aggressive Cows](https://www.spoj.com/problems/AGGRCOW/) | SPOJ | BS on answer classic |
 | 6 | [Capacity to Ship Packages](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | LC 1011 | BS on answer |
@@ -34,7 +34,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 ---
 
-## 3.2 Sorting Algorithms & Custom Comparators 🔴 P1
+## 3.2 Sorting Algorithms & Custom Comparators [P1]
 
 **Topics**: Merge sort, counting inversions, custom comparators, sorting by multiple keys, event sorting, coordinate compression via sorting.
 
@@ -47,7 +47,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Inversion Count](https://www.spoj.com/problems/INVCNT/) | SPOJ INVCNT | Merge sort |
+| 1 | ★ [Inversion Count](https://www.spoj.com/problems/INVCNT/) | SPOJ INVCNT | Merge sort |
 | 2 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | LC 912 | Implement merge sort |
 | 3 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | LC 56 | Sort by start |
 | 4 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | LC 435 | Sort by end (greedy) |
@@ -61,7 +61,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 ---
 
-## 3.3 Graph Theory Fundamentals: BFS & DFS 🔴 P1
+## 3.3 Graph Theory Fundamentals: BFS & DFS [P1]
 
 **Topics**: Graph representation (adjacency list), BFS (shortest path in unweighted graphs), DFS (cycle detection, connected components), grid graphs, bipartite checking.
 
@@ -75,8 +75,8 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Labyrinth](https://cses.fi/problemset/task/1193) | CSES 1193 | BFS shortest path |
-| 2 | ⭐ [Building Roads](https://cses.fi/problemset/task/1666) | CSES 1666 | Connected components |
+| 1 | ★ [Labyrinth](https://cses.fi/problemset/task/1193) | CSES 1193 | BFS shortest path |
+| 2 | ★ [Building Roads](https://cses.fi/problemset/task/1666) | CSES 1666 | Connected components |
 | 3 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | LC 200 | BFS/DFS flood fill |
 | 4 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | LC 733 | DFS |
 | 5 | [Building Teams](https://cses.fi/problemset/task/1668) | CSES 1668 | Bipartite check |
@@ -92,7 +92,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 ---
 
-## 3.4 Intro to Dynamic Programming 🔴 P1
+## 3.4 Intro to Dynamic Programming [P1]
 
 **Topics**: 1D DP (Fibonacci-style recurrences, coin change), memoization vs tabulation, state definition, identifying overlapping subproblems.
 
@@ -106,9 +106,9 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Dice Combinations](https://cses.fi/problemset/task/1633) | CSES 1633 | 1D DP template |
-| 2 | ⭐ [Minimizing Coins](https://cses.fi/problemset/task/1634) | CSES 1634 | Coin change (min) |
-| 3 | ⭐ [Coin Combinations I](https://cses.fi/problemset/task/1635) | CSES 1635 | Unbounded knapsack |
+| 1 | ★ [Dice Combinations](https://cses.fi/problemset/task/1633) | CSES 1633 | 1D DP template |
+| 2 | ★ [Minimizing Coins](https://cses.fi/problemset/task/1634) | CSES 1634 | Coin change (min) |
+| 3 | ★ [Coin Combinations I](https://cses.fi/problemset/task/1635) | CSES 1635 | Unbounded knapsack |
 | 4 | [Coin Combinations II](https://cses.fi/problemset/task/1636) | CSES 1636 | Ordered vs unordered |
 | 5 | [House Robber](https://leetcode.com/problems/house-robber/) | LC 198 | 1D DP classic |
 | 6 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | LC 213 | Circular variant |
@@ -123,7 +123,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 ---
 
-## 3.5 Greedy Algorithms (Intermediate) 🟠 P2
+## 3.5 Greedy Algorithms (Intermediate) [P2]
 
 **Topics**: Activity selection, fractional knapsack, Huffman coding intuition, exchange argument, scheduling problems, greedy ordering proofs.
 
@@ -136,20 +136,20 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Movie Festival](https://cses.fi/problemset/task/1629) | CSES 1629 | Activity selection |
-| 2 | ⭐ [Frog Jumps](https://codeforces.com/problemset/problem/1324/C) | CF 1324C | Constructive greedy |
+| 1 | ★ [Movie Festival](https://cses.fi/problemset/task/1629) | CSES 1629 | Activity selection |
+| 2 | ★ [Frog Jumps](https://codeforces.com/problemset/problem/1324/C) | CF 1324C | Constructive greedy |
 | 3 | [Jump Game](https://leetcode.com/problems/jump-game/) | LC 55 | Greedy reachability |
 | 4 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | LC 45 | Greedy BFS |
 | 5 | [Gas Station](https://leetcode.com/problems/gas-station/) | LC 134 | Greedy circular |
 | 6 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | LC 881 | Sort + two pointers |
 | 7 | [Candy](https://leetcode.com/problems/candy/) | LC 135 | Two-pass greedy |
-| 8 | ⭐ [Stick Divisions](https://cses.fi/problemset/task/1161) | CSES 1161 | Reverse Huffman |
+| 8 | ★ [Stick Divisions](https://cses.fi/problemset/task/1161) | CSES 1161 | Reverse Huffman |
 | 9 | [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/) | LC 2439 | Prefix avg greedy |
 | 10 | [Berry Picking](https://usaco.org/index.php?page=viewproblem2&cpid=990) | USACO Silver | Greedy + BS |
 
 ---
 
-## 3.6 2D DP & Grid DP 🟠 P2
+## 3.6 2D DP & Grid DP [P2]
 
 **Topics**: Grid path counting, grid minimum cost path, edit distance, common subsequence/substring, 2D state tables.
 
@@ -162,9 +162,9 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Grid Paths](https://cses.fi/problemset/task/1638) | CSES 1638 | Grid DP with obstacles |
-| 2 | ⭐ [Edit Distance](https://cses.fi/problemset/task/1639) | CSES 1639 | Classic 2D DP |
-| 3 | ⭐ [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | LC 1143 | LCS |
+| 1 | ★ [Grid Paths](https://cses.fi/problemset/task/1638) | CSES 1638 | Grid DP with obstacles |
+| 2 | ★ [Edit Distance](https://cses.fi/problemset/task/1639) | CSES 1639 | Classic 2D DP |
+| 3 | ★ [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | LC 1143 | LCS |
 | 4 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | LC 62 | Grid counting |
 | 5 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | LC 63 | With obstacles |
 | 6 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | LC 64 | Grid min cost |
@@ -177,7 +177,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 ---
 
-## 3.7 Union-Find (DSU) 🟡 P3
+## 3.7 Union-Find (DSU) [P3]
 
 **Topics**: Disjoint Set Union with path compression and union by rank, connected components dynamically, cycle detection in undirected graphs.
 
@@ -191,7 +191,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Road Construction](https://cses.fi/problemset/task/1676) | CSES 1676 | DSU template |
+| 1 | ★ [Road Construction](https://cses.fi/problemset/task/1676) | CSES 1676 | DSU template |
 | 2 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | LC 684 | Cycle via DSU |
 | 3 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | LC 547 | Connected components |
 | 4 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | LC 721 | DSU application |
@@ -204,7 +204,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 ---
 
-## 3.8 Constructive Algorithms & Observations 🟡 P3
+## 3.8 Constructive Algorithms & Observations [P3]
 
 **Topics**: Building valid solutions from constraints, finding patterns via small cases, parity/modularity arguments to determine if solutions exist, constructing permutations/arrays with given properties.
 
@@ -217,7 +217,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [XXXXX](https://codeforces.com/problemset/problem/1364/A) | CF 1364A | Subarray divisibility |
+| 1 | ★ [XXXXX](https://codeforces.com/problemset/problem/1364/A) | CF 1364A | Subarray divisibility |
 | 2 | [Frog Jumps](https://codeforces.com/problemset/problem/1324/C) | CF 1324C | Constructive |
 | 3 | [Make It Beautiful](https://codeforces.com/problemset/problem/1714/C) | CF 1714C | Constructive |
 | 4 | [Balanced Brackets](https://codeforces.com/problemset/problem/1556/C) | CF 1556C | Constructive |
@@ -230,7 +230,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 ---
 
-## 3.9 Meet-in-the-Middle 🟢 P4
+## 3.9 Meet-in-the-Middle [P4]
 
 **Topics**: Splitting the input into two halves, enumerating all possibilities for each half, combining results. Turns O(2^N) into O(2^(N/2) · log).
 
@@ -243,7 +243,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Meet in the Middle](https://cses.fi/problemset/task/1628) | CSES 1628 | Template |
+| 1 | ★ [Meet in the Middle](https://cses.fi/problemset/task/1628) | CSES 1628 | Template |
 | 2 | [4Sum](https://leetcode.com/problems/4sum/) | LC 18 | Two-pointer variant |
 | 3 | [Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/) | LC 1755 | MITM exact |
 | 4 | [Partition Equal Subset](https://leetcode.com/problems/partition-equal-subset-sum/) | LC 416 | DP or MITM |
@@ -256,11 +256,11 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 | Priority | Topics Covered |
 |----------|---------------|
-| 🔴 P1 | BS on Answer, Sorting & Comparators, BFS/DFS Graphs, Intro DP |
-| 🟠 P2 | Intermediate Greedy, 2D DP & Grid DP |
-| 🟡 P3 | Union-Find (DSU), Constructive Algorithms |
-| 🟢 P4 | Meet-in-the-Middle |
+| [P1] | BS on Answer, Sorting & Comparators, BFS/DFS Graphs, Intro DP |
+| [P2] | Intermediate Greedy, 2D DP & Grid DP |
+| [P3] | Union-Find (DSU), Constructive Algorithms |
+| [P4] | Meet-in-the-Middle |
 
 **Total problems in Tier 3: ~107**
 
-> ✅ **Checkpoint**: You can solve CF Div.2 C problems (1300–1500 rated). You can implement BFS/DFS from scratch, do binary search on answer, and solve basic DP problems.
+> [Checkpoint] **Checkpoint**: You can solve CF Div.2 C problems (1300–1500 rated). You can implement BFS/DFS from scratch, do binary search on answer, and solve basic DP problems.

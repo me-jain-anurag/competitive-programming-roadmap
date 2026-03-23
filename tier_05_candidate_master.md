@@ -6,7 +6,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 ---
 
-## 5.1 Segment Tree (Point Update, Range Query) 🔴 P1
+## 5.1 Segment Tree (Point Update, Range Query) [P1]
 
 **Topics**: Segment tree build, point update, range query (sum, min, max, GCD), iterative vs recursive implementation, coordinate compression with segment trees.
 
@@ -20,8 +20,8 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Dynamic Range Sum Queries](https://cses.fi/problemset/task/1648) | CSES 1648 | SegTree template |
-| 2 | ⭐ [Dynamic Range Minimum Queries](https://cses.fi/problemset/task/1649) | CSES 1649 | SegTree min |
+| 1 | ★ [Dynamic Range Sum Queries](https://cses.fi/problemset/task/1648) | CSES 1648 | SegTree template |
+| 2 | ★ [Dynamic Range Minimum Queries](https://cses.fi/problemset/task/1649) | CSES 1649 | SegTree min |
 | 3 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | LC 307 | SegTree / BIT |
 | 4 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | LC 315 | SegTree / BIT |
 | 5 | [Hotel Queries](https://cses.fi/problemset/task/1143) | CSES 1143 | SegTree + walk |
@@ -35,7 +35,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 ---
 
-## 5.2 Binary Indexed Tree (Fenwick Tree) 🔴 P1
+## 5.2 Binary Indexed Tree (Fenwick Tree) [P1]
 
 **Topics**: BIT for prefix sums with point updates, 2D BIT, order statistics with BIT, difference array + BIT for range update point query.
 
@@ -49,7 +49,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Dynamic Range Sum](https://cses.fi/problemset/task/1648) | CSES 1648 | BIT or SegTree |
+| 1 | ★ [Dynamic Range Sum](https://cses.fi/problemset/task/1648) | CSES 1648 | BIT or SegTree |
 | 2 | [Inversion Count (BIT)](https://www.spoj.com/problems/INVCNT/) | SPOJ | BIT approach |
 | 3 | [Josephus Queries](https://cses.fi/problemset/task/2162) | CSES 2162 | BIT / simulation |
 | 4 | [Nested Ranges Count](https://cses.fi/problemset/task/2169) | CSES 2169 | BIT + sort |
@@ -60,7 +60,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 ---
 
-## 5.3 Bitmask DP 🔴 P1
+## 5.3 Bitmask DP [P1]
 
 **Topics**: DP where state includes a bitmask representing a subset of N ≤ 20 elements. TSP, assignment problems, Hamiltonian paths.
 
@@ -73,8 +73,8 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Hamiltonian Flights](https://cses.fi/problemset/task/1690) | CSES 1690 | Bitmask DP |
-| 2 | ⭐ [Elevator Rides](https://cses.fi/problemset/task/1653) | CSES 1653 | Bitmask DP |
+| 1 | ★ [Hamiltonian Flights](https://cses.fi/problemset/task/1690) | CSES 1690 | Bitmask DP |
+| 2 | ★ [Elevator Rides](https://cses.fi/problemset/task/1653) | CSES 1653 | Bitmask DP |
 | 3 | [Shortest Hamilton Walk](https://codeforces.com/problemset/problem/580/D) | CF 580D | Bitmask DP |
 | 4 | [Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) | LC 943 | TSP variant |
 | 5 | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | LC 698 | Bitmask DP |
@@ -86,7 +86,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 ---
 
-## 5.4 Tree DP 🟠 P2
+## 5.4 Tree DP [P2]
 
 **Topics**: DP on trees (rooted), computing subtree properties, diameter, max independent set, matching on trees.
 
@@ -99,8 +99,8 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Tree Diameter](https://cses.fi/problemset/task/1131) | CSES 1131 | DFS/BFS |
-| 2 | ⭐ [Tree Matching](https://cses.fi/problemset/task/1130) | CSES 1130 | Tree DP |
+| 1 | ★ [Tree Diameter](https://cses.fi/problemset/task/1131) | CSES 1131 | DFS/BFS |
+| 2 | ★ [Tree Matching](https://cses.fi/problemset/task/1130) | CSES 1130 | Tree DP |
 | 3 | [Subordinates](https://cses.fi/problemset/task/1674) | CSES 1674 | Subtree size |
 | 4 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | LC 124 | Tree DP |
 | 5 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | LC 543 | Tree DP |
@@ -112,7 +112,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 ---
 
-## 5.5 LCA & Binary Lifting 🟠 P2
+## 5.5 LCA & Binary Lifting [P2]
 
 **Topics**: Lowest Common Ancestor computation, binary lifting (sparse table on tree), ancestor queries, path queries decomposition.
 
@@ -125,8 +125,8 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Company Queries I](https://cses.fi/problemset/task/1687) | CSES 1687 | Binary lifting |
-| 2 | ⭐ [Company Queries II](https://cses.fi/problemset/task/1688) | CSES 1688 | LCA |
+| 1 | ★ [Company Queries I](https://cses.fi/problemset/task/1687) | CSES 1687 | Binary lifting |
+| 2 | ★ [Company Queries II](https://cses.fi/problemset/task/1688) | CSES 1688 | LCA |
 | 3 | [Distance Queries](https://cses.fi/problemset/task/1135) | CSES 1135 | LCA + depth |
 | 4 | [Counting Paths](https://cses.fi/problemset/task/1136) | CSES 1136 | LCA + diff on tree |
 | 5 | [LCA of Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | LC 236 | DFS |
@@ -138,7 +138,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 ---
 
-## 5.6 Sparse Table & RMQ 🟡 P3
+## 5.6 Sparse Table & RMQ [P3]
 
 **Topics**: Sparse Table for O(1) range minimum/maximum queries (static), precomputation in O(N log N), idempotent operations.
 
@@ -152,7 +152,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Static Range Min Queries](https://cses.fi/problemset/task/1647) | CSES 1647 | Sparse table |
+| 1 | ★ [Static Range Min Queries](https://cses.fi/problemset/task/1647) | CSES 1647 | Sparse table |
 | 2 | [RMQSQ](https://www.spoj.com/problems/RMQSQ/) | SPOJ | RMQ classic |
 | 3 | [THRBL - Troublesome](https://www.spoj.com/problems/THRBL/) | SPOJ | Range max query |
 | 4 | [Maximum of Minimums of Array](https://leetcode.com/problems/minimum-of-maximum-of-minimum-of-maximum/) | LC | Sparse table app |
@@ -161,7 +161,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 ---
 
-## 5.7 Digit DP 🟡 P3
+## 5.7 Digit DP [P3]
 
 **Topics**: Counting numbers in range [L, R] satisfying some digit-based property. Tight/loose constraint, leading zeros handling.
 
@@ -176,7 +176,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [LUCIFER - Lucifer Number](https://www.spoj.com/problems/LUCIFER/) | SPOJ | Digit DP intro |
+| 1 | ★ [LUCIFER - Lucifer Number](https://www.spoj.com/problems/LUCIFER/) | SPOJ | Digit DP intro |
 | 2 | [Counting Numbers](https://cses.fi/problemset/task/2220) | CSES 2220 | Digit DP |
 | 3 | [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/) | LC 902 | Digit DP |
 | 4 | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | LC 357 | Digit DP / math |
@@ -188,7 +188,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 ---
 
-## 5.8 Probability DP & Expected Value 🟡 P3
+## 5.8 Probability DP & Expected Value [P3]
 
 **Topics**: Expected value via DP, linearity of expectation, probability as DP state, Markov chains (simple).
 
@@ -201,7 +201,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Dice Probability](https://cses.fi/problemset/task/1725) | CSES 1725 | Probability DP |
+| 1 | ★ [Dice Probability](https://cses.fi/problemset/task/1725) | CSES 1725 | Probability DP |
 | 2 | [Soup Servings](https://leetcode.com/problems/soup-servings/) | LC 808 | Probability DP |
 | 3 | [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) | LC 688 | Probability DP |
 | 4 | [New 21 Game](https://leetcode.com/problems/new-21-game/) | LC 837 | Probability DP |
@@ -211,7 +211,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 ---
 
-## 5.9 Monotonic Deque & Sliding Window Max/Min 🟢 P4
+## 5.9 Monotonic Deque & Sliding Window Max/Min [P4]
 
 **Topics**: Sliding window maximum/minimum using deque, DP optimization with monotonic deque.
 
@@ -224,7 +224,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | LC 239 | Deque template |
+| 1 | ★ [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | LC 239 | Deque template |
 | 2 | [Sliding Cost](https://cses.fi/problemset/task/1077) | CSES 1077 | Two heaps + sliding |
 | 3 | [Sliding Median](https://cses.fi/problemset/task/1076) | CSES 1076 | Two multisets |
 | 4 | [Jump Game VI](https://leetcode.com/problems/jump-game-vi/) | LC 1696 | DP + deque |
@@ -234,7 +234,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 ---
 
-## 5.10 Policy-Based Data Structures (PBDS) 🟢 P4
+## 5.10 Policy-Based Data Structures (PBDS) [P4]
 
 **Topics**: GNU `__gnu_pbds::tree` (ordered set / order statistics tree), finding k-th smallest element in O(log N), counting elements strictly less than X in O(log N), using PBDS as a replacement for balanced BSTs.
 
@@ -250,8 +250,8 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [List Removals](https://cses.fi/problemset/task/1749) | CSES 1749 | Order statistics |
-| 2 | ⭐ [Josephus Problem II](https://cses.fi/problemset/task/2163) | CSES 2163 | PBDS / SegTree |
+| 1 | ★ [List Removals](https://cses.fi/problemset/task/1749) | CSES 1749 | Order statistics |
+| 2 | ★ [Josephus Problem II](https://cses.fi/problemset/task/2163) | CSES 2163 | PBDS / SegTree |
 | 3 | [Salary Queries](https://cses.fi/problemset/task/1144) | CSES 1144 | PBDS or SegTree+compress |
 | 4 | [Inversion Count](https://www.spoj.com/problems/INVCNT/) | SPOJ | PBDS approach |
 | 5 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | LC 315 | PBDS / BIT / SegTree |
@@ -267,11 +267,11 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 
 | Priority | Topics Covered |
 |----------|---------------|
-| 🔴 P1 | Segment Tree, Fenwick Tree (BIT), Bitmask DP |
-| 🟠 P2 | Tree DP, LCA & Binary Lifting |
-| 🟡 P3 | Sparse Table, Digit DP, Probability DP |
-| 🟢 P4 | Monotonic Deque, Policy-Based Data Structures (PBDS) |
+| [P1] | Segment Tree, Fenwick Tree (BIT), Bitmask DP |
+| [P2] | Tree DP, LCA & Binary Lifting |
+| [P3] | Sparse Table, Digit DP, Probability DP |
+| [P4] | Monotonic Deque, Policy-Based Data Structures (PBDS) |
 
 **Total problems in Tier 5: ~118**
 
-> ✅ **Checkpoint**: You can solve Div.1 B / Div.2 E problems (1900–2000 rated). Segment trees and bitmask DP are comfortable. You can implement LCA from scratch.
+> [Checkpoint] **Checkpoint**: You can solve Div.1 B / Div.2 E problems (1900–2000 rated). Segment trees and bitmask DP are comfortable. You can implement LCA from scratch.

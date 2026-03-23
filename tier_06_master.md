@@ -6,7 +6,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 ---
 
-## 6.1 Segment Tree with Lazy Propagation 🔴 P1
+## 6.1 Segment Tree with Lazy Propagation [P1]
 
 **Topics**: Range update + range query, lazy propagation for additive updates, multiplicative updates, assignment updates, combining different lazy operations.
 
@@ -19,8 +19,8 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Range Update Queries](https://cses.fi/problemset/task/1651) | CSES 1651 | Lazy SegTree template |
-| 2 | ⭐ [Range Updates and Sums](https://cses.fi/problemset/task/1735) | CSES 1735 | Lazy add + set |
+| 1 | ★ [Range Update Queries](https://cses.fi/problemset/task/1651) | CSES 1651 | Lazy SegTree template |
+| 2 | ★ [Range Updates and Sums](https://cses.fi/problemset/task/1735) | CSES 1735 | Lazy add + set |
 | 3 | [Polynomial Queries](https://cses.fi/problemset/task/1736) | CSES 1736 | Arithmetic progression lazy |
 | 4 | [HORRIBLE - Horrible Queries](https://www.spoj.com/problems/HORRIBLE/) | SPOJ | Lazy SegTree |
 | 5 | [LITE - Light Switching](https://www.spoj.com/problems/LITE/) | SPOJ | XOR lazy |
@@ -32,7 +32,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 ---
 
-## 6.2 Euler Tour & Subtree/Path Queries on Trees 🔴 P1
+## 6.2 Euler Tour & Subtree/Path Queries on Trees [P1]
 
 **Topics**: Euler Tour (flattening a tree into an array), subtree queries via range queries on the flattened array, path queries with LCA decomposition.
 
@@ -45,8 +45,8 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Subtree Queries](https://cses.fi/problemset/task/1137) | CSES 1137 | Euler Tour + BIT |
-| 2 | ⭐ [Path Queries](https://cses.fi/problemset/task/1138) | CSES 1138 | Euler Tour / HLD |
+| 1 | ★ [Subtree Queries](https://cses.fi/problemset/task/1137) | CSES 1137 | Euler Tour + BIT |
+| 2 | ★ [Path Queries](https://cses.fi/problemset/task/1138) | CSES 1138 | Euler Tour / HLD |
 | 3 | [Path Queries II](https://cses.fi/problemset/task/2134) | CSES 2134 | HLD + SegTree |
 | 4 | [Distinct Colors](https://cses.fi/problemset/task/1139) | CSES 1139 | Small-to-large merge |
 | 5 | [Count Nodes in Sub-Tree](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) | LC 1519 | DFS / Euler tour |
@@ -56,7 +56,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 ---
 
-## 6.3 Re-rooting DP 🟠 P2
+## 6.3 Re-rooting DP [P2]
 
 **Topics**: Computing an answer for every node as root efficiently. Bottom-up DFS followed by top-down DFS to "re-root" the tree.
 
@@ -69,8 +69,8 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Tree Distances I](https://cses.fi/problemset/task/1132) | CSES 1132 | Re-rooting farthest |
-| 2 | ⭐ [Tree Distances II](https://cses.fi/problemset/task/1133) | CSES 1133 | Re-rooting sum |
+| 1 | ★ [Tree Distances I](https://cses.fi/problemset/task/1132) | CSES 1132 | Re-rooting farthest |
+| 2 | ★ [Tree Distances II](https://cses.fi/problemset/task/1133) | CSES 1133 | Re-rooting sum |
 | 3 | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | LC 834 | Re-rooting |
 | 4 | [Count Subtrees with Max Distance](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/) | LC 1617 | Bitmask + tree |
 | 5 | [Minimum Edge Weight Equilibrium](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/) | LC 2846 | LCA + re-root |
@@ -79,7 +79,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 ---
 
-## 6.4 SOS DP (Sum over Subsets) 🟠 P2
+## 6.4 SOS DP (Sum over Subsets) [P2]
 
 **Topics**: Efficiently computing sum/count over all subsets (or supersets) of each bitmask. O(N · 2^N) using the "zeta/Mobius transform" approach.
 
@@ -92,7 +92,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Vowels (SOS DP)](https://codeforces.com/problemset/problem/165/E) | CF 165E | SOS DP archetype |
+| 1 | ★ [Vowels (SOS DP)](https://codeforces.com/problemset/problem/165/E) | CF 165E | SOS DP archetype |
 | 2 | [Compatible Numbers](https://codeforces.com/problemset/problem/449/D) | CF 449D | SOS DP |
 | 3 | [Counting Bits](https://codeforces.com/problemset/problem/1208/F) | CF 1208F | SOS DP |
 | 4 | [XOR Inverse](https://codeforces.com/problemset/problem/1416/C) | CF 1416C | Bit contribution |
@@ -102,7 +102,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 ---
 
-## 6.5 SCCs, 2-SAT & Advanced Graph 🟠 P2
+## 6.5 SCCs, 2-SAT & Advanced Graph [P2]
 
 **Topics**: Strongly Connected Components (Kosaraju / Tarjan), 2-SAT via implication graphs, condensation graph, topological sort on condensation.
 
@@ -115,8 +115,8 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Giant Pizza](https://cses.fi/problemset/task/1684) | CSES 1684 | 2-SAT |
-| 2 | ⭐ [Planets and Kingdoms](https://cses.fi/problemset/task/1683) | CSES 1683 | SCCs |
+| 1 | ★ [Giant Pizza](https://cses.fi/problemset/task/1684) | CSES 1684 | 2-SAT |
+| 2 | ★ [Planets and Kingdoms](https://cses.fi/problemset/task/1683) | CSES 1683 | SCCs |
 | 3 | [Coin Collector](https://cses.fi/problemset/task/1686) | CSES 1686 | Condensation + DAG DP |
 | 4 | [Flight Routes Check](https://cses.fi/problemset/task/1682) | CSES 1682 | SCC check |
 | 5 | [Kosaraju (SPOJ)](https://www.spoj.com/problems/KOSARAJU/) | SPOJ | SCC template |
@@ -126,7 +126,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 ---
 
-## 6.6 Inclusion-Exclusion Principle 🟡 P3
+## 6.6 Inclusion-Exclusion Principle [P3]
 
 **Topics**: Counting via inclusion-exclusion, derangements, Euler's totient function, sieve-based inclusion-exclusion.
 
@@ -139,7 +139,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Prime Multiples](https://cses.fi/problemset/task/2185) | CSES 2185 | Inclusion-Exclusion |
+| 1 | ★ [Prime Multiples](https://cses.fi/problemset/task/2185) | CSES 2185 | Inclusion-Exclusion |
 | 2 | [Christmas Party](https://cses.fi/problemset/task/1717) | CSES 1717 | Derangements |
 | 3 | [Coprime Pairs](https://codeforces.com/problemset/problem/547/C) | CF 547C | Incl-Excl + Mobius |
 | 4 | [Counting Coprime Pairs](https://cses.fi/problemset/task/2417) | CSES 2417 | Totient / IE |
@@ -149,7 +149,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 ---
 
-## 6.7 Matrix Exponentiation 🟡 P3
+## 6.7 Matrix Exponentiation [P3]
 
 **Topics**: Representing linear recurrences as matrix multiplication, computing n-th term in O(K^3 · log N) where K = matrix size.
 
@@ -162,7 +162,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Graph Paths I](https://cses.fi/problemset/task/1723) | CSES 1723 | Matrix exp |
+| 1 | ★ [Graph Paths I](https://cses.fi/problemset/task/1723) | CSES 1723 | Matrix exp |
 | 2 | [Fibonacci Numbers](https://cses.fi/problemset/task/1722) | CSES 1722 | Matrix exp |
 | 3 | [Graph Paths II](https://cses.fi/problemset/task/1724) | CSES 1724 | Matrix exp min-plus |
 | 4 | [Throwing Dice](https://cses.fi/problemset/task/1096) | CSES 1096 | Matrix exp |
@@ -172,7 +172,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 ---
 
-## 6.8 Centroid Decomposition 🟡 P3
+## 6.8 Centroid Decomposition [P3]
 
 **Topics**: Finding centroids of trees recursively, counting paths with specific properties, point queries on trees.
 
@@ -186,7 +186,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Xenia and Tree](https://codeforces.com/problemset/problem/342/E) | CF 342E | Centroid decomp |
+| 1 | ★ [Xenia and Tree](https://codeforces.com/problemset/problem/342/E) | CF 342E | Centroid decomp |
 | 2 | [Finding Centroids](https://cses.fi/problemset/task/2079) | CSES 2079 | Centroid basics |
 | 3 | [QTREE5](https://www.spoj.com/problems/QTREE5/) | SPOJ | Centroid decomp |
 | 4 | [Race](https://oj.uz/problem/view/IOI11_race) | IOI 2011 | Centroid |
@@ -195,7 +195,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 ---
 
-## 6.9 Advanced Greedy & Observation 🟢 P4
+## 6.9 Advanced Greedy & Observation [P4]
 
 **Topics**: Exchange arguments (formal proofs), greedy with priority queues, multi-step greedy strategies, observation-heavy problems.
 
@@ -208,7 +208,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Reorganize String](https://leetcode.com/problems/reorganize-string/) | LC 767 | Greedy + PQ |
+| 1 | ★ [Reorganize String](https://leetcode.com/problems/reorganize-string/) | LC 767 | Greedy + PQ |
 | 2 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | LC 621 | Greedy counting |
 | 3 | [IPO](https://leetcode.com/problems/ipo/) | LC 502 | Greedy + PQ |
 | 4 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | LC 871 | Greedy PQ |
@@ -222,11 +222,11 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 
 | Priority | Topics Covered |
 |----------|---------------|
-| 🔴 P1 | Lazy Segment Tree, Euler Tour + Subtree/Path Queries |
-| 🟠 P2 | Re-rooting DP, SOS DP, SCCs & 2-SAT |
-| 🟡 P3 | Inclusion-Exclusion, Matrix Exponentiation, Centroid Decomposition |
-| 🟢 P4 | Advanced Greedy & Observation |
+| [P1] | Lazy Segment Tree, Euler Tour + Subtree/Path Queries |
+| [P2] | Re-rooting DP, SOS DP, SCCs & 2-SAT |
+| [P3] | Inclusion-Exclusion, Matrix Exponentiation, Centroid Decomposition |
+| [P4] | Advanced Greedy & Observation |
 
 **Total problems in Tier 6: ~105**
 
-> ✅ **Checkpoint**: You can solve Div.1 C problems (2100–2300 rated). Lazy segment trees, Euler tours, and 2-SAT are in your toolkit. You can combine multiple structures to solve one problem.
+> [Checkpoint] **Checkpoint**: You can solve Div.1 C problems (2100–2300 rated). Lazy segment trees, Euler tours, and 2-SAT are in your toolkit. You can combine multiple structures to solve one problem.

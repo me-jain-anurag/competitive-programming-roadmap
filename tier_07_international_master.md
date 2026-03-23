@@ -6,7 +6,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 ---
 
-## 7.1 Mo's Algorithm & Offline Queries 🔴 P1
+## 7.1 Mo's Algorithm & Offline Queries [P1]
 
 **Topics**: Mo's algorithm for offline range queries, block decomposition (√N), Mo's with updates, Mo's on trees.
 
@@ -20,9 +20,9 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Distinct Values Queries](https://cses.fi/problemset/task/1734) | CSES 1734 | Mo's / offline BIT |
-| 2 | ⭐ [D-query (Distinct Query)](https://www.spoj.com/problems/DQUERY/) | SPOJ DQUERY | Mo's archetype |
-| 3 | ⭐ [Powerful Array](https://codeforces.com/problemset/problem/86/D) | CF 86D | Mo's |
+| 1 | ★ [Distinct Values Queries](https://cses.fi/problemset/task/1734) | CSES 1734 | Mo's / offline BIT |
+| 2 | ★ [D-query (Distinct Query)](https://www.spoj.com/problems/DQUERY/) | SPOJ DQUERY | Mo's archetype |
+| 3 | ★ [Powerful Array](https://codeforces.com/problemset/problem/86/D) | CF 86D | Mo's |
 | 4 | [XOR and Favorite Number](https://codeforces.com/problemset/problem/617/E) | CF 617E | Mo's + XOR |
 | 5 | [Ynoi Easy Version](https://codeforces.com/problemset/problem/1311/F) | CF | Mo's advanced |
 | 6 | [Jeff and Removing Periods](https://codeforces.com/problemset/problem/351/D) | CF 351D | Mo's + observation |
@@ -32,7 +32,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 ---
 
-## 7.2 Heavy-Light Decomposition (HLD) 🔴 P1
+## 7.2 Heavy-Light Decomposition (HLD) [P1]
 
 **Topics**: Decomposing a tree into heavy chains, answering path queries with SegTree on chains, path updates.
 
@@ -46,7 +46,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Path Queries II](https://cses.fi/problemset/task/2134) | CSES 2134 | HLD + SegTree |
+| 1 | ★ [Path Queries II](https://cses.fi/problemset/task/2134) | CSES 2134 | HLD + SegTree |
 | 2 | [QTREE - Query on a Tree](https://www.spoj.com/problems/QTREE/) | SPOJ QTREE | HLD archetype |
 | 3 | [QTREE3](https://www.spoj.com/problems/QTREE3/) | SPOJ | HLD |
 | 4 | [GOT - Gao on a Tree](https://www.spoj.com/problems/GOT/) | SPOJ | HLD / Euler Tour |
@@ -57,7 +57,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 ---
 
-## 7.3 Persistent Data Structures 🟠 P2
+## 7.3 Persistent Data Structures [P2]
 
 **Topics**: Persistent segment tree (version history), persistent trie, functional updates (create new version without modifying old).
 
@@ -70,7 +70,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Army Creation](https://codeforces.com/problemset/problem/813/E) | CF 813E | Persistent SegTree |
+| 1 | ★ [Army Creation](https://codeforces.com/problemset/problem/813/E) | CF 813E | Persistent SegTree |
 | 2 | [MKTHNUM - K-th Number](https://www.spoj.com/problems/MKTHNUM/) | SPOJ | Persistent SegTree |
 | 3 | [COT - Count on a Tree](https://www.spoj.com/problems/COT/) | SPOJ | Persistent SegTree on tree |
 | 4 | [Kth Smallest Element in Range](https://judge.yosupo.jp/problem/range_kth_smallest) | Library Checker | Persistent SegTree |
@@ -80,7 +80,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 ---
 
-## 7.4 Divide & Conquer DP Optimization 🟠 P2
+## 7.4 Divide & Conquer DP Optimization [P2]
 
 **Topics**: Optimizing DP transitions from O(N^2) to O(N log N) when the optimal split point is monotonic (SMAWK / D&C optimization), Knuth's optimization.
 
@@ -93,7 +93,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Kalila and Dimna](https://codeforces.com/problemset/problem/319/C) | CF 319C | DP optimization |
+| 1 | ★ [Kalila and Dimna](https://codeforces.com/problemset/problem/319/C) | CF 319C | DP optimization |
 | 2 | [BRKSTRNG - Breaking String](https://www.spoj.com/problems/BRKSTRNG/) | SPOJ | Knuth optimization |
 | 3 | [LARGEST - Largest Rectangle](https://www.spoj.com/problems/LARGEST/) | SPOJ | D&C |
 | 4 | [Ciel and Gondola](https://codeforces.com/problemset/problem/321/E) | CF 321E | D&C DP |
@@ -102,7 +102,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 ---
 
-## 7.5 Suffix Array & LCP Array 🟠 P2
+## 7.5 Suffix Array & LCP Array [P2]
 
 **Topics**: Building suffix array in O(N log N) or O(N log^2 N), computing LCP array from suffix array (Kasai's algorithm), applications.
 
@@ -116,7 +116,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [String Functions](https://cses.fi/problemset/task/2107) | CSES 2107 | Z/KMP |
+| 1 | ★ [String Functions](https://cses.fi/problemset/task/2107) | CSES 2107 | Z/KMP |
 | 2 | [Distinct Substrings](https://www.spoj.com/problems/DISUBSTR/) | SPOJ | Suffix array + LCP |
 | 3 | [New Distinct Substrings](https://www.spoj.com/problems/SUBST1/) | SPOJ | Suffix array |
 | 4 | [Suffix Array](https://judge.yosupo.jp/problem/suffixarray) | Library Checker | Template |
@@ -127,7 +127,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 ---
 
-## 7.6 Aho-Corasick 🟡 P3
+## 7.6 Aho-Corasick [P3]
 
 **Topics**: Multi-pattern string matching, building an automaton from a dictionary of patterns, failure/suffix links.
 
@@ -140,7 +140,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [AHOCUR - Aho-Corasick](https://www.spoj.com/problems/AHOCUR/) | SPOJ | AC template |
+| 1 | ★ [AHOCUR - Aho-Corasick](https://www.spoj.com/problems/AHOCUR/) | SPOJ | AC template |
 | 2 | [Word Combinations](https://cses.fi/problemset/task/1731) | CSES 1731 | AC / DP |
 | 3 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/) | LC 1032 | AC / reversed trie |
 | 4 | [Multi-pattern Search](https://judge.yosupo.jp/problem/multipatternmatching) | Library Checker | AC template |
@@ -150,7 +150,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 ---
 
-## 7.7 Computational Geometry Basics 🟡 P3
+## 7.7 Computational Geometry Basics [P3]
 
 **Topics**: Points, vectors, cross product, convex hull (Graham scan / Andrew's monotone chain), polygon area (Shoelace formula), point-in-polygon, line intersection.
 
@@ -163,8 +163,8 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Convex Hull](https://cses.fi/problemset/task/2195) | CSES 2195 | Graham/Andrew |
-| 2 | ⭐ [Polygon Area](https://cses.fi/problemset/task/2191) | CSES 2191 | Shoelace formula |
+| 1 | ★ [Convex Hull](https://cses.fi/problemset/task/2195) | CSES 2195 | Graham/Andrew |
+| 2 | ★ [Polygon Area](https://cses.fi/problemset/task/2191) | CSES 2191 | Shoelace formula |
 | 3 | [Point Location Test](https://cses.fi/problemset/task/2189) | CSES 2189 | Cross product |
 | 4 | [Line Segment Intersection](https://cses.fi/problemset/task/2190) | CSES 2190 | Geometry |
 | 5 | [Polygon Lattice Points](https://cses.fi/problemset/task/2193) | CSES 2193 | Pick's theorem |
@@ -175,7 +175,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 ---
 
-## 7.8 Sweep Line 🟡 P3
+## 7.8 Sweep Line [P3]
 
 **Topics**: Line sweep for geometric problems, event-based processing, maintaining active set via balanced BST or segment tree.
 
@@ -188,7 +188,7 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | LC 218 | Sweep line + multiset |
+| 1 | ★ [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | LC 218 | Sweep line + multiset |
 | 2 | [Area of Rectangles](https://cses.fi/problemset/task/1741) | CSES 1741 | Sweep + SegTree |
 | 3 | [Room Allocation](https://cses.fi/problemset/task/1164) | CSES 1164 | Sweep / events |
 | 4 | [Minimum Euclidean Distance](https://cses.fi/problemset/task/2194) | CSES 2194 | Sweep / D&C |
@@ -202,10 +202,10 @@ At this tier you master the most powerful tree decomposition techniques, advance
 
 | Priority | Topics Covered |
 |----------|---------------|
-| 🔴 P1 | Mo's Algorithm, Heavy-Light Decomposition |
-| 🟠 P2 | Persistent Data Structures, D&C DP Optimization, Suffix Array |
-| 🟡 P3 | Aho-Corasick, Computational Geometry, Sweep Line |
+| [P1] | Mo's Algorithm, Heavy-Light Decomposition |
+| [P2] | Persistent Data Structures, D&C DP Optimization, Suffix Array |
+| [P3] | Aho-Corasick, Computational Geometry, Sweep Line |
 
 **Total problems in Tier 7: ~95**
 
-> ✅ **Checkpoint**: You can solve Div.1 D problems (2300+ rated). Mo's, HLD, persistent seg trees, and suffix arrays are in your toolkit. You can combine sweep line with segment trees.
+> [Checkpoint] **Checkpoint**: You can solve Div.1 D problems (2300+ rated). Mo's, HLD, persistent seg trees, and suffix arrays are in your toolkit. You can combine sweep line with segment trees.

@@ -6,7 +6,7 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 ---
 
-## 4.1 Shortest Path Algorithms 🔴 P1
+## 4.1 Shortest Path Algorithms [P1]
 
 **Topics**: Dijkstra's algorithm (priority queue), 0-1 BFS (deque), Bellman-Ford (negative edges, negative cycle detection), Floyd-Warshall (all-pairs), SPFA.
 
@@ -20,11 +20,11 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Shortest Routes I](https://cses.fi/problemset/task/1671) | CSES 1671 | Dijkstra template |
-| 2 | ⭐ [Shortest Routes II](https://cses.fi/problemset/task/1672) | CSES 1672 | Floyd-Warshall |
+| 1 | ★ [Shortest Routes I](https://cses.fi/problemset/task/1671) | CSES 1671 | Dijkstra template |
+| 2 | ★ [Shortest Routes II](https://cses.fi/problemset/task/1672) | CSES 1672 | Floyd-Warshall |
 | 3 | [High Score](https://cses.fi/problemset/task/1673) | CSES 1673 | Bellman-Ford / neg cycle |
 | 4 | [Cycle Finding](https://cses.fi/problemset/task/1197) | CSES 1197 | Bellman-Ford |
-| 5 | ⭐ [Min Cost Valid Path](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | LC 1368 | 0-1 BFS |
+| 5 | ★ [Min Cost Valid Path](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | LC 1368 | 0-1 BFS |
 | 6 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | LC 743 | Dijkstra |
 | 7 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | LC 787 | Modified BF / Dijkstra |
 | 8 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | LC 1631 | Dijkstra / BS+BFS |
@@ -35,7 +35,7 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 ---
 
-## 4.2 Knapsack & Subset DP 🔴 P1
+## 4.2 Knapsack & Subset DP [P1]
 
 **Topics**: 0/1 Knapsack, unbounded knapsack, bounded knapsack, subset sum, counting subsets, DP over subsets (bitmask DP intro).
 
@@ -48,22 +48,22 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Book Shop](https://cses.fi/problemset/task/1158) | CSES 1158 | 0/1 Knapsack |
-| 2 | ⭐ [Money Sums](https://cses.fi/problemset/task/1745) | CSES 1745 | Subset sum DP |
+| 1 | ★ [Book Shop](https://cses.fi/problemset/task/1158) | CSES 1158 | 0/1 Knapsack |
+| 2 | ★ [Money Sums](https://cses.fi/problemset/task/1745) | CSES 1745 | Subset sum DP |
 | 3 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | LC 416 | Subset sum |
 | 4 | [Target Sum](https://leetcode.com/problems/target-sum/) | LC 494 | Subset sum variant |
 | 5 | [Coin Change](https://leetcode.com/problems/coin-change/) | LC 322 | Unbounded knapsack |
 | 6 | [Coin Change II](https://leetcode.com/problems/coin-change-ii/) | LC 518 | Counting ways |
 | 7 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | LC 474 | 2D Knapsack |
 | 8 | [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/) | LC 1049 | Min diff partition |
-| 9 | ⭐ [Elevator Rides](https://cses.fi/problemset/task/1653) | CSES 1653 | Bitmask DP |
+| 9 | ★ [Elevator Rides](https://cses.fi/problemset/task/1653) | CSES 1653 | Bitmask DP |
 | 10 | [Two Sets II](https://cses.fi/problemset/task/1093) | CSES 1093 | Subset sum count |
 | 11 | [KNAPSACK - The Knapsack Problem](https://www.spoj.com/problems/KNAPSACK/) | SPOJ | Classic knapsack |
 | 12 | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/) | LC 879 | 2D knapsack |
 
 ---
 
-## 4.3 Topological Sort & DAG DP 🔴 P1
+## 4.3 Topological Sort & DAG DP [P1]
 
 **Topics**: Topological ordering (Kahn's BFS / DFS-based), DP on DAGs (longest path, counting paths), detecting if a graph is a DAG.
 
@@ -76,8 +76,8 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | LC 210 | Topo sort |
-| 2 | ⭐ [Longest Flight Route](https://cses.fi/problemset/task/1680) | CSES 1680 | DAG DP |
+| 1 | ★ [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | LC 210 | Topo sort |
+| 2 | ★ [Longest Flight Route](https://cses.fi/problemset/task/1680) | CSES 1680 | DAG DP |
 | 3 | [Game Routes](https://cses.fi/problemset/task/1681) | CSES 1681 | Count paths in DAG |
 | 4 | [Fox And Names](https://codeforces.com/problemset/problem/510/C) | CF 510C | Topo sort from constraints |
 | 5 | [Sort Items by Groups](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) | LC 1203 | Multi-level topo sort |
@@ -88,7 +88,7 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 ---
 
-## 4.4 MST & Advanced Graph Concepts 🟠 P2
+## 4.4 MST & Advanced Graph Concepts [P2]
 
 **Topics**: Kruskal's algorithm (with DSU), Prim's algorithm, properties of MST, Eulerian paths/circuits (Hierholzer's algorithm), bridges and articulation points.
 
@@ -101,8 +101,8 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Road Reparation](https://cses.fi/problemset/task/1675) | CSES 1675 | MST / Kruskal |
-| 2 | ⭐ [Mail Delivery](https://cses.fi/problemset/task/1691) | CSES 1691 | Euler circuit |
+| 1 | ★ [Road Reparation](https://cses.fi/problemset/task/1675) | CSES 1675 | MST / Kruskal |
+| 2 | ★ [Mail Delivery](https://cses.fi/problemset/task/1691) | CSES 1691 | Euler circuit |
 | 3 | [De Bruijn Sequence](https://cses.fi/problemset/task/1692) | CSES 1692 | Euler path |
 | 4 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | LC 1584 | MST / Prim |
 | 5 | [Critical Connections](https://leetcode.com/problems/critical-connections-in-a-network/) | LC 1192 | Bridges / Tarjan |
@@ -114,7 +114,7 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 ---
 
-## 4.5 Intermediate DP: LIS, Intervals & Ranges 🟠 P2
+## 4.5 Intermediate DP: LIS, Intervals & Ranges [P2]
 
 **Topics**: Longest Increasing Subsequence (O(N log N)), interval DP, range DP, 1D DP with binary search optimization.
 
@@ -127,8 +127,8 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | LC 300 | LIS O(N log N) |
-| 2 | ⭐ [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | LC 312 | Interval DP |
+| 1 | ★ [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | LC 300 | LIS O(N log N) |
+| 2 | ★ [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | LC 312 | Interval DP |
 | 3 | [Increasing Subsequence](https://cses.fi/problemset/task/1145) | CSES 1145 | LIS |
 | 4 | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | LC 354 | 2D LIS |
 | 5 | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | LC 1130 | Interval DP |
@@ -141,7 +141,7 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 ---
 
-## 4.6 String Algorithms: KMP, Hashing & Trie 🟠 P2
+## 4.6 String Algorithms: KMP, Hashing & Trie [P2]
 
 **Topics**: KMP failure function & pattern matching, string hashing (rolling hash / Rabin-Karp), Trie data structure, Z-algorithm.
 
@@ -155,8 +155,8 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [String Matching](https://cses.fi/problemset/task/1753) | CSES 1753 | KMP / Z / Hashing |
-| 2 | ⭐ [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | LC 208 | Trie template |
+| 1 | ★ [String Matching](https://cses.fi/problemset/task/1753) | CSES 1753 | KMP / Z / Hashing |
+| 2 | ★ [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | LC 208 | Trie template |
 | 3 | [String Functions](https://cses.fi/problemset/task/2107) | CSES 2107 | Z-algorithm |
 | 4 | [Finding Periods](https://cses.fi/problemset/task/1733) | CSES 1733 | KMP failure function |
 | 5 | [Finding Borders](https://cses.fi/problemset/task/1732) | CSES 1732 | KMP borders (from Tier 1) |
@@ -170,7 +170,7 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 ---
 
-## 4.7 Combinatorics & Modular Inverse 🟡 P3
+## 4.7 Combinatorics & Modular Inverse [P3]
 
 **Topics**: nCr mod p (using factorials + modular inverse), Pascal's triangle, Stars and Bars, Fermat's little theorem, Wilson's theorem.
 
@@ -183,7 +183,7 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Binomial Coefficients](https://cses.fi/problemset/task/1079) | CSES 1079 | nCr mod p |
+| 1 | ★ [Binomial Coefficients](https://cses.fi/problemset/task/1079) | CSES 1079 | nCr mod p |
 | 2 | [Creating Strings II](https://cses.fi/problemset/task/1715) | CSES 1715 | Multinomial coefficients |
 | 3 | [Distributing Apples](https://cses.fi/problemset/task/1716) | CSES 1716 | Stars and Bars |
 | 4 | [Christmas Party](https://cses.fi/problemset/task/1717) | CSES 1717 | Derangements |
@@ -196,7 +196,7 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 ---
 
-## 4.8 Game Theory Basics 🟡 P3
+## 4.8 Game Theory Basics [P3]
 
 **Topics**: Nim game, Sprague-Grundy theorem intro, winning/losing positions, game DP.
 
@@ -209,7 +209,7 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Nim Game I](https://cses.fi/problemset/task/1730) | CSES 1730 | Classic Nim |
+| 1 | ★ [Nim Game I](https://cses.fi/problemset/task/1730) | CSES 1730 | Classic Nim |
 | 2 | [Nim Game II](https://cses.fi/problemset/task/1098) | CSES 1098 | Nim variant |
 | 3 | [Stair Game](https://cses.fi/problemset/task/1099) | CSES 1099 | Staircase Nim |
 | 4 | [Stone Game](https://leetcode.com/problems/stone-game/) | LC 877 | Game DP |
@@ -221,7 +221,7 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 ---
 
-## 4.9 Interactive Problems & Output Flushing 🟢 P4
+## 4.9 Interactive Problems & Output Flushing [P4]
 
 **Topics**: Interactive problem protocol, binary search via queries, flushing output (`fflush(stdout)` / `cout.flush()`), adaptive strategies.
 
@@ -235,7 +235,7 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Guess the Number](https://codeforces.com/problemset/problem/1010/A) | CF 1010A | Interactive archetype |
+| 1 | ★ [Guess the Number](https://codeforces.com/problemset/problem/1010/A) | CF 1010A | Interactive archetype |
 | 2 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | LC 374 | BS interactive |
 | 3 | [Bear and Pebbles](https://codeforces.com/problemset/problem/580/A) | CF 580A | Interactive thinking |
 | 4 | [Lost Numbers](https://codeforces.com/problemset/problem/1167/B) | CF 1167B | Query strategy |
@@ -248,11 +248,11 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 
 | Priority | Topics Covered |
 |----------|---------------|
-| 🔴 P1 | Shortest Paths (Dijkstra/BF/Floyd), Knapsack & Subset DP, Topo Sort & DAG DP |
-| 🟠 P2 | MST & Euler Paths, LIS & Interval DP, String Algorithms (KMP/Trie) |
-| 🟡 P3 | Combinatorics & Mod Inverse, Game Theory Basics |
-| 🟢 P4 | Interactive Problems |
+| [P1] | Shortest Paths (Dijkstra/BF/Floyd), Knapsack & Subset DP, Topo Sort & DAG DP |
+| [P2] | MST & Euler Paths, LIS & Interval DP, String Algorithms (KMP/Trie) |
+| [P3] | Combinatorics & Mod Inverse, Game Theory Basics |
+| [P4] | Interactive Problems |
 
 **Total problems in Tier 4: ~111**
 
-> ✅ **Checkpoint**: You can solve CF Div.2 D / Div.1 A problems (1600–1800 rated). Dijkstra, knapsack DP, KMP, and topo sort are second nature.
+> [Checkpoint] **Checkpoint**: You can solve CF Div.2 D / Div.1 A problems (1600–1800 rated). Dijkstra, knapsack DP, KMP, and topo sort are second nature.

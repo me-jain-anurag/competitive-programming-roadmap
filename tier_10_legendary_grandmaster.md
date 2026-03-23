@@ -6,7 +6,7 @@ This is the pinnacle of competitive programming. At this tier you engage with re
 
 ---
 
-## 10.1 Advanced Flow & Matroid Theory 🔴 P1
+## 10.1 Advanced Flow & Matroid Theory [P1]
 
 **Topics**: General matching (Edmonds' blossom algorithm), matroid intersection, Gomory-Hu trees (all-pairs min-cut), min-cut applications, project selection.
 
@@ -17,7 +17,7 @@ This is the pinnacle of competitive programming. At this tier you engage with re
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [General Matching](https://judge.yosupo.jp/problem/general_matching) | Library Checker | Blossom |
+| 1 | ★ [General Matching](https://judge.yosupo.jp/problem/general_matching) | Library Checker | Blossom |
 | 2 | [Gomory-Hu Tree](https://judge.yosupo.jp/problem/gomory_hu_tree) | Library Checker | Template |
 | 3 | [Project Selection](https://codeforces.com/problemset/problem/311/E) | CF 311E | Min-cut |
 | 4 | [Minimum Weight Closure](https://codeforces.com/problemset/problem/1082/G) | CF 1082G | Flow + closure |
@@ -26,7 +26,7 @@ This is the pinnacle of competitive programming. At this tier you engage with re
 
 ---
 
-## 10.2 Top Trees & Euler Tour Trees 🟠 P2
+## 10.2 Top Trees & Euler Tour Trees [P2]
 
 **Topics**: Top Trees for aggregation over dynamic forests (more powerful than LCT for subtree queries), Euler Tour Trees (ETT) via balanced BSTs for dynamic forest connectivity and subtree aggregates.
 
@@ -44,7 +44,7 @@ This is the pinnacle of competitive programming. At this tier you engage with re
 
 ---
 
-## 10.3 Palindromic Tree (Eertree) 🟠 P2
+## 10.3 Palindromic Tree (Eertree) [P2]
 
 **Topics**: A tree of palindromic substrings. Each node represents a distinct palindromic substring. Built online in O(N).
 
@@ -56,7 +56,7 @@ This is the pinnacle of competitive programming. At this tier you engage with re
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Eertree / Palindromic Tree](https://judge.yosupo.jp/problem/eertree) | Library Checker | Template |
+| 1 | ★ [Eertree / Palindromic Tree](https://judge.yosupo.jp/problem/eertree) | Library Checker | Template |
 | 2 | [Palindromic Characteristics](https://codeforces.com/problemset/problem/906/E) | CF 906E | Eertree |
 | 3 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | LC 336 | Eertree / hashing |
 | 4 | [Palindromes (CF)](https://codeforces.com/problemset/problem/835/D) | CF 835D | Eertree |
@@ -64,7 +64,7 @@ This is the pinnacle of competitive programming. At this tier you engage with re
 
 ---
 
-## 10.4 Randomized Algorithms & Hashing Tricks 🟡 P3
+## 10.4 Randomized Algorithms & Hashing Tricks [P3]
 
 **Topics**: Randomized hashing for collision avoidance, treaps, random sampling, probabilistic arguments in solutions, birthday paradox applications, anti-hash tests.
 
@@ -83,7 +83,7 @@ This is the pinnacle of competitive programming. At this tier you engage with re
 
 ---
 
-## 10.5 Subset Sum Convolution & Advanced Transforms 🟡 P3
+## 10.5 Subset Sum Convolution & Advanced Transforms [P3]
 
 **Topics**: Subset sum convolution (combining SOS with inclusion-exclusion), Mobius inversion on subsets, OR/AND convolution, advanced NTT applications.
 
@@ -93,7 +93,7 @@ This is the pinnacle of competitive programming. At this tier you engage with re
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Subset Sum Convolution](https://judge.yosupo.jp/problem/subset_convolution) | Library Checker | Template |
+| 1 | ★ [Subset Sum Convolution](https://judge.yosupo.jp/problem/subset_convolution) | Library Checker | Template |
 | 2 | [Bitwise AND Convolution](https://judge.yosupo.jp/problem/bitwise_and_convolution) | Library Checker | Template |
 | 3 | [Bitwise OR Convolution](https://judge.yosupo.jp/problem/bitwise_or_convolution) | Library Checker | Template |
 | 4 | [Square Root of FPS](https://judge.yosupo.jp/problem/sqrt_of_formal_power_series) | Library Checker | FPS |
@@ -102,7 +102,7 @@ This is the pinnacle of competitive programming. At this tier you engage with re
 
 ---
 
-## 10.6 Miscellaneous Advanced & Research-Level 🟢 P4
+## 10.6 Miscellaneous Advanced & Research-Level [P4]
 
 **Topics**: Fractional cascading, wavelet tree, persistent arrays, succinct data structures, multi-dimensional range trees, kinetic data structures, offline-to-online reductions.
 
@@ -125,11 +125,11 @@ This is the pinnacle of competitive programming. At this tier you engage with re
 
 | Priority | Topics Covered |
 |----------|---------------|
-| 🔴 P1 | Advanced Flow, Matroid Theory, General Matching |
-| 🟠 P2 | Top Trees, Euler Tour Trees, Palindromic Tree |
-| 🟡 P3 | Randomized Algorithms, Subset Sum Convolution |
-| 🟢 P4 | Wavelet Trees, Fractional Cascading, Research-Level |
+| [P1] | Advanced Flow, Matroid Theory, General Matching |
+| [P2] | Top Trees, Euler Tour Trees, Palindromic Tree |
+| [P3] | Randomized Algorithms, Subset Sum Convolution |
+| [P4] | Wavelet Trees, Fractional Cascading, Research-Level |
 
 **Total problems in Tier 10: ~55**
 
-> ✅ **Checkpoint**: You are among the best competitive programmers in the world. You can solve nearly any problem given enough time and can invent new techniques when needed.
+> [Checkpoint] **Checkpoint**: You are among the best competitive programmers in the world. You can solve nearly any problem given enough time and can invent new techniques when needed.

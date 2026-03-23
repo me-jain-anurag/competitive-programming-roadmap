@@ -6,7 +6,7 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 ---
 
-## 2.1 Prefix Sums & Difference Arrays 🔴 P1
+## 2.1 Prefix Sums & Difference Arrays [P1]
 
 **Topics**: 1D prefix sums for O(1) range sum queries, 2D prefix sums for submatrix sums, difference arrays for O(1) range updates (bulk add).
 
@@ -19,11 +19,11 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Static Range Sum Queries](https://cses.fi/problemset/task/1646) | CSES 1646 | 1D prefix sum template |
-| 2 | ⭐ [Forest Queries](https://cses.fi/problemset/task/1652) | CSES 1652 | 2D prefix sums |
+| 1 | ★ [Static Range Sum Queries](https://cses.fi/problemset/task/1646) | CSES 1646 | 1D prefix sum template |
+| 2 | ★ [Forest Queries](https://cses.fi/problemset/task/1652) | CSES 1652 | 2D prefix sums |
 | 3 | [Kuriyama Mirai's Stones](https://codeforces.com/problemset/problem/433/B) | CF 433B | Prefix sum + sorting |
 | 4 | [Karen and Coffee](https://codeforces.com/problemset/problem/816/B) | CF 816B | Difference array |
-| 5 | ⭐ [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/) | LC 1109 | Difference array |
+| 5 | ★ [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/) | LC 1109 | Difference array |
 | 6 | [Range Sum Query 2D](https://leetcode.com/problems/range-sum-query-2d-immutable/) | LC 304 | 2D prefix sums |
 | 7 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | LC 560 | Prefix sum + hash map |
 | 8 | [Little Girl and Maximum Sum](https://codeforces.com/problemset/problem/276/C) | CF 276C | Difference array |
@@ -34,7 +34,7 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 ---
 
-## 2.2 Two Pointers & Sliding Window 🔴 P1
+## 2.2 Two Pointers & Sliding Window [P1]
 
 **Topics**: Two pointers (same direction, opposite direction), fixed-size sliding window, variable-size sliding window (shrink when condition violated).
 
@@ -47,8 +47,8 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Books](https://codeforces.com/problemset/problem/279/B) | CF 279B | Sliding window |
-| 2 | ⭐ [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | LC 11 | Opposite pointers |
+| 1 | ★ [Books](https://codeforces.com/problemset/problem/279/B) | CF 279B | Sliding window |
+| 2 | ★ [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | LC 11 | Opposite pointers |
 | 3 | [Longest Substring Without Repeating](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LC 3 | Variable sliding window |
 | 4 | [3Sum](https://leetcode.com/problems/3sum/) | LC 15 | Sort + two pointers |
 | 5 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | LC 128 | Hash set + expansion |
@@ -63,7 +63,7 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 ---
 
-## 2.3 Stacks & Queues 🔴 P1
+## 2.3 Stacks & Queues [P1]
 
 **Topics**: Stack (LIFO), Queue (FIFO), monotonic stack (next greater/smaller element), matching brackets, expression evaluation.
 
@@ -76,14 +76,14 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | LC 20 | Stack template |
-| 2 | ⭐ [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | LC 496 | Monotonic stack |
+| 1 | ★ [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | LC 20 | Stack template |
+| 2 | ★ [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | LC 496 | Monotonic stack |
 | 3 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | LC 739 | Monotonic stack |
 | 4 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | LC 84 | Monotonic stack |
 | 5 | [Min Stack](https://leetcode.com/problems/min-stack/) | LC 155 | Stack with min tracking |
 | 6 | [Stock Span Problem](https://leetcode.com/problems/online-stock-span/) | LC 901 | Monotonic stack |
 | 7 | [Nearest Smaller Values](https://cses.fi/problemset/task/1645) | CSES 1645 | Monotonic stack |
-| 8 | ⭐ [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | LC 42 | Monotonic stack / two-pass |
+| 8 | ★ [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | LC 42 | Monotonic stack / two-pass |
 | 9 | [Odd Stack](https://www.spoj.com/problems/STPAR/) | SPOJ STPAR | Stack simulation |
 | 10 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | LC 150 | Stack evaluation |
 | 11 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | LC 232 | Classical DS |
@@ -91,7 +91,7 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 ---
 
-## 2.4 Hash Maps & Frequency Counting 🟠 P2
+## 2.4 Hash Maps & Frequency Counting [P2]
 
 **Topics**: Hash maps for O(1) lookup, frequency counting, coordinate compression, detecting duplicates, grouping anagrams.
 
@@ -104,7 +104,7 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Two Sum](https://leetcode.com/problems/two-sum/) | LC 1 | Hash map classic |
+| 1 | ★ [Two Sum](https://leetcode.com/problems/two-sum/) | LC 1 | Hash map classic |
 | 2 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | LC 49 | Hash map + sorting |
 | 3 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | LC 347 | Freq map + sort/bucket |
 | 4 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | LC 350 | Freq map |
@@ -114,11 +114,11 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 | 8 | [Concert Tickets](https://cses.fi/problemset/task/1091) | CSES 1091 | Multiset operations |
 | 9 | [Lucky Numbers](https://codeforces.com/problemset/problem/630/C) | CF 630C | Counting |
 | 10 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | LC 771 | Hash set |
-| 11 | ⭐ [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | LC 128 | Hash set O(n) |
+| 11 | ★ [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | LC 128 | Hash set O(n) |
 
 ---
 
-## 2.5 Basic Binary Search 🟠 P2
+## 2.5 Basic Binary Search [P2]
 
 **Topics**: Binary search on sorted arrays, `lower_bound`/`upper_bound`, finding first/last occurrence, counting elements in a range.
 
@@ -132,8 +132,8 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Binary Search](https://leetcode.com/problems/binary-search/) | LC 704 | Template |
-| 2 | ⭐ [First and Last Position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | LC 34 | lower/upper bound |
+| 1 | ★ [Binary Search](https://leetcode.com/problems/binary-search/) | LC 704 | Template |
+| 2 | ★ [First and Last Position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | LC 34 | lower/upper bound |
 | 3 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | LC 35 | Lower bound |
 | 4 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | LC 74 | Flatten + BS |
 | 5 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | LC 69 | BS on answer intro |
@@ -145,7 +145,7 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 ---
 
-## 2.6 Basic Number Theory 🟡 P3
+## 2.6 Basic Number Theory [P3]
 
 **Topics**: Sieve of Eratosthenes, GCD (Euclidean algorithm), LCM, fast exponentiation (binary exponentiation), modular arithmetic, prime factorization.
 
@@ -159,8 +159,8 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Exponentiation](https://cses.fi/problemset/task/1095) | CSES 1095 | Binary exponentiation |
-| 2 | ⭐ [Counting Divisors](https://cses.fi/problemset/task/1713) | CSES 1713 | Sieve variant |
+| 1 | ★ [Exponentiation](https://cses.fi/problemset/task/1095) | CSES 1095 | Binary exponentiation |
+| 2 | ★ [Counting Divisors](https://cses.fi/problemset/task/1713) | CSES 1713 | Sieve variant |
 | 3 | [Count Primes](https://leetcode.com/problems/count-primes/) | LC 204 | Sieve |
 | 4 | [Common Divisors](https://cses.fi/problemset/task/1081) | CSES 1081 | GCD / factor counting |
 | 5 | [GCD of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | LC 1979 | GCD basics |
@@ -174,7 +174,7 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 ---
 
-## 2.7 Brute Force & Complete Search 🟡 P3
+## 2.7 Brute Force & Complete Search [P3]
 
 **Topics**: Exhaustive enumeration, generating all possibilities (nested loops, bitmasks for small N), brute force with pruning.
 
@@ -187,11 +187,11 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Subsets](https://leetcode.com/problems/subsets/) | LC 78 | Bitmask / backtracking |
+| 1 | ★ [Subsets](https://leetcode.com/problems/subsets/) | LC 78 | Bitmask / backtracking |
 | 2 | [Permutations](https://leetcode.com/problems/permutations/) | LC 46 | Backtracking |
 | 3 | [Letter Combinations of Phone](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | LC 17 | Enumerate combos |
-| 4 | ⭐ [Creating Strings](https://cses.fi/problemset/task/1622) | CSES 1622 | Generate permutations |
-| 5 | ⭐ [Apple Division](https://cses.fi/problemset/task/1623) | CSES 1623 | 2^N subsets |
+| 4 | ★ [Creating Strings](https://cses.fi/problemset/task/1622) | CSES 1622 | Generate permutations |
+| 5 | ★ [Apple Division](https://cses.fi/problemset/task/1623) | CSES 1623 | 2^N subsets |
 | 6 | [Chessboard and Queens](https://cses.fi/problemset/task/1624) | CSES 1624 | N-Queens variant |
 | 7 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | LC 39 | Backtracking |
 | 8 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | LC 22 | Backtracking |
@@ -199,11 +199,11 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 | 10 | [N-Queens](https://leetcode.com/problems/n-queens/) | LC 51 | Classic backtracking |
 | 11 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | LC 37 | Backtracking + prune |
 | 12 | [Grid Paths](https://cses.fi/problemset/task/1625) | CSES 1625 | Pruned brute force |
-| 13 | ⭐ [Two Buttons](https://codeforces.com/problemset/problem/520/B) | CF 520B | BFS / reverse search |
+| 13 | ★ [Two Buttons](https://codeforces.com/problemset/problem/520/B) | CF 520B | BFS / reverse search |
 
 ---
 
-## 2.8 Intro to Complexity & Strategy 🟢 P4
+## 2.8 Intro to Complexity & Strategy [P4]
 
 **Topics**: Big-O notation intuition, reading constraints to pick algorithms, estimating runtime (10^8 operations ≈ 1 second), amortized analysis intro.
 
@@ -233,11 +233,11 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 | Priority | Topics Covered |
 |----------|---------------|
-| 🔴 P1 | Prefix Sums & Difference Arrays, Two Pointers & Sliding Window, Stacks & Queues |
-| 🟠 P2 | Hash Maps & Frequency Counting, Basic Binary Search |
-| 🟡 P3 | Basic Number Theory, Brute Force & Complete Search |
-| 🟢 P4 | Complexity Analysis & Strategy |
+| [P1] | Prefix Sums & Difference Arrays, Two Pointers & Sliding Window, Stacks & Queues |
+| [P2] | Hash Maps & Frequency Counting, Basic Binary Search |
+| [P3] | Basic Number Theory, Brute Force & Complete Search |
+| [P4] | Complexity Analysis & Strategy |
 
 **Total problems in Tier 2: ~101**
 
-> ✅ **Checkpoint**: You should be able to solve CF Div.2 B problems (1100–1200 rated) within 20 minutes. You know prefix sums, two pointers, and basic binary search cold.
+> [Checkpoint] **Checkpoint**: You should be able to solve CF Div.2 B problems (1100–1200 rated) within 20 minutes. You know prefix sums, two pointers, and basic binary search cold.

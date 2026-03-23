@@ -6,7 +6,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 ---
 
-## 9.1 Alien's Trick (Lambda / Lagrange Relaxation) 🔴 P1
+## 9.1 Alien's Trick (Lambda / Lagrange Relaxation) [P1]
 
 **Topics**: Penalty-based optimization to remove a constraint (e.g., "use exactly K segments"), WQS binary search (Aliens trick), trading off a Lagrange multiplier.
 
@@ -20,7 +20,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Aliens (IOI)](https://oj.uz/problem/view/IOI16_aliens) | IOI 2016 | Alien's trick archetype |
+| 1 | ★ [Aliens (IOI)](https://oj.uz/problem/view/IOI16_aliens) | IOI 2016 | Alien's trick archetype |
 | 2 | [Sequence (CF)](https://codeforces.com/problemset/problem/13/C) | CF 13C | WQS BS |
 | 3 | [Lamps (CF)](https://codeforces.com/problemset/problem/1515/G) | CF 1515G | Alien |
 | 4 | [Parallel Scheduling](https://codeforces.com/problemset/problem/802/O) | CF 802O | WQS BS |
@@ -29,7 +29,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 ---
 
-## 9.2 Generating Functions 🟠 P2
+## 9.2 Generating Functions [P2]
 
 **Topics**: Ordinary generating functions (OGF), exponential generating functions (EGF), operations on formal power series (addition, multiplication, inversion, composition), solving recurrences via generating functions.
 
@@ -43,7 +43,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Kinematic Equation](https://codeforces.com/problemset/problem/438/E) | CF 438E | GF |
+| 1 | ★ [Kinematic Equation](https://codeforces.com/problemset/problem/438/E) | CF 438E | GF |
 | 2 | [Inv of Formal Power Series](https://judge.yosupo.jp/problem/inv_of_formal_power_series) | Library Checker | Template |
 | 3 | [Exp of Formal Power Series](https://judge.yosupo.jp/problem/exp_of_formal_power_series) | Library Checker | Template |
 | 4 | [Log of Formal Power Series](https://judge.yosupo.jp/problem/log_of_formal_power_series) | Library Checker | Template |
@@ -53,7 +53,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 ---
 
-## 9.3 Link-Cut Trees 🟠 P2
+## 9.3 Link-Cut Trees [P2]
 
 **Topics**: Splay-tree-based dynamic forest structure. Supports cut, link, path queries, subtree queries — all in O(log N) amortized.
 
@@ -68,7 +68,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Dynamic Connectivity](https://cses.fi/problemset/task/2133) | CSES 2133 | LCT / offline DSU |
+| 1 | ★ [Dynamic Connectivity](https://cses.fi/problemset/task/2133) | CSES 2133 | LCT / offline DSU |
 | 2 | [Link-Cut Tree](https://judge.yosupo.jp/problem/dynamic_tree_vertex_add_path_sum) | Library Checker | LCT template |
 | 3 | [Dynamic Tree Vertex Set Path Composite](https://judge.yosupo.jp/problem/dynamic_tree_vertex_set_path_composite) | Library Checker | LCT |
 | 4 | [QTREE (Dynamic)](https://www.spoj.com/problems/QTREE/) | SPOJ | LCT |
@@ -77,7 +77,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 ---
 
-## 9.4 Lagrange Interpolation & Sum of Powers 🟡 P3
+## 9.4 Lagrange Interpolation & Sum of Powers [P3]
 
 **Topics**: Given K+1 points, recover polynomial of degree K in O(K) or O(K log K). Computing Σi^k for i=1..N in O(K).
 
@@ -90,7 +90,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Sum of k-th Powers](https://codeforces.com/problemset/problem/622/F) | CF 622F | Lagrange |
+| 1 | ★ [Sum of k-th Powers](https://codeforces.com/problemset/problem/622/F) | CF 622F | Lagrange |
 | 2 | [Polynomial Interpolation](https://judge.yosupo.jp/problem/polynomial_interpolation) | Library Checker | Template |
 | 3 | [Multipoint Evaluation](https://judge.yosupo.jp/problem/multipoint_evaluate) | Library Checker | Template |
 | 4 | [Xor-sequences](https://codeforces.com/problemset/problem/691/E) | CF 691E | Matrix exp + interpolation |
@@ -99,7 +99,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 ---
 
-## 9.5 Advanced Computational Geometry 🟡 P3
+## 9.5 Advanced Computational Geometry [P3]
 
 **Topics**: Half-plane intersection, Minkowski sum, rotating calipers, Voronoi diagram intuition, line-point duality, advanced sweep line problems.
 
@@ -112,7 +112,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Convex Hull](https://cses.fi/problemset/task/2195) | CSES 2195 | Convex hull |
+| 1 | ★ [Convex Hull](https://cses.fi/problemset/task/2195) | CSES 2195 | Convex hull |
 | 2 | [Minimum Euclidean Distance](https://cses.fi/problemset/task/2194) | CSES 2194 | Closest pair |
 | 3 | [All Manhattan Distances](https://cses.fi/problemset/task/3411) | CSES 3411 | Manhattan geometry |
 | 4 | [Half-plane Intersection](https://judge.yosupo.jp/problem/convex_hull) | Library Checker | Template |
@@ -122,7 +122,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 ---
 
-## 9.6 Advanced Number Theory 🟡 P3
+## 9.6 Advanced Number Theory [P3]
 
 **Topics**: Pollard's Rho (factoring large numbers), Miller-Rabin primality test, Chinese Remainder Theorem (CRT), discrete logarithm (Baby-step Giant-step), primitive roots.
 
@@ -136,7 +136,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Factorize](https://judge.yosupo.jp/problem/factorize) | Library Checker | Pollard's Rho |
+| 1 | ★ [Factorize](https://judge.yosupo.jp/problem/factorize) | Library Checker | Pollard's Rho |
 | 2 | [Primality Test](https://judge.yosupo.jp/problem/primality_test) | Library Checker | Miller-Rabin |
 | 3 | [Discrete Logarithm](https://judge.yosupo.jp/problem/discrete_logarithm_mod) | Library Checker | BSGS |
 | 4 | [CRT (Chinese Remainder)](https://judge.yosupo.jp/problem/chinese_remainder) | Library Checker | CRT |
@@ -146,7 +146,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 ---
 
-## 9.7 Sprague-Grundy Theory (Advanced) 🟢 P4
+## 9.7 Sprague-Grundy Theory (Advanced) [P4]
 
 **Topics**: Grundy numbers (nimbers) for impartial games, computing Grundy values via mex, combining independent games via XOR of Grundy values, Green Hackenbush.
 
@@ -160,7 +160,7 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Grundy's Game](https://cses.fi/problemset/task/2207) | CSES 2207 | Grundy |
+| 1 | ★ [Grundy's Game](https://cses.fi/problemset/task/2207) | CSES 2207 | Grundy |
 | 2 | [Nim Game III](https://cses.fi/problemset/task/2208) | CSES 2208 | Nim variant |
 | 3 | [Another Game (CF)](https://codeforces.com/problemset/problem/850/C) | CF 850C | Game theory variant |
 | 4 | [Game with string](https://codeforces.com/problemset/problem/155/B) | CF 155B | Grundy |
@@ -173,11 +173,11 @@ At this tier you operate at the frontier of competitive programming. You master 
 
 | Priority | Topics Covered |
 |----------|---------------|
-| 🔴 P1 | Alien's Trick (WQS Binary Search) |
-| 🟠 P2 | Generating Functions, Link-Cut Trees |
-| 🟡 P3 | Lagrange Interpolation, Advanced Geometry, Advanced Number Theory |
-| 🟢 P4 | Sprague-Grundy Theory (Advanced) |
+| [P1] | Alien's Trick (WQS Binary Search) |
+| [P2] | Generating Functions, Link-Cut Trees |
+| [P3] | Lagrange Interpolation, Advanced Geometry, Advanced Number Theory |
+| [P4] | Sprague-Grundy Theory (Advanced) |
 
 **Total problems in Tier 9: ~75**
 
-> ✅ **Checkpoint**: You can solve Div.1 E/F problems. You read IOI/ICPC World Finals editorials comfortably. Almost any single technique is within reach.
+> [Checkpoint] **Checkpoint**: You can solve Div.1 E/F problems. You read IOI/ICPC World Finals editorials comfortably. Almost any single technique is within reach.

@@ -6,7 +6,7 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 ---
 
-## 8.1 Max Flow & Min Cut 🔴 P1
+## 8.1 Max Flow & Min Cut [P1]
 
 **Topics**: Ford-Fulkerson method, Edmonds-Karp (BFS-based, O(VE^2)), Dinic's algorithm (O(V^2·E)), Min-Cut Max-Flow theorem, modeling problems as flow networks.
 
@@ -19,8 +19,8 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Download Speed](https://cses.fi/problemset/task/1694) | CSES 1694 | Max flow / Dinic |
-| 2 | ⭐ [Police Chase](https://cses.fi/problemset/task/1695) | CSES 1695 | Min cut |
+| 1 | ★ [Download Speed](https://cses.fi/problemset/task/1694) | CSES 1694 | Max flow / Dinic |
+| 2 | ★ [Police Chase](https://cses.fi/problemset/task/1695) | CSES 1695 | Min cut |
 | 3 | [FASTFLOW](https://www.spoj.com/problems/FASTFLOW/) | SPOJ | Dinic stress test |
 | 4 | [Escape (CF)](https://codeforces.com/problemset/problem/1082/G) | CF 1082G | Max flow |
 | 5 | [Maximum Flow](https://judge.yosupo.jp/problem/maximum_flow) | Library Checker | Template |
@@ -29,7 +29,7 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 ---
 
-## 8.2 Bipartite Matching 🔴 P1
+## 8.2 Bipartite Matching [P1]
 
 **Topics**: Maximum bipartite matching (Hopcroft-Karp O(E√V), Hungarian O(N^3)), König's theorem (min vertex cover = max matching in bipartite), Hall's theorem.
 
@@ -42,7 +42,7 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [School Dance](https://cses.fi/problemset/task/1696) | CSES 1696 | Bipartite matching |
+| 1 | ★ [School Dance](https://cses.fi/problemset/task/1696) | CSES 1696 | Bipartite matching |
 | 2 | [MATCHING - Fast Matching](https://www.spoj.com/problems/MATCHING/) | SPOJ | Hopcroft-Karp |
 | 3 | [Maximum Matching](https://judge.yosupo.jp/problem/bipartitematching) | Library Checker | Template |
 | 4 | [Course Schedule (Matching)](https://leetcode.com/problems/course-schedule/) | LC 207 | Matching variant |
@@ -52,7 +52,7 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 ---
 
-## 8.3 FFT & NTT (Polynomial Multiplication) 🟠 P2
+## 8.3 FFT & NTT (Polynomial Multiplication) [P2]
 
 **Topics**: Fast Fourier Transform for O(N log N) polynomial multiplication, Number Theoretic Transform (mod prime), convolution for counting problems.
 
@@ -66,8 +66,8 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Apples and Bananas](https://cses.fi/problemset/task/2111) | CSES 2111 | FFT archetype |
-| 2 | ⭐ [One Bit Positions](https://cses.fi/problemset/task/2112) | CSES 2112 | FFT / NTT |
+| 1 | ★ [Apples and Bananas](https://cses.fi/problemset/task/2111) | CSES 2111 | FFT archetype |
+| 2 | ★ [One Bit Positions](https://cses.fi/problemset/task/2112) | CSES 2112 | FFT / NTT |
 | 3 | [POLYMUL - Polynomial Multiplication](https://www.spoj.com/problems/POLYMUL/) | SPOJ | FFT template |
 | 4 | [Multiply Strings (FFT)](https://leetcode.com/problems/multiply-strings/) | LC 43 | Big number multiply |
 | 5 | [Convolution mod](https://judge.yosupo.jp/problem/convolution_mod) | Library Checker | NTT template |
@@ -77,7 +77,7 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 ---
 
-## 8.4 Convex Hull Trick (CHT) 🟠 P2
+## 8.4 Convex Hull Trick (CHT) [P2]
 
 **Topics**: Optimizing DP of the form `dp[i] = min/max(m_j · x_i + b_j)` where lines `y = m_j·x + b_j` are added dynamically. Li Chao tree for arbitrary order.
 
@@ -90,8 +90,8 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Monster Game I](https://cses.fi/problemset/task/2084) | CSES 2084 | CHT |
-| 2 | ⭐ [Monster Game II](https://cses.fi/problemset/task/2085) | CSES 2085 | Li Chao tree |
+| 1 | ★ [Monster Game I](https://cses.fi/problemset/task/2084) | CSES 2084 | CHT |
+| 2 | ★ [Monster Game II](https://cses.fi/problemset/task/2085) | CSES 2085 | Li Chao tree |
 | 3 | [NKLEAVES - Leaves](https://www.spoj.com/problems/NKLEAVES/) | SPOJ | DP + CHT |
 | 4 | [Kalila and Dimna](https://codeforces.com/problemset/problem/319/C) | CF 319C | CHT |
 | 5 | [Frog 3](https://atcoder.jp/contests/dp/tasks/dp_z) | AtCoder DP-Z | CHT template |
@@ -100,7 +100,7 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 ---
 
-## 8.5 Suffix Automaton 🟠 P2
+## 8.5 Suffix Automaton [P2]
 
 **Topics**: Building a suffix automaton (DAWG) in O(N), counting distinct substrings, LCS of two strings, substring matching.
 
@@ -114,7 +114,7 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [SUBLEX - Lex Substring Search](https://www.spoj.com/problems/SUBLEX/) | SPOJ | SAM archetype |
+| 1 | ★ [SUBLEX - Lex Substring Search](https://www.spoj.com/problems/SUBLEX/) | SPOJ | SAM archetype |
 | 2 | [Distinct Substrings (SAM)](https://www.spoj.com/problems/DISUBSTR/) | SPOJ | SAM |
 | 3 | [Suffix Automaton](https://judge.yosupo.jp/problem/number_of_substrings) | Library Checker | SAM template |
 | 4 | [LCS2 - Longest Common Substring II](https://www.spoj.com/problems/LCS2/) | SPOJ | SAM multi-string |
@@ -124,7 +124,7 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 ---
 
-## 8.6 Linear Algebra & Gaussian Elimination 🟡 P3
+## 8.6 Linear Algebra & Gaussian Elimination [P3]
 
 **Topics**: Gaussian elimination over reals and GF(2) (XOR), solving systems of linear equations, matrix rank, determinant, linear basis (XOR basis).
 
@@ -136,7 +136,7 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Ivan and Burgers](https://codeforces.com/problemset/problem/1100/F) | CF 1100F | Linear basis |
+| 1 | ★ [Ivan and Burgers](https://codeforces.com/problemset/problem/1100/F) | CF 1100F | Linear basis |
 | 2 | [XOR Basis](https://judge.yosupo.jp/problem/xor_basis) | Library Checker | Template |
 | 3 | [Maximum XOR Subarray](https://www.spoj.com/problems/XMAX/) | SPOJ | Linear basis |
 | 4 | [Gaussian Elimination GF2](https://judge.yosupo.jp/problem/system_of_linear_equations) | Library Checker | Template |
@@ -147,7 +147,7 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 ---
 
-## 8.7 Advanced Combinatorics 🟡 P3
+## 8.7 Advanced Combinatorics [P3]
 
 **Topics**: Burnside's lemma (counting under symmetry), Polya enumeration, Catalan numbers, Stirling numbers, advanced counting.
 
@@ -160,7 +160,7 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Colorings (Burnside)](https://codeforces.com/problemset/problem/1474/F) | CF 1474F | Burnside |
+| 1 | ★ [Colorings (Burnside)](https://codeforces.com/problemset/problem/1474/F) | CF 1474F | Burnside |
 | 2 | [Bracket Sequences I](https://cses.fi/problemset/task/2064) | CSES 2064 | Catalan |
 | 3 | [Bracket Sequences II](https://cses.fi/problemset/task/2187) | CSES 2187 | Catalan variant |
 | 4 | [Stirling Numbers 2nd](https://judge.yosupo.jp/problem/stirling_number_of_the_second_kind) | Library Checker | Template |
@@ -170,7 +170,7 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 ---
 
-## 8.8 Min-Cost Max Flow (MCMF) 🟢 P4
+## 8.8 Min-Cost Max Flow (MCMF) [P4]
 
 **Topics**: MCMF algorithms (SPFA-based, Bellman-Ford-based), modeling assignment/transportation problems as MCMF.
 
@@ -183,7 +183,7 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Parcel Delivery](https://cses.fi/problemset/task/2121) | CSES 2121 | MCMF |
+| 1 | ★ [Parcel Delivery](https://cses.fi/problemset/task/2121) | CSES 2121 | MCMF |
 | 2 | [Task Assignment](https://cses.fi/problemset/task/2129) | CSES 2129 | MCMF |
 | 3 | [Min Cost Flow](https://judge.yosupo.jp/problem/min_cost_b_flow) | Library Checker | MCMF template |
 | 4 | [GREED (SPOJ)](https://www.spoj.com/problems/GREED/) | SPOJ | MCMF |
@@ -196,11 +196,11 @@ At this tier you enter the domain of elite competitive programmers. You master F
 
 | Priority | Topics Covered |
 |----------|---------------|
-| 🔴 P1 | Max Flow & Min Cut, Bipartite Matching |
-| 🟠 P2 | FFT/NTT, Convex Hull Trick, Suffix Automaton |
-| 🟡 P3 | Linear Algebra & Gauss, Advanced Combinatorics |
-| 🟢 P4 | Min-Cost Max Flow |
+| [P1] | Max Flow & Min Cut, Bipartite Matching |
+| [P2] | FFT/NTT, Convex Hull Trick, Suffix Automaton |
+| [P3] | Linear Algebra & Gauss, Advanced Combinatorics |
+| [P4] | Min-Cost Max Flow |
 
 **Total problems in Tier 8: ~90**
 
-> ✅ **Checkpoint**: You can solve Div.1 D/E problems (2400–2600 rated). Flow networks, FFT, CHT, and suffix automatons are tools you reach for naturally.
+> [Checkpoint] **Checkpoint**: You can solve Div.1 D/E problems (2400–2600 rated). Flow networks, FFT, CHT, and suffix automatons are tools you reach for naturally.

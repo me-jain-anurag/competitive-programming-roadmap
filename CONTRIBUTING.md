@@ -4,14 +4,14 @@ First off, thank you for considering contributing to the roadmap! The community 
 
 ## How Can I Contribute?
 
-### 🐛 Reporting Bugs & Broken Links
+### Reporting Bugs & Broken Links
 If you find a broken link, a problem that now requires a premium subscription, or an incorrectly verified problem title:
 1. Go to the **Issues** tab on GitHub.
 2. Click **New Issue**.
 3. Clearly state the exact Tier, Section, and Problem Number that has an issue.
 4. If possible, suggest a free and equivalent replacement problem from a platform like CSES, Codeforces, or SPOJ!
 
-### 💡 Proposing Problem Replacements
+### Proposing Problem Replacements
 If you believe a problem is misplaced (e.g., requires concepts far beyond its tier) or you have a significantly better pedagogical example for a topic:
 1. Open an Issue outlining why the problem should be replaced.
 2. If the maintainer approves, you can Fork the repository, make the change in the corresponding `tier_*.md` file, and submit a **Pull Request**.

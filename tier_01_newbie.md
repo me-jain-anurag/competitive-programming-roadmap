@@ -6,7 +6,7 @@ At this tier you are building the absolute foundations of competitive programmin
 
 ---
 
-## 1.1 Basic I/O, Data Types & Control Flow 🔴 P1
+## 1.1 Basic I/O, Data Types & Control Flow [P1]
 
 **Topics**: Fast I/O (`scanf/printf` or `ios::sync_with_stdio`), integer overflow awareness (`int` vs `long long`), loops, conditionals, basic type casting.
 
@@ -19,13 +19,13 @@ At this tier you are building the absolute foundations of competitive programmin
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Watermelon](https://codeforces.com/problemset/problem/4/A) | CF 4A | Parity check |
+| 1 | ★ [Watermelon](https://codeforces.com/problemset/problem/4/A) | CF 4A | Parity check |
 | 2 | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | CF 71A | String basics |
 | 3 | [Team](https://codeforces.com/problemset/problem/231/A) | CF 231A | Simple counting |
 | 4 | [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | CF 236A | Set / distinct chars |
 | 5 | [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | CF 977A | Simulation loop |
 | 6 | [Stones on the Table](https://codeforces.com/problemset/problem/266/A) | CF 266A | Adjacent comparison |
-| 7 | ⭐ [Weird Algorithm](https://cses.fi/problemset/task/1068) | CSES 1068 | Simulation / overflow |
+| 7 | ★ [Weird Algorithm](https://cses.fi/problemset/task/1068) | CSES 1068 | Simulation / overflow |
 | 8 | [Missing Number](https://cses.fi/problemset/task/1083) | CSES 1083 | Sum formula |
 | 9 | [Two Sum](https://leetcode.com/problems/two-sum/) | LC 1 | Hash map intro |
 | 10 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | LC 412 | Control flow |
@@ -36,7 +36,7 @@ At this tier you are building the absolute foundations of competitive programmin
 
 ---
 
-## 1.2 Simple Math & Number Properties 🔴 P1
+## 1.2 Simple Math & Number Properties [P1]
 
 **Topics**: Divisibility, modular arithmetic basics, parity (odd/even), floor/ceil division, absolute value, basic formulas (sum of 1..N, area, etc.).
 
@@ -49,12 +49,12 @@ At this tier you are building the absolute foundations of competitive programmin
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Domino Piling](https://codeforces.com/problemset/problem/50/A) | CF 50A | floor(m*n/2) |
+| 1 | ★ [Domino Piling](https://codeforces.com/problemset/problem/50/A) | CF 50A | floor(m*n/2) |
 | 2 | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | CF 263A | Manhattan distance |
 | 3 | [Even Odds](https://codeforces.com/problemset/problem/318/A) | CF 318A | Parity + formula |
 | 4 | [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | CF 339A | Parsing + sorting |
 | 5 | [Number Spiral](https://cses.fi/problemset/task/1071) | CSES 1071 | Math / observation |
-| 6 | ⭐ [Two Knights](https://cses.fi/problemset/task/1072) | CSES 1072 | Counting / inclusion |
+| 6 | ★ [Two Knights](https://cses.fi/problemset/task/1072) | CSES 1072 | Counting / inclusion |
 | 7 | [Repetitions](https://cses.fi/problemset/task/1069) | CSES 1069 | Max consecutive |
 | 8 | [Power of Two](https://leetcode.com/problems/power-of-two/) | LC 231 | Bit trick |
 | 9 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | LC 171 | Base conversion |
@@ -67,7 +67,7 @@ At this tier you are building the absolute foundations of competitive programmin
 
 ---
 
-## 1.3 Basic Strings & Character Manipulation 🔴 P1
+## 1.3 Basic Strings & Character Manipulation [P1]
 
 **Topics**: String traversal, character comparison, ASCII values, substring extraction, string reversal, frequency counting with arrays.
 
@@ -80,7 +80,7 @@ At this tier you are building the absolute foundations of competitive programmin
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Bit++](https://codeforces.com/problemset/problem/282/A) | CF 282A | String parsing |
+| 1 | ★ [Bit++](https://codeforces.com/problemset/problem/282/A) | CF 282A | String parsing |
 | 2 | [Word](https://codeforces.com/problemset/problem/59/A) | CF 59A | Case counting |
 | 3 | [String Task](https://codeforces.com/problemset/problem/118/A) | CF 118A | Char filtering |
 | 4 | [Petya and Strings](https://codeforces.com/problemset/problem/112/A) | CF 112A | Lexicographic compare |
@@ -96,7 +96,7 @@ At this tier you are building the absolute foundations of competitive programmin
 
 ---
 
-## 1.4 Arrays, Sorting & Simple Searching 🟠 P2
+## 1.4 Arrays, Sorting & Simple Searching [P2]
 
 **Topics**: Array traversal, finding min/max, counting occurrences, built-in sort, custom comparators (conceptual), linear search, basic set usage.
 
@@ -109,7 +109,7 @@ At this tier you are building the absolute foundations of competitive programmin
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Distinct Numbers](https://cses.fi/problemset/task/1621) | CSES 1621 | Sort or set |
+| 1 | ★ [Distinct Numbers](https://cses.fi/problemset/task/1621) | CSES 1621 | Sort or set |
 | 2 | [Seats](https://codeforces.com/problemset/problem/6/A) | CF 6A | Triangle inequality |
 | 3 | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | CF 791A | Simple simulation |
 | 4 | [Elephant](https://codeforces.com/problemset/problem/617/A) | CF 617A | Ceil division |
@@ -127,7 +127,7 @@ At this tier you are building the absolute foundations of competitive programmin
 
 ---
 
-## 1.5 Simulation & Ad-Hoc 🟠 P2
+## 1.5 Simulation & Ad-Hoc [P2]
 
 **Topics**: Following problem statements exactly, game simulation, cycle detection in simulation, state tracking, matrix/grid traversal.
 
@@ -140,10 +140,10 @@ At this tier you are building the absolute foundations of competitive programmin
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Buy a Shovel](https://codeforces.com/problemset/problem/732/A) | CF 732A | Modular cycle |
+| 1 | ★ [Buy a Shovel](https://codeforces.com/problemset/problem/732/A) | CF 732A | Modular cycle |
 | 2 | [Die Roll](https://codeforces.com/problemset/problem/9/A) | CF 9A | Probability / counting |
 | 3 | [Anton and Danik](https://codeforces.com/problemset/problem/734/A) | CF 734A | Counting wins |
-| 4 | ⭐ [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | LC 54 | Grid simulation |
+| 4 | ★ [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | LC 54 | Grid simulation |
 | 5 | [Game of Life](https://leetcode.com/problems/game-of-life/) | LC 289 | Grid simulation |
 | 6 | [Simulate Robot](https://leetcode.com/problems/robot-return-to-origin/) | LC 657 | Direction tracking |
 | 7 | [Shell Game](https://usaco.org/index.php?page=viewproblem2&cpid=891) | USACO Bronze | Simulation |
@@ -158,7 +158,7 @@ At this tier you are building the absolute foundations of competitive programmin
 
 ---
 
-## 1.6 Intro to Greedy Thinking 🟡 P3
+## 1.6 Intro to Greedy Thinking [P3]
 
 **Topics**: Making locally optimal choices, coin change with greedy (when valid), activity selection intuition, always pick the best available option.
 
@@ -171,11 +171,11 @@ At this tier you are building the absolute foundations of competitive programmin
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Young Physicist](https://codeforces.com/problemset/problem/69/A) | CF 69A | Vector sum = 0 |
+| 1 | ★ [Young Physicist](https://codeforces.com/problemset/problem/69/A) | CF 69A | Vector sum = 0 |
 | 2 | [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | CF 110A | Counting digits |
 | 3 | [Insomnia cure](https://codeforces.com/problemset/problem/148/A) | CF 148A | Inclusion-exclusion lite |
 | 4 | [Drinks](https://codeforces.com/problemset/problem/200/A) | CF 200A | Average |
-| 5 | ⭐ [Apartments](https://cses.fi/problemset/task/1084) | CSES 1084 | Greedy / two pointer |
+| 5 | ★ [Apartments](https://cses.fi/problemset/task/1084) | CSES 1084 | Greedy / two pointer |
 | 6 | [Lemonade Stand](https://leetcode.com/problems/lemonade-change/) | LC 860 | Greedy change-making |
 | 7 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | LC 455 | Sort + greedy |
 | 8 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | LC 121 | Running min |
@@ -186,7 +186,7 @@ At this tier you are building the absolute foundations of competitive programmin
 
 ---
 
-## 1.7 Basic Recursion 🟡 P3
+## 1.7 Basic Recursion [P3]
 
 **Topics**: Understanding the call stack, base cases, recursive thinking (break a problem into smaller identical sub-problems), simple recursive implementations.
 
@@ -199,17 +199,17 @@ At this tier you are building the absolute foundations of competitive programmin
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Power of Three](https://leetcode.com/problems/power-of-three/) | LC 326 | Recursive check |
+| 1 | ★ [Power of Three](https://leetcode.com/problems/power-of-three/) | LC 326 | Recursive check |
 | 2 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | LC 70 | Fib recursion → DP |
 | 3 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | LC 509 | Classic recursion |
 | 4 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | LC 50 | Fast power recursion |
 | 5 | [Recursive Digit Sum](https://leetcode.com/problems/add-digits/) | LC 258 | Digital root |
-| 6 | ⭐ [Tower of Hanoi](https://cses.fi/problemset/task/2165) | CSES 2165 | Classic recursion |
+| 6 | ★ [Tower of Hanoi](https://cses.fi/problemset/task/2165) | CSES 2165 | Classic recursion |
 | 8 | [Apple Division](https://cses.fi/problemset/task/1623) | CSES 1623 | Brute force via recursion |
 
 ---
 
-## 1.8 Parity, Invariants & Pigeonhole 🟢 P4
+## 1.8 Parity, Invariants & Pigeonhole [P4]
 
 **Topics**: Using parity (odd/even) arguments to prove impossibility, identifying quantities that never change under allowed operations, Pigeonhole principle for existence proofs.
 
@@ -222,7 +222,7 @@ At this tier you are building the absolute foundations of competitive programmin
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ⭐ [Watermelon](https://codeforces.com/problemset/problem/4/A) | CF 4A | Parity |
+| 1 | ★ [Watermelon](https://codeforces.com/problemset/problem/4/A) | CF 4A | Parity |
 | 2 | [Is it a Cube?](https://codeforces.com/problemset/problem/1619/A) | CF 1619A | Perfect cube check |
 | 3 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | LC 36 | State tracking / invariant |
 | 4 | [Sum of Round Numbers](https://codeforces.com/problemset/problem/1352/A) | CF 1352A | Decomposition |
@@ -237,11 +237,11 @@ At this tier you are building the absolute foundations of competitive programmin
 
 | Priority | Topics Covered |
 |----------|---------------|
-| 🔴 P1 | I/O & Data Types, Simple Math, Basic Strings |
-| 🟠 P2 | Arrays & Sorting, Simulation & Ad-Hoc |
-| 🟡 P3 | Intro to Greedy, Basic Recursion |
-| 🟢 P4 | Parity, Invariants & Pigeonhole |
+| [P1] | I/O & Data Types, Simple Math, Basic Strings |
+| [P2] | Arrays & Sorting, Simulation & Ad-Hoc |
+| [P3] | Intro to Greedy, Basic Recursion |
+| [P4] | Parity, Invariants & Pigeonhole |
 
 **Total problems in Tier 1: ~99**
 
-> ✅ **Checkpoint**: Before moving to Tier 2, you should be able to solve most CF Div.2 A problems (800-rated) within 10–15 minutes.
+> [Checkpoint] **Checkpoint**: Before moving to Tier 2, you should be able to solve most CF Div.2 A problems (800-rated) within 10–15 minutes.
