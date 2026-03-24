@@ -542,7 +542,7 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 | 1 | [Minimize Maximum Pair Sum](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | LC 1877 | O(N log N) sort |
 | 2 | [Interesting Drink](https://codeforces.com/problemset/problem/706/B) | CF 706B | Sort + BS = O(N log N) |
 | 3 | [Vanya and Lanterns](https://codeforces.com/problemset/problem/492/B) | CF 492B | Sort + max gap |
-| 4 | [Sum of Three](https://codeforces.com/problemset/problem/1692/E) | CF 1692E | O(N) or O(N log N) |
+| 4 | [Binary Deque](https://codeforces.com/problemset/problem/1692/E) | CF 1692E | O(N) or O(N log N) |
 | 5 | [Traffic Lights](https://cses.fi/problemset/task/1163) | CSES 1163 | Set operations |
 | 6 | [Playlist](https://cses.fi/problemset/task/1141) | CSES 1141 | Sliding window |
 
