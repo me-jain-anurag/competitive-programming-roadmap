@@ -594,6 +594,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 | 10 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | LC 4 | BS advanced |
 | 11 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | LC 162 | Ternary / BS |
 | 12 | [EKO - Eko](https://www.spoj.com/problems/EKO/) | SPOJ EKO | BS on answer |
+| 13 | [Digit Queries](https://cses.fi/problemset/task/1628) | CSES 1628 | BS on intervals |
 
 ---
 
@@ -669,20 +670,22 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ★ [Dice Combinations](https://cses.fi/problemset/task/1633) | CSES 1633 | 1D DP template |
-| 2 | ★ [Minimizing Coins](https://cses.fi/problemset/task/1634) | CSES 1634 | Coin change (min) |
-| 3 | ★ [Coin Combinations I](https://cses.fi/problemset/task/1635) | CSES 1635 | Unbounded knapsack |
-| 4 | [Coin Combinations II](https://cses.fi/problemset/task/1636) | CSES 1636 | Ordered vs unordered |
+| 1 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | LC 70 | Fibonacci DP |
+| 2 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | LC 746 | 1D DP with cost |
+| 3 | ★ [Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a) | AtCoder DP A | Safest 1D intro |
+| 4 | ★ [Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b) | AtCoder DP B | 1D with inner loop |
 | 5 | [House Robber](https://leetcode.com/problems/house-robber/) | LC 198 | 1D DP classic |
 | 6 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | LC 213 | Circular variant |
-| 7 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | LC 70 | Fibonacci DP |
-| 8 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | LC 746 | 1D DP |
-| 9 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | LC 91 | 1D DP |
-| 10 | [Removing Digits](https://cses.fi/problemset/task/1637) | CSES 1637 | DP / greedy |
-| 11 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | LC 300 | LIS classic |
-| 12 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | LC 53 | Kadane's DP |
-| 13 | [Fence Painting](https://usaco.org/index.php?page=viewproblem2&cpid=1173) | USACO Silver | DP |
-| 14 | [Alphacode](https://www.spoj.com/problems/ACODE/) | SPOJ ACODE | Decode DP |
+| 7 | [Removing Digits](https://cses.fi/problemset/task/1637) | CSES 1637 | DP / greedy bridge |
+| 8 | ★ [Dice Combinations](https://cses.fi/problemset/task/1633) | CSES 1633 | 1D DP template |
+| 9 | ★ [Minimizing Coins](https://cses.fi/problemset/task/1634) | CSES 1634 | Coin change (min) |
+| 10 | ★ [Coin Combinations I](https://cses.fi/problemset/task/1635) | CSES 1635 | Coin change (ways) |
+| 11 | ★ [Coin Combinations II](https://cses.fi/problemset/task/1636) | CSES 1636 | Ordered Unbounded |
+| 12 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | LC 91 | 1D DP |
+| 13 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | LC 300 | LIS classic |
+| 14 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | LC 53 | Kadane's DP |
+| 15 | [Fence Painting](https://usaco.org/index.php?page=viewproblem2&cpid=1173) | USACO Silver | DP |
+| 16 | [Alphacode](https://www.spoj.com/problems/ACODE/) | SPOJ ACODE | Decode DP |
 
 ---
 
@@ -727,16 +730,17 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 |---|---------|--------|-------|
 | 1 | ★ [Grid Paths](https://cses.fi/problemset/task/1638) | CSES 1638 | Grid DP with obstacles |
 | 2 | ★ [Edit Distance](https://cses.fi/problemset/task/1639) | CSES 1639 | Classic 2D DP |
-| 3 | ★ [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | LC 1143 | LCS |
-| 4 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | LC 62 | Grid counting |
-| 5 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | LC 63 | With obstacles |
-| 6 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | LC 64 | Grid min cost |
-| 7 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | LC 72 | Classic |
-| 8 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | LC 97 | 2D DP |
-| 9 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | LC 115 | 2D DP |
-| 10 | [Max Square](https://leetcode.com/problems/maximal-square/) | LC 221 | Grid DP |
-| 11 | [Palindrome Substrings](https://leetcode.com/problems/palindromic-substrings/) | LC 647 | 2D DP / expand |
-| 12 | [Money Sums](https://cses.fi/problemset/task/1745) | CSES 1745 | Subset sum DP |
+| 3 | ★ [Array Description](https://cses.fi/problemset/task/1746) | CSES 1746 | 2D DP dp[i][v] |
+| 4 | ★ [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | LC 1143 | LCS |
+| 5 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | LC 62 | Grid counting |
+| 6 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | LC 63 | With obstacles |
+| 7 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | LC 64 | Grid min cost |
+| 8 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | LC 72 | Classic |
+| 9 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | LC 97 | 2D DP |
+| 10 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | LC 115 | 2D DP |
+| 11 | [Max Square](https://leetcode.com/problems/maximal-square/) | LC 221 | Grid DP |
+| 12 | [Palindrome Substrings](https://leetcode.com/problems/palindromic-substrings/) | LC 647 | 2D DP / expand |
+| 13 | [Money Sums](https://cses.fi/problemset/task/1745) | CSES 1745 | Subset sum DP |
 
 ---
 
