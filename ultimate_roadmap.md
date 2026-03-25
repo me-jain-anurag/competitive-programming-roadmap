@@ -614,8 +614,8 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 | 2 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | LC 912 | Implement merge sort |
 | 3 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | LC 56 | Sort by start |
 | 4 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | LC 435 | Sort by end (greedy) |
-| 5 | [Room Allocation](https://cses.fi/problemset/task/1164) | CSES 1164 | Event sorting + multiset |
-| 6 | [Restaurant Customers](https://cses.fi/problemset/task/1619) | CSES 1619 | Event sorting |
+| 5 | [Restaurant Customers](https://cses.fi/problemset/task/1619) | CSES 1619 | Event sorting |
+| 6 | [Room Allocation](https://cses.fi/problemset/task/1164) | CSES 1164 | Event sorting + multiset |
 | 7 | [Movie Festival](https://cses.fi/problemset/task/1629) | CSES 1629 | Activity selection |
 | 8 | [Tasks and Deadlines](https://cses.fi/problemset/task/1630) | CSES 1630 | Sort by duration |
 | 9 | [Queue at the School](https://codeforces.com/problemset/problem/266/B) | CF 266B | Bubble sort simulation |
