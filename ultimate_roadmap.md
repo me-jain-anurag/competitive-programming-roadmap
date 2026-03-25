@@ -625,38 +625,55 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 ---
 
-## 3.3 Graph Theory Fundamentals: BFS & DFS [P1]
+## 3.3 Intro to Trees & Graphs: DFS & Flood Fill [P1]
 
-**Topics**: Graph representation (adjacency list), BFS (shortest path in unweighted graphs), DFS (cycle detection, connected components), grid graphs, bipartite checking.
+**Topics**: Graph representation, adjacency list, basic DFS traversal, connected components, flood fill on grids.
 
 **Patterns**:
-- **BFS** = level-order traversal, gives shortest distance in unweighted graphs.
-- **DFS** = go deep, backtrack. Good for exploring all reachable nodes, finding connected components.
-- Grid as graph: each cell (r,c) is a node, edges to 4/8 neighbors.
-- **Bipartite check**: 2-color via BFS/DFS. If coloring fails → odd cycle → not bipartite.
+- **DFS**: go deep, backtrack. Perfect for painting areas on a matrix (flood fill) or exploring all reachable nodes in a graph.
+- Grid as graph: each cell (r,c) is a node, edges go to 4/8 neighbors.
+- Connected Components: running DFS from unvisited nodes tells you how many separate pieces the graph has.
 
-**Classical Questions**: Shortest path in a maze, flood fill, number of islands, cycle detection.
+**Classical Questions**: Flood fill on a grid, counting connected components.
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
-| 1 | ★ [Labyrinth](https://cses.fi/problemset/task/1193) | CSES 1193 | BFS shortest path |
-| 2 | ★ [Building Roads](https://cses.fi/problemset/task/1666) | CSES 1666 | Connected components |
-| 3 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | LC 200 | BFS/DFS flood fill |
-| 4 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | LC 733 | DFS |
-| 5 | [Building Teams](https://cses.fi/problemset/task/1668) | CSES 1668 | Bipartite check |
-| 6 | [Counting Rooms](https://cses.fi/problemset/task/1192) | CSES 1192 | Grid DFS/BFS |
-| 7 | [Round Trip](https://cses.fi/problemset/task/1669) | CSES 1669 | Cycle detection |
-| 8 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | LC 994 | Multi-source BFS |
-| 9 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | LC 542 | Multi-source BFS |
-| 10 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | LC 133 | BFS/DFS |
-| 11 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | LC 785 | 2-coloring |
-| 12 | [Icy Perimeter](https://usaco.org/index.php?page=viewproblem2&cpid=895) | USACO Silver | BFS/DFS on grid |
-| 13 | [Closing the Farm](https://usaco.org/index.php?page=viewproblem2&cpid=646) | USACO Silver | Reverse connectivity |
-| 14 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | LC 207 | Cycle detection (DAG) |
+| 1 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | LC 733 | Simplest DFS / grid intro |
+| 2 | ★ [Number of Islands](https://leetcode.com/problems/number-of-islands/) | LC 200 | Classic flood fill |
+| 3 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | LC 695 | Flood fill count |
+| 4 | [Counting Rooms](https://cses.fi/problemset/task/1192) | CSES 1192 | Grid connected components |
+| 5 | ★ [Building Roads](https://cses.fi/problemset/task/1666) | CSES 1666 | Graph connected components |
+| 6 | [Icy Perimeter](https://usaco.org/index.php?page=viewproblem2&cpid=895) | USACO Silver | Grid DFS area/perimeter |
+| 7 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | LC 133 | Hash map + DFS |
 
 ---
 
-## 3.4 Intro to Dynamic Programming [P1]
+## 3.4 Intermediate Graph Traversal: BFS & Applications [P1]
+
+**Topics**: Queue-based BFS, shortest paths in unweighted graphs, multi-source BFS, cycle detection, bipartite checking.
+
+**Patterns**:
+- **BFS**: level-order traversal using a queue. Guarantees the shortest path in unweighted graphs.
+- **Bipartite check**: 2-color via BFS. If coloring fails → odd cycle → not bipartite.
+- **Path Reconstruction**: track a `parent` array while running BFS to trace backward from destination to start.
+
+**Classical Questions**: Shortest path in a maze, multi-source spreading infection, 2-coloring.
+
+| # | Problem | Source | Notes |
+|---|---------|--------|-------|
+| 1 | ★ [Labyrinth](https://cses.fi/problemset/task/1193) | CSES 1193 | Unweighted shortest path |
+| 2 | [Message Route](https://cses.fi/problemset/task/1667) | CSES 1667 | BFS path reconstruction |
+| 3 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | LC 994 | Multi-source BFS |
+| 4 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | LC 542 | Multi-source BFS distances |
+| 5 | ★ [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | LC 785 | 2-coloring |
+| 6 | [Building Teams](https://cses.fi/problemset/task/1668) | CSES 1668 | Graph bipartite check |
+| 7 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | LC 207 | Cycle detection (DAG) |
+| 8 | [Round Trip](https://cses.fi/problemset/task/1669) | CSES 1669 | Undirected cycle detection |
+| 9 | [Closing the Farm](https://usaco.org/index.php?page=viewproblem2&cpid=646) | USACO Silver | Connectivity tracking |
+
+---
+
+## 3.5 Intro to Dynamic Programming [P1]
 
 **Topics**: 1D DP (Fibonacci-style recurrences, coin change), memoization vs tabulation, state definition, identifying overlapping subproblems.
 
@@ -689,7 +706,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 ---
 
-## 3.5 Greedy Algorithms (Intermediate) [P2]
+## 3.6 Greedy Algorithms (Intermediate) [P2]
 
 **Topics**: Activity selection, fractional knapsack, Huffman coding intuition, exchange argument, scheduling problems, greedy ordering proofs.
 
@@ -715,7 +732,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 ---
 
-## 3.6 2D DP & Grid DP [P2]
+## 3.7 2D DP & Grid DP [P2]
 
 **Topics**: Grid path counting, grid minimum cost path, edit distance, common subsequence/substring, 2D state tables.
 
@@ -744,7 +761,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 ---
 
-## 3.7 Union-Find (DSU) [P3]
+## 3.8 Union-Find (DSU) [P3]
 
 **Topics**: Disjoint Set Union with path compression and union by rank, connected components dynamically, cycle detection in undirected graphs.
 
@@ -771,7 +788,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 ---
 
-## 3.8 Constructive Algorithms & Observations [P3]
+## 3.9 Constructive Algorithms & Observations [P3]
 
 **Topics**: Building valid solutions from constraints, finding patterns via small cases, parity/modularity arguments to determine if solutions exist, constructing permutations/arrays with given properties.
 
