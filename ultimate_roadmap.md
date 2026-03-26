@@ -347,6 +347,8 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 | 7 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | LC 560 | Prefix sum + hash map |
 | 8 | [Little Girl and Maximum Sum](https://codeforces.com/problemset/problem/276/C) | CF 276C | Difference array |
 | 9 | [Breed Counting](https://usaco.org/index.php?page=viewproblem2&cpid=572) | USACO Silver | Prefix sums |
+| 10 | [Subsequences Summing to Sevens](https://usaco.org/index.php?page=viewproblem2&cpid=595) | USACO Silver | Prefix mod K |
+| 11 | [Hoof, Paper, Scissors](https://usaco.org/index.php?page=viewproblem2&cpid=691) | USACO Silver | State prefix sums |
 | 10 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | LC 53 | Kadane / prefix min |
 | 11 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | LC 525 | Prefix sum + hash |
 | 12 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | LC 238 | Prefix/suffix products |
@@ -377,6 +379,7 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 | 9 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | LC 209 | Variable window |
 | 10 | [Remove Duplicates from Sorted](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | LC 26 | Two pointers in-place |
 | 11 | [Diamond Collector](https://usaco.org/index.php?page=viewproblem2&cpid=643) | USACO Silver | Sliding window |
+| 12 | [Paired Up](https://usaco.org/index.php?page=viewproblem2&cpid=738) | USACO Silver | Two pointer frequency |
 | 12 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | LC 1004 | Variable window |
 | 13 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | LC 904 | At most 2 distinct |
 
@@ -458,9 +461,8 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 | 5 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | LC 69 | BS on answer intro |
 | 6 | [T-primes](https://codeforces.com/problemset/problem/230/B) | CF 230B | Sieve + BS |
 | 7 | [Distinct Numbers](https://cses.fi/problemset/task/1621) | CSES 1621 | Sort + distinct |
-| 8 | [Aggressive Cows (Binary Search)](https://www.spoj.com/problems/AGGRCOW/) | SPOJ | BS on answer classic |
-| 9 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | LC 875 | BS on answer |
-| 10 | [Social Distancing](https://usaco.org/index.php?page=viewproblem2&cpid=1038) | USACO Silver | BS on answer |
+| 8 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | LC 875 | BS on answer |
+| 9 | [Social Distancing](https://usaco.org/index.php?page=viewproblem2&cpid=1038) | USACO Silver | BS on answer |
 
 ---
 
@@ -595,6 +597,8 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 | 11 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | LC 162 | Ternary / BS |
 | 12 | [EKO - Eko](https://www.spoj.com/problems/EKO/) | SPOJ EKO | BS on answer |
 | 13 | [Digit Queries](https://cses.fi/problemset/task/1628) | CSES 1628 | BS on intervals |
+| 14 | [Angry Cows](https://usaco.org/index.php?page=viewproblem2&cpid=594) | USACO Silver | BS on radius |
+| 15 | [Cow Dance Show](https://usaco.org/index.php?page=viewproblem2&cpid=690) | USACO Silver | BS on answer + PQ |
 
 ---
 
@@ -622,6 +626,8 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 | 9 | [Queue at the School](https://codeforces.com/problemset/problem/266/B) | CF 266B | Bubble sort simulation |
 | 10 | [Largest Number](https://leetcode.com/problems/largest-number/) | LC 179 | Custom comparator |
 | 11 | [H-Index](https://leetcode.com/problems/h-index/) | LC 274 | Sort + count |
+| 12 | [Mountain View](https://usaco.org/index.php?page=viewproblem2&cpid=894) | USACO Silver | Greedy overlapping |
+| 13 | [Lifeguards (Silver)](https://usaco.org/index.php?page=viewproblem2&cpid=786) | USACO Silver | Sweep line |
 
 ---
 
@@ -645,6 +651,9 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 | 5 | ★ [Building Roads](https://cses.fi/problemset/task/1666) | CSES 1666 | Graph connected components |
 | 6 | [Icy Perimeter](https://usaco.org/index.php?page=viewproblem2&cpid=895) | USACO Silver | Grid DFS area/perimeter |
 | 7 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | LC 133 | Hash map + DFS |
+| 8 | [The Bovine Shuffle](https://usaco.org/index.php?page=viewproblem2&cpid=764) | USACO Silver | Functional graph cycles |
+| 9 | [Clock Tree](https://usaco.org/index.php?page=viewproblem2&cpid=1016) | USACO Silver | Tree DFS parity |
+| 10 | [Where's Bessie?](https://usaco.org/index.php?page=viewproblem2&cpid=740) | USACO Silver | Grid DFS / Heavy Logic |
 
 ---
 
@@ -758,6 +767,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 | 11 | [Max Square](https://leetcode.com/problems/maximal-square/) | LC 221 | Grid DP |
 | 12 | [Palindrome Substrings](https://leetcode.com/problems/palindromic-substrings/) | LC 647 | 2D DP / expand |
 | 13 | [Money Sums](https://cses.fi/problemset/task/1745) | CSES 1745 | Subset sum DP |
+| 14 | [Snow Boots](https://usaco.org/index.php?page=viewproblem2&cpid=811) | USACO Silver | 2D DFS / DP |
 
 ---
 
@@ -785,6 +795,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 | 8 | [Friends](https://www.spoj.com/problems/FRIENDS/) | SPOJ | DSU |
 | 9 | [News Distribution](https://codeforces.com/problemset/problem/1167/C) | CF 1167C | DSU group sizes |
 | 10 | [Destroying Array](https://codeforces.com/problemset/problem/722/C) | CF 722C | Offline DSU |
+| 11 | [MooTube](https://usaco.org/index.php?page=viewproblem2&cpid=788) | USACO Silver | Offline queries + DSU |
 
 ---
 
