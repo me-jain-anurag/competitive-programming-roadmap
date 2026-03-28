@@ -66,7 +66,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 ---
 
-## 3.3 Intro to Trees & Graphs: DFS & Flood Fill [P1]
+## 3.3 Intro to Grid & Graph DFS [P1]
 
 **Topics**: Graph representation, adjacency list, basic DFS traversal, connected components, flood fill on grids.
 
@@ -87,21 +87,44 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 | 6 | [Icy Perimeter](https://usaco.org/index.php?page=viewproblem2&cpid=895) | USACO Silver | Grid DFS area/perimeter |
 | 7 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | LC 133 | Hash map + DFS |
 | 8 | [The Bovine Shuffle](https://usaco.org/index.php?page=viewproblem2&cpid=764) | USACO Silver | Functional graph cycles |
-| 9 | [Clock Tree](https://usaco.org/index.php?page=viewproblem2&cpid=1016) | USACO Silver | Tree DFS parity |
-| 10 | [Where's Bessie?](https://usaco.org/index.php?page=viewproblem2&cpid=740) | USACO Silver | Grid DFS / Heavy Logic |
+| 9 | ★ [Where's Bessie?](https://usaco.org/index.php?page=viewproblem2&cpid=740) | USACO Silver | Grid DFS / Heavy Logic |
 
 ---
 
-## 3.4 Intermediate Graph Traversal: BFS & Applications [P1]
+## 3.4 Tree Traversal & Properties [P1]
 
-**Topics**: Queue-based BFS, shortest paths in unweighted graphs, multi-source BFS, cycle detection, bipartite checking.
+**Topics**: Binary trees, N-ary trees, Subtree sizes, Tree Diameter, LCA (Lowest Common Ancestor), Euler tours / Tree flattening intuition.
+
+**Patterns**:
+- Trees are naturally recursive (DFS). Subtrees are just smaller isolated instances.
+- **2-DFS Trick**: To find Tree Diameter, run BFS/DFS from any node to find the furthest node A. Then BFS/DFS from A to find furthest node B. Distance A-B is the diameter.
+- Computing properties bottom-up: solve for children, then combine (e.g., `size(u) = 1 + sum(size(v))`).
+
+**Classical Questions**: Maximum depth, subset counts, tree diameter.
+
+| # | Problem | Source | Notes |
+|---|---------|--------|-------|
+| 1 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | LC 104 | Absolute basics |
+| 2 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | LC 543 | Post-order DFS |
+| 3 | [Lowest Common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | LC 236 | Tree structural logic |
+| 4 | ★ [Subordinates](https://cses.fi/problemset/task/1674) | CSES 1674 | Subtree sizes (Crucial) |
+| 5 | ★ [Tree Diameter](https://cses.fi/problemset/task/1131) | CSES 1131 | 2-DFS trick for unrooted trees |
+| 6 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | LC 863 | Tree converted to graph |
+| 7 | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | LC 1376 | Top-down Tree DFS |
+| 8 | [Clock Tree](https://usaco.org/index.php?page=viewproblem2&cpid=1016) | USACO Silver | Parity DFS |
+
+---
+
+## 3.5 Intermediate Graph Traversal: BFS & Applications [P1]
+
+**Topics**: Queue-based BFS, shortest paths in unweighted graphs, multi-source BFS, cycle detection, bipartite checking, implicit graphs.
 
 **Patterns**:
 - **BFS**: level-order traversal using a queue. Guarantees the shortest path in unweighted graphs.
 - **Bipartite check**: 2-color via BFS. If coloring fails → odd cycle → not bipartite.
 - **Path Reconstruction**: track a `parent` array while running BFS to trace backward from destination to start.
 
-**Classical Questions**: Shortest path in a maze, multi-source spreading infection, 2-coloring.
+**Classical Questions**: Shortest path in a maze, multi-source spreading infection, String ladder transitions.
 
 | # | Problem | Source | Notes |
 |---|---------|--------|-------|
@@ -114,10 +137,12 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 | 7 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | LC 207 | Cycle detection (DAG) |
 | 8 | [Round Trip](https://cses.fi/problemset/task/1669) | CSES 1669 | Undirected cycle detection |
 | 9 | [Closing the Farm](https://usaco.org/index.php?page=viewproblem2&cpid=646) | USACO Silver | Connectivity tracking |
+| 10 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | LC 127 | Implicit string graph |
+| 11 | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | LC 433 | Basic string BFS |
 
 ---
 
-## 3.5 Intro to Dynamic Programming [P1]
+## 3.6 Intro to Dynamic Programming [P1]
 
 **Topics**: 1D DP (Fibonacci-style recurrences, coin change), memoization vs tabulation, state definition, identifying overlapping subproblems.
 
@@ -150,7 +175,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 ---
 
-## 3.6 Greedy Algorithms (Intermediate) [P2]
+## 3.7 Greedy Algorithms (Intermediate) [P2]
 
 **Topics**: Activity selection, fractional knapsack, Huffman coding intuition, exchange argument, scheduling problems, greedy ordering proofs.
 
@@ -176,7 +201,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 ---
 
-## 3.7 2D DP & Grid DP [P2]
+## 3.8 2D DP & Grid DP [P2]
 
 **Topics**: Grid path counting, grid minimum cost path, edit distance, common subsequence/substring, 2D state tables.
 
@@ -206,7 +231,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 ---
 
-## 3.8 Union-Find (DSU) [P3]
+## 3.9 Union-Find (DSU) [P3]
 
 **Topics**: Disjoint Set Union with path compression and union by rank, connected components dynamically, cycle detection in undirected graphs.
 
@@ -234,7 +259,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 ---
 
-## 3.9 Constructive Algorithms & Observations [P3]
+## 3.10 Constructive Algorithms & Observations [P3]
 
 **Topics**: Building valid solutions from constraints, finding patterns via small cases, parity/modularity arguments to determine if solutions exist, constructing permutations/arrays with given properties.
 
@@ -260,7 +285,7 @@ At this tier you internalize the core algorithmic toolkit that separates casual 
 
 ---
 
-## 3.9 Meet-in-the-Middle [P4]
+## 3.10 Meet-in-the-Middle [P4]
 
 **Topics**: Splitting the input into two halves, enumerating all possibilities for each half, combining results. Turns O(2^N) into O(2^(N/2) · log).
 
