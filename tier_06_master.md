@@ -99,6 +99,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 | 5 | [AND Plus OR](https://codeforces.com/problemset/problem/1721/E) | CF 1721E | SOS |
 | 6 | [Sum Over Subsets](https://judge.yosupo.jp/problem/subset_sum_convolution) | Library Checker | Template |
 | 7 | [Maximize XOR](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | LC 421 | Trie / SOS |
+| 8 | [Planets Queries I](https://cses.fi/problemset/task/1750) | CSES 1750 | Functional Successor Binary Lifting |
 
 ---
 
@@ -123,6 +124,8 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 | 6 | [Stongly Connected Component](https://judge.yosupo.jp/problem/scc) | Library Checker | SCC template |
 | 7 | [Satisfiability of Equality](https://leetcode.com/problems/satisfiability-of-equality-equations/) | LC 990 | 2-SAT lite |
 | 8 | [Critical Connections](https://leetcode.com/problems/critical-connections-in-a-network/) | LC 1192 | Bridges/Tarjan |
+| 9 | [Tree Distances I](https://cses.fi/problemset/task/1132) | CSES 1132 | In/Out Array DP |
+| 10 | ★ [Tree Distances II](https://cses.fi/problemset/task/1133) | CSES 1133 | Subtree sum re-rooting |
 
 ---
 
@@ -146,6 +149,8 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 | 5 | [Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) | LC 1201 | Incl-Excl + BS |
 | 6 | [Count Integers](https://codeforces.com/problemset/problem/630/K) | CF 630K | IE |
 | 7 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | LC 668 | BS + counting |
+| 8 | ★ [Counting Numbers](https://cses.fi/problemset/task/2220) | CSES 2220 | Pure Digit DP template |
+| 9 | [Projects](https://cses.fi/problemset/task/1140) | CSES 1140 | Coordinate Compression / DP + BS |
 
 ---
 
@@ -169,6 +174,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 | 5 | [MPOW - Power of a Matrix](https://www.spoj.com/problems/MPOW/) | SPOJ | Matrix exp |
 | 6 | [Nth Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | LC 1137 | Matrix exp variant |
 | 7 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | LC 935 | Matrix exp / DP |
+| 8 | ★ [Download Speed](https://cses.fi/problemset/task/1694) | CSES 1694 | Pure Max Flow template |
 
 ---
 
@@ -192,6 +198,7 @@ At this tier you tackle the hardest graph algorithms and advanced string structu
 | 4 | [Race](https://oj.uz/problem/view/IOI11_race) | IOI 2011 | Centroid |
 | 5 | [New Year Tree (CF)](https://codeforces.com/problemset/problem/620/E) | CF 620E | Euler tour + bitmask |
 | 6 | [Centroid Decomposition](https://judge.yosupo.jp/problem/centroid_decomposition) | Library Checker | Template |
+| 7 | [Subtree Queries](https://cses.fi/problemset/task/1137) | CSES 1137 | Euler Tour + BIT / SegTree |
 
 ---
 

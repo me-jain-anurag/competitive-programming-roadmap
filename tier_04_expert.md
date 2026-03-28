@@ -60,6 +60,8 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 | 10 | [Two Sets II](https://cses.fi/problemset/task/1093) | CSES 1093 | Subset sum count |
 | 11 | [KNAPSACK - The Knapsack Problem](https://www.spoj.com/problems/KNAPSACK/) | SPOJ | Classic knapsack |
 | 12 | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/) | LC 879 | 2D knapsack |
+| 13 | [Fruit Feast](https://usaco.org/index.php?page=viewproblem2&cpid=574) | USACO Gold | Unbounded Knapsack / Reachability |
+| 14 | [Hoof, Paper, Scissors (Gold)](https://usaco.org/index.php?page=viewproblem2&cpid=694) | USACO Gold | DP on array with 3 states |
 
 ---
 
@@ -111,6 +113,7 @@ At this tier you move from graph traversal into weighted graphs and range-query 
 | 8 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | LC 332 | Euler path |
 | 9 | [Teleporters Path](https://cses.fi/problemset/task/1693) | CSES 1693 | Euler path directed |
 | 10 | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/) | LC 685 | Directed MST/DSU |
+| 11 | [Road Construction](https://cses.fi/problemset/task/1676) | CSES 1676 | DSU maintaining properties |
 
 ---
 

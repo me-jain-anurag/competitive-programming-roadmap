@@ -57,6 +57,8 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 | 6 | [Count Good Triplets in Array](https://leetcode.com/problems/count-good-triplets-in-an-array/) | LC 2179 | BIT |
 | 7 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | LC 493 | BIT / merge sort |
 | 8 | [UPDATEIT](https://www.spoj.com/problems/UPDATEIT/) | SPOJ | Range update + point query |
+| 9 | [Flight Routes Check](https://cses.fi/problemset/task/1682) | CSES 1682 | SCC Reachability intro |
+| 10 | ★ [Planets and Kingdoms](https://cses.fi/problemset/task/1683) | CSES 1683 | Extracting SCC components |
 
 ---
 
@@ -83,6 +85,9 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 | 8 | [Can I Win](https://leetcode.com/problems/can-i-win/) | LC 464 | Bitmask game |
 | 9 | [Traveling Salesman](https://www.spoj.com/problems/TVAC/) | SPOJ | TSP |
 | 10 | [Matching](https://atcoder.jp/contests/dp/tasks/dp_o) | AtCoder DP-O | Assignment |
+| 11 | [Company Queries I](https://cses.fi/problemset/task/1687) | CSES 1687 | Pure k-th ancestor |
+| 12 | ★ [Company Queries II](https://cses.fi/problemset/task/1688) | CSES 1688 | Pure LCA |
+| 13 | [Distance Queries](https://cses.fi/problemset/task/1135) | CSES 1135 | LCA Path length math |
 
 ---
 
@@ -109,6 +114,8 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 | 8 | [Tree Painting](https://usaco.org/index.php?page=viewproblem2&cpid=1193) | USACO Gold | Tree DP |
 | 9 | [Barn Painting](https://usaco.org/index.php?page=viewproblem2&cpid=766) | USACO Gold | Tree DP |
 | 10 | [Apple Tree](https://www.spoj.com/problems/PT07X/) | SPOJ PT07X | Max independent set |
+| 11 | ★ [Elevator Rides](https://cses.fi/problemset/task/1653) | CSES 1653 | Classic Bitmask TSP variant |
+| 12 | [Time is Mooney](https://usaco.org/index.php?page=viewproblem2&cpid=993) | USACO Gold | DP walking / states over graph |
 
 ---
 
@@ -135,6 +142,7 @@ At this tier you push into advanced algorithmic territory. You master bitmask DP
 | 8 | [Milk Visits](https://usaco.org/index.php?page=viewproblem2&cpid=970) | USACO Gold | LCA |
 | 9 | [Planets Queries I](https://cses.fi/problemset/task/1750) | CSES 1750 | Binary lifting (functional graph) |
 | 10 | [Planets Queries II](https://cses.fi/problemset/task/1160) | CSES 1160 | Cycle + binary lifting |
+| 11 | [Snakes](https://usaco.org/index.php?page=viewproblem2&cpid=896) | USACO Gold | Interval limits DP |
 
 ---
 

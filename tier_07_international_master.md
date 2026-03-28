@@ -29,6 +29,8 @@ At this tier you master the most powerful tree decomposition techniques, advance
 | 7 | [Little Elephant and Array](https://codeforces.com/problemset/problem/220/E) | CF 220E | Mo's |
 | 8 | [FREQ2 - Frequency](https://www.spoj.com/problems/FREQ2/) | SPOJ | Mo's |
 | 9 | [COT2 - Count on Tree](https://www.spoj.com/problems/COT2/) | SPOJ | Mo's on tree |
+| 10 | [Path Queries](https://cses.fi/problemset/task/1138) | CSES 1138 | HLD / Euler Tour point updates |
+| 11 | [Distinct Colors](https://cses.fi/problemset/task/1139) | CSES 1139 | Small-to-Large / Mo's on Trees |
 
 ---
 
@@ -77,6 +79,8 @@ At this tier you master the most powerful tree decomposition techniques, advance
 | 5 | [Persistent Segment Tree](https://judge.yosupo.jp/problem/persistent_unionfind) | Library Checker | Persistent DSU |
 | 6 | [Lasting Sorting](https://codeforces.com/problemset/problem/1665/E) | CF 1665E | Persistent |
 | 7 | [XOR on Segment](https://codeforces.com/problemset/problem/1654/F) | CF 1654F | Persistent trie |
+| 8 | ★ [Counting Tilings](https://cses.fi/problemset/task/2181) | CSES 2181 | Broken Profile DP template |
+| 9 | ★ [Giant Pizza](https://cses.fi/problemset/task/1684) | CSES 1684 | 2-SAT Formula constraint solver |
 
 ---
 
