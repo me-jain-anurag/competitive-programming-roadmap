@@ -205,7 +205,37 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 
 ---
 
-## 2.8 Intro to Complexity & Strategy [P4]
+## 2.8 Bit Manipulation & Independence [P2]
+
+**Topics**: AND, OR, XOR, NOT, left/right shifts, checking if a bit is set, bitwise independence (calculating contributions of the 0th to 30th bits separately).
+
+**Patterns**:
+- **Check i-th bit**: `(x >> i) & 1`
+- **Set i-th bit**: `x | (1 << i)`
+- **Clear i-th bit**: `x & ~(1 << i)`
+- **Bitwise Independence**: If you need to find the sum of `a[i] XOR a[j]` for all pairs, you can't do O(N²). Instead, count how many numbers have the k-th bit set (`C`) and unset (`N - C`). The k-th bit contributes `C * (N - C) * (1 << k)` to the total sum.
+- `(a + b) = (a ^ b) + 2 * (a & b)`
+
+**Classical Questions**: Find the single missing number, sum of XORs of all pairs, popcount, find the highest set bit.
+
+| # | Problem | Source | Notes |
+|---|---------|--------|-------|
+| 1 | [Single Number](https://leetcode.com/problems/single-number/) | LC 136 | XOR all elements |
+| 2 | [Missing Number](https://leetcode.com/problems/missing-number/) | LC 268 | XOR range trick |
+| 3 | [Power of Two](https://leetcode.com/problems/power-of-two/) | LC 231 | `x & (x - 1) == 0` |
+| 4 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | LC 191 | Popcount |
+| 5 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | LC 201 | Common prefix |
+| 6 | ★ [Fedor and New Game](https://codeforces.com/problemset/problem/467/B) | CF 467B | Bit difference |
+| 7 | [Raising Bacteria](https://codeforces.com/problemset/problem/579/A) | CF 579A | Popcount math |
+| 8 | ★ [And Then There Were K](https://codeforces.com/problemset/problem/1527/A) | CF 1527A | Highest set bit |
+| 9 | [Mocha and Math](https://codeforces.com/problemset/problem/1559/A) | CF 1559A | Global AND |
+| 10 | ★ [Rock and Lever](https://codeforces.com/problemset/problem/1311/B) | CF 1311B | Highest bit grouping |
+| 11 | [Little Girl and Maximum XOR](https://codeforces.com/problemset/problem/276/D) | CF 276D | Bit matching |
+| 12 | ★ [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | LC 1863 | Independence / Math |
+
+---
+
+## 2.9 Intro to Complexity & Strategy [P4]
 
 **Topics**: Big-O notation intuition, reading constraints to pick algorithms, estimating runtime (10^8 operations ≈ 1 second), amortized analysis intro.
 
@@ -236,7 +266,7 @@ At this tier you move beyond raw implementation into algorithmic thinking. You l
 | Priority | Topics Covered |
 |----------|---------------|
 | [P1] | Prefix Sums & Difference Arrays, Two Pointers & Sliding Window, Stacks & Queues |
-| [P2] | Hash Maps & Frequency Counting, Basic Binary Search |
+| [P2] | Hash Maps & Frequency Counting, Basic Binary Search, Bit Manipulation & Independence |
 | [P3] | Basic Number Theory, Brute Force & Complete Search |
 | [P4] | Complexity Analysis & Strategy |
 
